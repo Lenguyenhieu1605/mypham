@@ -12,5 +12,10 @@ int main() {
         cin >> n;
     } while (n <= 0);
     cout << "Tong cua day so la: " << sum(n)<<endl;
+<<<<<<< HEAD
     
+=======
+    system("pause");
+    return 0;
+>>>>>>> diem
 }

@@ -1,0 +1,9 @@
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.deps.json
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.dll
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb

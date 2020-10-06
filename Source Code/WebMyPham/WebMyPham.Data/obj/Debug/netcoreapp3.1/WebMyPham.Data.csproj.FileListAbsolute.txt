@@ -10,3 +10,15 @@ C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\Web
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache

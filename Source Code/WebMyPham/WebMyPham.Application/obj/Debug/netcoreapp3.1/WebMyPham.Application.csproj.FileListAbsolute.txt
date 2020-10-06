@@ -7,3 +7,12 @@ C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CoreCompileInputs.cache
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb

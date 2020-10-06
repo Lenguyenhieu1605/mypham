@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using WebMyPham.Data.Configurations;
+using WebMyPham.Data.Extensions;
 
 namespace WebMyPham.Data.EF
 {
@@ -16,6 +17,7 @@ namespace WebMyPham.Data.EF
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //configure using Fluent API
             modelBuilder.ApplyConfiguration(new AppConfigConfiguration());
 
             modelBuilder.ApplyConfiguration(new ProductConfiguration());
@@ -36,6 +38,14 @@ namespace WebMyPham.Data.EF
 
             modelBuilder.ApplyConfiguration(new TransactionConfiguration());
 
+            ////data seeding
+            //modelBuilder.Entity<AppConfig>().HasData(
+            //    new AppConfig() { Key = "HomeTitle", Value = "This is home page of ShopHD" },
+            //    new AppConfig() { Key = "HomeKeyword", Value = "This is keyword of ShopHD" },
+            //    new AppConfig() { Key = "HomeDescription", Value = "This is description of ShopHD" }
+
+            //    );
+            modelBuilder.Seed(); //gọi ra tạm
             //base.OnModelCreating(modelBuilder);
         }
 

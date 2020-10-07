@@ -18,7 +18,7 @@ D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.D
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
-D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache

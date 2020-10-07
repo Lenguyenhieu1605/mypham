@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebMyPham.Data.EF;
 
 namespace WebMyPham.Data.Migrations
 {
     [DbContext(typeof(WebMyPhamDbContext))]
-    partial class WebMyPhamDbContextModelSnapshot : ModelSnapshot
+    [Migration("20201007032028_AspNetCoreIdentityDatabase")]
+    partial class AspNetCoreIdentityDatabase
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -92,13 +94,6 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("UserId", "RoleId");
 
                     b.ToTable("AppUserRoles");
-
-                    b.HasData(
-                        new
-                        {
-                            UserId = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
-                            RoleId = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea")
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<System.Guid>", b =>
@@ -175,16 +170,6 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("AppRoles");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"),
-                            ConcurrencyStamp = "c9ce7741-2adb-48ea-837e-0454174af89c",
-                            Description = "Administrator role",
-                            Name = "admin",
-                            NormalizedName = "admin"
-                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.AppUser", b =>
@@ -251,27 +236,6 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("AppUsers");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
-                            AccessFailedCount = 0,
-                            ConcurrencyStamp = "1994f6e6-e840-4721-bc16-d33071e9830f",
-                            Dob = new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Email = "diem99spk@gmail.com",
-                            EmailConfirmed = true,
-                            FirstName = "Diem",
-                            LastName = "Vo",
-                            LockoutEnabled = false,
-                            NormalizedEmail = "diemvo99spk@gmail.com",
-                            NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEJY8QnrUsJfulSe3jZqwOCmGa7pbk3PRy2WNk5wzh6TT3cXKNd/e6F7sTTcCqipRWA==",
-                            PhoneNumberConfirmed = false,
-                            SecurityStamp = "",
-                            TwoFactorEnabled = false,
-                            UserName = "admin"
-                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Cart", b =>
@@ -397,7 +361,7 @@ namespace WebMyPham.Data.Migrations
                     b.Property<DateTime>("OrderDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2020, 10, 7, 10, 52, 21, 493, DateTimeKind.Local).AddTicks(9620));
+                        .HasDefaultValue(new DateTime(2020, 10, 7, 10, 20, 27, 958, DateTimeKind.Local).AddTicks(3126));
 
                     b.Property<string>("ShipAddress")
                         .IsRequired()
@@ -493,7 +457,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2020, 10, 7, 10, 52, 21, 513, DateTimeKind.Local).AddTicks(4189),
+                            DateCreated = new DateTime(2020, 10, 7, 10, 20, 27, 981, DateTimeKind.Local).AddTicks(6021),
                             OriginalPrice = 99000m,
                             Price = 100000m,
                             Stock = 0,

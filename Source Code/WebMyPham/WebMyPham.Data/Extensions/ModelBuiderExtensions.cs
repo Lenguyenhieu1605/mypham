@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -21,7 +22,7 @@ namespace WebMyPham.Data.Extensions
                 );
             //data seeding
             modelBuilder.Entity<Category>().HasData(
-                new Category() { Id =1, IsShowOnHome = true, ParentId = null, SortOrder = 1, Status= Status.Active},
+                new Category() { Id = 1, IsShowOnHome = true, ParentId = null, SortOrder = 1, Status = Status.Active },
                  new Category() { Id = 2, IsShowOnHome = true, ParentId = null, SortOrder = 2, Status = Status.Active }
 
                 );
@@ -34,14 +35,43 @@ namespace WebMyPham.Data.Extensions
                    Price = 100000,
                    Stock = 0,
                    ViewCount = 0,
-                   
+
                });
             modelBuilder.Entity<ProductInCategory>().HasData(
                  new ProductInCategory() { ProductId = 1, CategoryId = 1 }
 
                 );
-                 
+            //any guid
+            var roleId = new Guid("0471FF08-3E9D-4C2E-9748-9A6252B55EEA");
+            var adminId = new Guid("46064BFD-A12E-4CB6-8D63-6F0BA81AA70D");
+            modelBuilder.Entity<AppRole>().HasData(new AppRole
+            {
+                Id = roleId,
+                Name = "admin",
+                NormalizedName = "admin",
+                Description = "Administrator role"
+            });
 
+            var hasher = new PasswordHasher<AppUser>();
+            modelBuilder.Entity<AppUser>().HasData(new AppUser
+            {
+                Id = adminId,
+                UserName = "admin",
+                NormalizedUserName = "admin",
+                Email = "diem99spk@gmail.com",
+                NormalizedEmail = "diemvo99spk@gmail.com",
+                EmailConfirmed = true,
+                PasswordHash = hasher.HashPassword(null, "diem1234@"),
+                SecurityStamp = string.Empty,
+                FirstName = "Diem",
+                LastName = "Vo",
+                Dob = new DateTime(1999, 06, 08)
+            });
+            modelBuilder.Entity<IdentityUserRole<Guid>>().HasData(new IdentityUserRole<Guid>
+            {
+                RoleId = roleId,
+                UserId =adminId
+            });
 
         }
     }

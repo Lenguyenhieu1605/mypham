@@ -5,10 +5,12 @@ using System.Collections.Generic;
 using System.Text;
 using WebMyPham.Data.Configurations;
 using WebMyPham.Data.Extensions;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace WebMyPham.Data.EF
 {
-    public class WebMyPhamDbContext : DbContext
+    public class WebMyPhamDbContext : IdentityDbContext<AppUser,AppRole,Guid>
     {
         public WebMyPhamDbContext(DbContextOptions options) : base(options)
         {
@@ -37,6 +39,22 @@ namespace WebMyPham.Data.EF
             modelBuilder.ApplyConfiguration(new PromotionConfiguration());
 
             modelBuilder.ApplyConfiguration(new TransactionConfiguration());
+
+            modelBuilder.ApplyConfiguration(new AppUserConfiguration());
+
+            modelBuilder.ApplyConfiguration(new AppRoleConfiguration());
+
+            modelBuilder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims");
+
+            modelBuilder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles").HasKey(x => new { x.UserId,x.RoleId });
+
+            modelBuilder.Entity<IdentityUserLogin<Guid>>().ToTable("AppUserLogins").HasKey(x=>x.UserId);
+
+            modelBuilder.Entity<IdentityRoleClaim<Guid>>().ToTable("AppRoleClaims");
+
+            modelBuilder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens").HasKey(x => x.UserId); //định nghĩa phải ghi đè key
+
+
 
             ////data seeding
             //modelBuilder.Entity<AppConfig>().HasData(

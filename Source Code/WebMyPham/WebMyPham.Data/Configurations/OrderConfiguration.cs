@@ -26,6 +26,8 @@ namespace WebMyPham.Data.Configurations
             builder.Property(x => x.ShipName).IsRequired().HasMaxLength(50);
 
             builder.Property(x => x.ShipPhoneNumber).IsRequired().HasMaxLength(10);
+            builder.HasOne(x => x.AppUser).WithMany(x => x.Orders).HasForeignKey(x => x.UserID);
+
         }
     }
 }

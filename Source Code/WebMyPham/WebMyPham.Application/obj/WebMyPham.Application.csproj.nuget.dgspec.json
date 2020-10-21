@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {}
+    "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {}
   },
   "projects": {
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {
+    "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
         "projectName": "WebMyPham.Application",
-        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
+        "projectPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\obj\\",
+        "outputPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
-                "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj"
+              "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+                "projectPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj"
               }
             }
           }
@@ -59,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+    "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "projectName": "WebMyPham.Data",
-        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\obj\\",
+        "outputPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

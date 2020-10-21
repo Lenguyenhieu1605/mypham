@@ -77,5 +77,7 @@ namespace WebMyPham.Data.EF
         public DbSet<OrderDetail> OrderDetails { get; set; }
         public DbSet<Promotion> Promotions { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
+        public DbSet<ProductDetail> ProductDetails { get; set; }
+
     }
 }

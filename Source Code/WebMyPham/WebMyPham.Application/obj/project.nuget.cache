@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BluJP6PmGNRIkRuG+v0/F8l1fhcT/fD7DFOyypY3cG5c/IMrzXSj/a7BT90/jt5HqCAJS8OGmXNjv8hKOdTY3w==",
+  "dgSpecHash": "t31hJx9hbgJHQsIMH64jsO0/a0zi1ZS2vjln5r5WYdzEyFXWjYULDdoKAxzTfbXe8yPt3L96WFW0W78zEyz9gg==",
   "success": true,
-  "projectFilePath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
+  "projectFilePath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",

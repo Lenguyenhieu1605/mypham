@@ -37,7 +37,17 @@ namespace WebMyPham.Data.Extensions
                    ViewCount = 0,
 
                });
-            modelBuilder.Entity<ProductInCategory>().HasData(
+            modelBuilder.Entity<ProductDetail>().HasData(
+               new ProductDetail()
+               {
+                   Id = 1,
+                   ProductId = 1,
+                   Name = "Son 3CE",
+                   Details = "Son 3CE Velvet Tint",
+                   Description = "Son 3CE Velvet Tint"
+               });
+
+          modelBuilder.Entity<ProductInCategory>().HasData(
                  new ProductInCategory() { ProductId = 1, CategoryId = 1 }
 
                 );

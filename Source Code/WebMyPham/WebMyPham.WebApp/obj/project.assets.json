@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
+      "projectUniqueName": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
       "projectName": "WebMyPham.WebApp",
-      "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
+      "projectPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.WebApp\\obj\\",
+      "outputPath": "D:\\nam4\\TLCN\\Source Code\\WebMyPham\\WebMyPham.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

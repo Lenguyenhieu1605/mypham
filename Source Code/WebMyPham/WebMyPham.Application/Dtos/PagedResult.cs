@@ -4,9 +4,9 @@ using System.Text;
 
 namespace WebMyPham.Application.Dtos
 {
-    public class PagedViewModel<T>
+    public class PagedResult<T>
     {
-        List<T> items { get; set; } //generic // có thể dùng cho tất cả đối tượng khác nhau
+        public List<T> Items { get; set; } //generic // có thể dùng cho tất cả đối tượng khác nhau
         public int TotalRecord {set;get;}
     }
 }

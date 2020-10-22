@@ -210,7 +210,7 @@ namespace WebMyPham.Data.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    OrderDate = table.Column<DateTime>(nullable: false, defaultValue: new DateTime(2020, 10, 21, 12, 58, 8, 438, DateTimeKind.Local).AddTicks(7524)),
+                    OrderDate = table.Column<DateTime>(nullable: false, defaultValue: new DateTime(2020, 10, 21, 13, 13, 13, 170, DateTimeKind.Local).AddTicks(9040)),
                     UserID = table.Column<Guid>(nullable: false),
                     ShipName = table.Column<string>(maxLength: 50, nullable: false),
                     ShipEmail = table.Column<string>(unicode: false, maxLength: 50, nullable: false),
@@ -370,7 +370,7 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.InsertData(
                 table: "AppRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Description", "Name", "NormalizedName" },
-                values: new object[] { new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"), "b8641061-03b7-4711-8eb7-a7ca67d2534f", "Administrator role", "admin", "admin" });
+                values: new object[] { new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"), "e7b858d0-d2c6-4239-9db2-eedd5c73d596", "Administrator role", "admin", "admin" });
 
             migrationBuilder.InsertData(
                 table: "AppUserRoles",
@@ -380,7 +380,7 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.InsertData(
                 table: "AppUsers",
                 columns: new[] { "Id", "AccessFailedCount", "ConcurrencyStamp", "Dob", "Email", "EmailConfirmed", "FirstName", "LastName", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName" },
-                values: new object[] { new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"), 0, "e7b93276-47ef-411a-9b54-95226b21334c", new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified), "diem99spk@gmail.com", true, "Diem", "Vo", false, null, "diemvo99spk@gmail.com", "admin", "AQAAAAEAACcQAAAAEN9HqcENx+wgmRjdFQ+EbfjbJSfd0yQqBqHfgKj7LUtxjLGFIZ6rxJ3LZE0xNxGyLg==", null, false, "", false, "admin" });
+                values: new object[] { new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"), 0, "8ae81790-7b77-4a4b-bbc5-d74d8ecf476c", new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified), "diem99spk@gmail.com", true, "Diem", "Vo", false, null, "diemvo99spk@gmail.com", "admin", "AQAAAAEAACcQAAAAEFoOCKoH/p46Zg5WjkmNvJsJ06xGg0AhTjw9OfLcjG6LLQPv2DgUMvwVR4hSauHUyg==", null, false, "", false, "admin" });
 
             migrationBuilder.InsertData(
                 table: "Categories",
@@ -394,7 +394,7 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.InsertData(
                 table: "Products",
                 columns: new[] { "Id", "DateCreated", "OriginalPrice", "Price", "SeoAlias" },
-                values: new object[] { 1, new DateTime(2020, 10, 21, 12, 58, 8, 452, DateTimeKind.Local).AddTicks(3924), 99000m, 100000m, null });
+                values: new object[] { 1, new DateTime(2020, 10, 21, 13, 13, 13, 188, DateTimeKind.Local).AddTicks(5178), 99000m, 100000m, null });
 
             migrationBuilder.InsertData(
                 table: "ProductDetails",

@@ -10,16 +10,118 @@ using WebMyPham.Data.EF;
 namespace WebMyPham.Data.Migrations
 {
     [DbContext(typeof(WebMyPhamDbContext))]
-    [Migration("20201005161109_Initial")]
+    [Migration("20201021061313_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.1")
+                .HasAnnotation("ProductVersion", "3.1.8")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<System.Guid>", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("ClaimType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ClaimValue")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid>("RoleId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AppRoleClaims");
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<System.Guid>", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("ClaimType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ClaimValue")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AppUserClaims");
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<System.Guid>", b =>
+                {
+                    b.Property<Guid>("UserId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("LoginProvider")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProviderDisplayName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProviderKey")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("AppUserLogins");
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserRole<System.Guid>", b =>
+                {
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("RoleId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("UserId", "RoleId");
+
+                    b.ToTable("AppUserRoles");
+
+                    b.HasData(
+                        new
+                        {
+                            UserId = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
+                            RoleId = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea")
+                        });
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<System.Guid>", b =>
+                {
+                    b.Property<Guid>("UserId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("LoginProvider")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Value")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("AppUserTokens");
+                });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.AppConfig", b =>
                 {
@@ -33,6 +135,145 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("Key");
 
                     b.ToTable("AppConfigs");
+
+                    b.HasData(
+                        new
+                        {
+                            Key = "HomeTitle",
+                            Value = "This is home page of ShopHD"
+                        },
+                        new
+                        {
+                            Key = "HomeKeyword",
+                            Value = "This is keyword of ShopHD"
+                        },
+                        new
+                        {
+                            Key = "HomeDescription",
+                            Value = "This is description of ShopHD"
+                        });
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.AppRole", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NormalizedName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AppRoles");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"),
+                            ConcurrencyStamp = "e7b858d0-d2c6-4239-9db2-eedd5c73d596",
+                            Description = "Administrator role",
+                            Name = "admin",
+                            NormalizedName = "admin"
+                        });
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.AppUser", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("AccessFailedCount")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Dob")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EmailConfirmed")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<bool>("LockoutEnabled")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTimeOffset?>("LockoutEnd")
+                        .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("NormalizedEmail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NormalizedUserName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PasswordHash")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("PhoneNumberConfirmed")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("SecurityStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("TwoFactorEnabled")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("UserName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AppUsers");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
+                            AccessFailedCount = 0,
+                            ConcurrencyStamp = "8ae81790-7b77-4a4b-bbc5-d74d8ecf476c",
+                            Dob = new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Email = "diem99spk@gmail.com",
+                            EmailConfirmed = true,
+                            FirstName = "Diem",
+                            LastName = "Vo",
+                            LockoutEnabled = false,
+                            NormalizedEmail = "diemvo99spk@gmail.com",
+                            NormalizedUserName = "admin",
+                            PasswordHash = "AQAAAAEAACcQAAAAEFoOCKoH/p46Zg5WjkmNvJsJ06xGg0AhTjw9OfLcjG6LLQPv2DgUMvwVR4hSauHUyg==",
+                            PhoneNumberConfirmed = false,
+                            SecurityStamp = "",
+                            TwoFactorEnabled = false,
+                            UserName = "admin"
+                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Cart", b =>
@@ -63,6 +304,8 @@ namespace WebMyPham.Data.Migrations
 
                     b.HasIndex("ProductId");
 
+                    b.HasIndex("UserId");
+
                     b.ToTable("Carts");
                 });
 
@@ -90,6 +333,22 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            IsShowOnHome = true,
+                            SortOrder = 1,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            IsShowOnHome = true,
+                            SortOrder = 2,
+                            Status = 1
+                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Contact", b =>
@@ -140,7 +399,7 @@ namespace WebMyPham.Data.Migrations
                     b.Property<DateTime>("OrderDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2020, 10, 5, 23, 11, 8, 606, DateTimeKind.Local).AddTicks(3853));
+                        .HasDefaultValue(new DateTime(2020, 10, 21, 13, 13, 13, 170, DateTimeKind.Local).AddTicks(9040));
 
                     b.Property<string>("ShipAddress")
                         .IsRequired()
@@ -170,6 +429,8 @@ namespace WebMyPham.Data.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("UserID");
 
                     b.ToTable("Orders");
                 });
@@ -229,6 +490,53 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            DateCreated = new DateTime(2020, 10, 21, 13, 13, 13, 188, DateTimeKind.Local).AddTicks(5178),
+                            OriginalPrice = 99000m,
+                            Price = 100000m,
+                            Stock = 0,
+                            ViewCount = 0
+                        });
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.ProductDetail", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Details")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductDetails");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Son 3CE Velvet Tint",
+                            Details = "Son 3CE Velvet Tint",
+                            Name = "Son 3CE",
+                            ProductId = 1
+                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.ProductInCategory", b =>
@@ -244,6 +552,13 @@ namespace WebMyPham.Data.Migrations
                     b.HasIndex("ProductId");
 
                     b.ToTable("ProductInCategories");
+
+                    b.HasData(
+                        new
+                        {
+                            CategoryId = 1,
+                            ProductId = 1
+                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Promotion", b =>
@@ -321,7 +636,12 @@ namespace WebMyPham.Data.Migrations
                     b.Property<DateTime>("TransactionDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Transactions");
                 });
@@ -331,6 +651,21 @@ namespace WebMyPham.Data.Migrations
                     b.HasOne("WebMyPham.Data.Entities.Product", "Product")
                         .WithMany("Carts")
                         .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WebMyPham.Data.Entities.AppUser", "AppUser")
+                        .WithMany("Carts")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.Order", b =>
+                {
+                    b.HasOne("WebMyPham.Data.Entities.AppUser", "AppUser")
+                        .WithMany("Orders")
+                        .HasForeignKey("UserID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
@@ -350,6 +685,15 @@ namespace WebMyPham.Data.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("WebMyPham.Data.Entities.ProductDetail", b =>
+                {
+                    b.HasOne("WebMyPham.Data.Entities.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("WebMyPham.Data.Entities.ProductInCategory", b =>
                 {
                     b.HasOne("WebMyPham.Data.Entities.Category", "Category")
@@ -361,6 +705,15 @@ namespace WebMyPham.Data.Migrations
                     b.HasOne("WebMyPham.Data.Entities.Product", "Product")
                         .WithMany("ProductInCategories")
                         .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.Transaction", b =>
+                {
+                    b.HasOne("WebMyPham.Data.Entities.AppUser", "AppUser")
+                        .WithMany("Transactions")
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

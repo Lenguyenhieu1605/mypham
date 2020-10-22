@@ -180,7 +180,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"),
-                            ConcurrencyStamp = "b8641061-03b7-4711-8eb7-a7ca67d2534f",
+                            ConcurrencyStamp = "623d7584-1143-4183-8d79-3487a7599ad0",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -257,7 +257,7 @@ namespace WebMyPham.Data.Migrations
                         {
                             Id = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "e7b93276-47ef-411a-9b54-95226b21334c",
+                            ConcurrencyStamp = "c0d8744a-21c0-4d0a-b13a-c2c11b575081",
                             Dob = new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "diem99spk@gmail.com",
                             EmailConfirmed = true,
@@ -266,7 +266,7 @@ namespace WebMyPham.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "diemvo99spk@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEN9HqcENx+wgmRjdFQ+EbfjbJSfd0yQqBqHfgKj7LUtxjLGFIZ6rxJ3LZE0xNxGyLg==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEFUPf2X0DpLquUI3Ri5hOJU8i5Kybz4lPi93Af0u4YMZGT41KcU/5NTNnmBVHB9jNQ==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -395,9 +395,7 @@ namespace WebMyPham.Data.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<DateTime>("OrderDate")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2020, 10, 21, 12, 58, 8, 438, DateTimeKind.Local).AddTicks(7524));
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("ShipAddress")
                         .IsRequired()
@@ -493,7 +491,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2020, 10, 21, 12, 58, 8, 452, DateTimeKind.Local).AddTicks(3924),
+                            DateCreated = new DateTime(2020, 10, 22, 9, 23, 21, 806, DateTimeKind.Local).AddTicks(8540),
                             OriginalPrice = 99000m,
                             Price = 100000m,
                             Stock = 0,
@@ -506,16 +504,21 @@ namespace WebMyPham.Data.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
+                        .HasAnnotation("SqlServer:IdentityIncrement", 1)
+                        .HasAnnotation("SqlServer:IdentitySeed", 1)
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Details")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(500)")
+                        .HasMaxLength(500);
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
 
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
@@ -535,6 +538,46 @@ namespace WebMyPham.Data.Migrations
                             Name = "Son 3CE",
                             ProductId = 1
                         });
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.ProductImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:IdentityIncrement", 1)
+                        .HasAnnotation("SqlServer:IdentitySeed", 1)
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Caption")
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<DateTime>("DateCreated")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("FileSize")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ImagePath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<bool>("IsDefaut")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SortOrder")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductImages");
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.ProductInCategory", b =>
@@ -686,7 +729,16 @@ namespace WebMyPham.Data.Migrations
             modelBuilder.Entity("WebMyPham.Data.Entities.ProductDetail", b =>
                 {
                     b.HasOne("WebMyPham.Data.Entities.Product", "Product")
-                        .WithMany()
+                        .WithMany("ProductDetails")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.ProductImage", b =>
+                {
+                    b.HasOne("WebMyPham.Data.Entities.Product", "Product")
+                        .WithMany("ProductImages")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();

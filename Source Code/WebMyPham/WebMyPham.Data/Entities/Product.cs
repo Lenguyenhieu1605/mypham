@@ -20,5 +20,9 @@ namespace WebMyPham.Data.Entities
         public List<OrderDetail> OrderDetails { get; set; }
 
         public List<Cart> Carts { get; set; }
+
+        public List<ProductDetail> ProductDetails { get; set; }
+
+        public List<ProductImage> ProductImages { get; set; }
     }
 }

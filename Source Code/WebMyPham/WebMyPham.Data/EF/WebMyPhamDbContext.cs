@@ -24,6 +24,8 @@ namespace WebMyPham.Data.EF
 
             modelBuilder.ApplyConfiguration(new ProductConfiguration());
 
+            modelBuilder.ApplyConfiguration(new ProductDetailConfiguration());
+
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
 
             modelBuilder.ApplyConfiguration(new ProductInCategoryConfiguration());
@@ -43,6 +45,8 @@ namespace WebMyPham.Data.EF
             modelBuilder.ApplyConfiguration(new AppUserConfiguration());
 
             modelBuilder.ApplyConfiguration(new AppRoleConfiguration());
+
+            modelBuilder.ApplyConfiguration(new ProductImageConfiguration());
 
             modelBuilder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims");
 
@@ -78,6 +82,6 @@ namespace WebMyPham.Data.EF
         public DbSet<Promotion> Promotions { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
         public DbSet<ProductDetail> ProductDetails { get; set; }
-
+        public DbSet<ProductImage> ProductImages { get; set; }
     }
 }

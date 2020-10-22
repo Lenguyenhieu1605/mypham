@@ -109,3 +109,40 @@ D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebM
 D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.pdb
 D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.genruntimeconfig.cache
 D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csproj.CopyComplete
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.exe
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.runtimeconfig.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.dll
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.Views.dll
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.Views.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.RazorAssemblyInfo.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.RazorAssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.TagHelpers.input.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.TagHelpers.output.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.RazorCoreGenerate.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.Views.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.WebApp.StaticWebAssets.xml
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.dll
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csproj.CopyComplete

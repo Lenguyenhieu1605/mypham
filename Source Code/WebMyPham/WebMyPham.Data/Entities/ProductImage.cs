@@ -13,7 +13,7 @@ namespace WebMyPham.Data.Entities
         public bool IsDefaut { get; set; }
         public DateTime DateCreated { get; set; }
         public int SortOrder { get; set; }          //thứ tự ảnh
-        public int FileSize { get; set; }
+        public long FileSize { get; set; }
         public Product Product { get; set; }
     }
 }

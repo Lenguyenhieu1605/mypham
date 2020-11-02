@@ -180,7 +180,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"),
-                            ConcurrencyStamp = "623d7584-1143-4183-8d79-3487a7599ad0",
+                            ConcurrencyStamp = "27783fa3-ef25-4f9a-94f4-5ebfb9ba245c",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -257,7 +257,7 @@ namespace WebMyPham.Data.Migrations
                         {
                             Id = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "c0d8744a-21c0-4d0a-b13a-c2c11b575081",
+                            ConcurrencyStamp = "ef93ed5a-d420-4741-97b1-455dcc051b70",
                             Dob = new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "diem99spk@gmail.com",
                             EmailConfirmed = true,
@@ -266,7 +266,7 @@ namespace WebMyPham.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "diemvo99spk@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEFUPf2X0DpLquUI3Ri5hOJU8i5Kybz4lPi93Af0u4YMZGT41KcU/5NTNnmBVHB9jNQ==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEIKpxkGF4lEMA7N62ej9ABJPNGOQnjSILZSk+CThL6qtKTMPQ7ebrwqMUkA3XttTzA==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -491,7 +491,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2020, 10, 22, 9, 23, 21, 806, DateTimeKind.Local).AddTicks(8540),
+                            DateCreated = new DateTime(2020, 10, 29, 18, 12, 51, 423, DateTimeKind.Local).AddTicks(206),
                             OriginalPrice = 99000m,
                             Price = 100000m,
                             Stock = 0,
@@ -556,8 +556,8 @@ namespace WebMyPham.Data.Migrations
                     b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("FileSize")
-                        .HasColumnType("int");
+                    b.Property<long>("FileSize")
+                        .HasColumnType("bigint");
 
                     b.Property<string>("ImagePath")
                         .IsRequired()

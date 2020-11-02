@@ -83,5 +83,6 @@ namespace WebMyPham.Data.EF
         public DbSet<Transaction> Transactions { get; set; }
         public DbSet<ProductDetail> ProductDetails { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
+        //public object ProductTranslations { get; set; }
     }
 }

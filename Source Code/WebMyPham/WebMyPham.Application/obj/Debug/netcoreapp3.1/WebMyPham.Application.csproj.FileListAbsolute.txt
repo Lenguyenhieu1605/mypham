@@ -45,3 +45,7 @@ C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Application\obj\Deb
 C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb
 C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
 C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb

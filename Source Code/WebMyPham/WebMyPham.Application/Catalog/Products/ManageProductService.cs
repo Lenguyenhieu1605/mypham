@@ -1,15 +1,20 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
-using WebMyPham.Application.Catalog.Products.Dtos;
-using WebMyPham.Application.Catalog.Products.Dtos.Manage;
-using WebMyPham.Application.Dtos;
+using WebMyPham.Application.Common;
 using WebMyPham.Data.EF;
 using WebMyPham.Data.Entities;
 using WebMyPham.Utilities.Exceptions;
+using WebMyPham.ViewModels.Catalog.Products;
+using WebMyPham.ViewModels.Catalog.Products.Manage;
+using WebMyPham.ViewModels.Common;
 
 namespace WebMyPham.Application.Catalog.Products
 {
@@ -17,9 +22,18 @@ namespace WebMyPham.Application.Catalog.Products
     public class ManageProductService : IManageProductService   //kế thừa từ Imanage
     {
         private readonly WebMyPhamDbContext _context; //chỉ gán 1 lần
-        public ManageProductService(WebMyPhamDbContext context)
+        private readonly IStorageService _storageService;
+        public ManageProductService(WebMyPhamDbContext context, IStorageService storageService)
         {
             _context = context;
+            _storageService = storageService;
+        }
+
+        public async Task<int> AddImages(int productId, List<IFormFile> files)
+        {
+            throw new NotImplementedException();
+            //var product = await _context.Products.FindAsync(productId);
+            //return product;
         }
 
         public async Task AddViewCount(int productId)
@@ -30,7 +44,7 @@ namespace WebMyPham.Application.Catalog.Products
 
             await _context.SaveChangesAsync();
         }
-
+        //tạo mới product
         public async Task<int> Create(ProductCreateRequest request)
         {
             var product = new Product()
@@ -50,10 +64,26 @@ namespace WebMyPham.Application.Catalog.Products
                     }
                 }
             };
-
+            //save image// save ảnh 
+            if (request.ThumbnailImage != null) //kiểm tra khác null thì vào phương thức save file
+            {
+                product.ProductImages = new List<ProductImage>()
+                {
+                    new ProductImage()
+                    {
+                        Caption = "Thumbnail image",
+                        DateCreated = DateTime.Now,
+                        FileSize = request.ThumbnailImage.Length,
+                        ImagePath = await this.SaveFile(request.ThumbnailImage),
+                        IsDefaut = true,
+                        SortOrder = 1
+                    }
+                };
+            }
             _context.Products.Add(product); //giảm thời gian chờ
 
-            return await _context.SaveChangesAsync();  //
+            await _context.SaveChangesAsync();  //
+            return product.Id;
         }
 
         public async Task<int> Delete(int productId)
@@ -61,14 +91,18 @@ namespace WebMyPham.Application.Catalog.Products
             var product = await _context.Products.FindAsync(productId);
 
             if (product == null)
-                throw new WebMyPhamException($"Cannot find a product: {productId}");
-
+                throw new WebMyPhamException($"Cannot find a product: {productId}"); //lấy ds ảnh
+            var images = _context.ProductImages.Where(i => i.ProductId == productId);
+            foreach (var image in images) 
+            {
+                await _storageService.DeleteFileAsync(image.ImagePath); //nếu còn thì xóa tên ảnh đi
+            }
             _context.Products.Remove(product);
 
             return await _context.SaveChangesAsync();
         }
 
-        public async Task<PagedResult<ProductViewModel>> GetAllPaging(GetProductPagingRequest request)
+        public async Task<PagedResult<ProductViewModel>> GetAllPaging(GetManageProductPagingRequest request)
         {
             //Buoc 1: Select join
             var query = from p in _context.Products
@@ -114,7 +148,42 @@ namespace WebMyPham.Application.Catalog.Products
             return pagedResult;
         }
 
-        public async Task<int> Update(ProductUpdateRequest request)
+        public async Task<ProductViewModel> GetById(int productId)
+        {
+            //throw new NotImplementedException();
+            var product = await _context.Products.FindAsync(productId);
+            var productdetail = await _context.ProductDetails.FindAsync(productId);
+            //var productTranslation = await _context.ProductTranslations.FirstOrDefaultAsync(X500DistinguishedName => X500DistinguishedName.ProductId == productId);
+            var productViewModel = new ProductViewModel()
+            {
+                Id = product.Id,
+                DateCreated = product.DateCreated,
+                //Description = productTranslation !=null ?? productTranslation.Description,
+                OriginalPrice = product.OriginalPrice,
+                Price = product.Price,
+                Stock = product.Stock,
+                Name = productdetail.Name,
+                ViewCount = product.ViewCount,
+                Description = productdetail.Description,
+                Details = productdetail.Details
+
+
+            };
+            return productViewModel;
+
+        }
+
+        public Task<List<ProductImageViewModel>> GetListImage(int productId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<int> RemoveImages(int imageId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<int> Update(ProductUpdateRequest request) //update
         {
             var product = await _context.Products.FindAsync(request.Id);
 
@@ -128,8 +197,24 @@ namespace WebMyPham.Application.Catalog.Products
             productDetails.Description = request.Description;
 
             productDetails.Details = request.Details;
+            //save image// save ảnh
+            if (request.ThumbnailImage != null)
+            {
+                var thumbnailImage = await _context.ProductImages.FirstOrDefaultAsync(i => i.IsDefaut == true && i.ProductId == request.Id);
+                if (thumbnailImage != null)
+                {
+                    thumbnailImage.FileSize = request.ThumbnailImage.Length;
+                    thumbnailImage.ImagePath = await this.SaveFile(request.ThumbnailImage);
+                    _context.ProductImages.Update(thumbnailImage);
+                }
+            }
 
             return await _context.SaveChangesAsync();
+        }
+
+        public Task<int> UpdateImage(int imageId, string caption, bool isDefault)
+        {
+            throw new NotImplementedException();
         }
 
         public async Task<bool> UpdatePrice(int productId, decimal newPrice)
@@ -155,6 +240,13 @@ namespace WebMyPham.Application.Catalog.Products
 
             return await _context.SaveChangesAsync() > 0;
         }
-
+        private async Task<string> SaveFile(IFormFile file)
+        {
+           //lấy ra dc file name, gọi phương thức storget
+            var originalFileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
+            var fileName = $"{Guid.NewGuid()}{Path.GetExtension(originalFileName)}";
+            await _storageService.SaveFileAsync(file.OpenReadStream(), fileName);
+            return fileName;
+        }
     }
 }

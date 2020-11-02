@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using WebMyPham.Application.Catalog.Products.Dtos;
-using WebMyPham.Application.Catalog.Products.Dtos.Public;
-using WebMyPham.Application.Dtos;
 using WebMyPham.Data.EF;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using WebMyPham.ViewModels.Catalog.Products;
+using WebMyPham.ViewModels.Common;
+
 
 namespace WebMyPham.Application.Catalog.Products
 {
@@ -18,7 +16,31 @@ namespace WebMyPham.Application.Catalog.Products
         {
             _context = context;
         }
-        public async Task<PagedResult<ProductViewModel>> GetAllByCategoryId(GetProcductPagingRequest request)
+
+        public async Task<List<ProductViewModel>> GetAll()
+        {
+            var query = from p in _context.Products
+                        join pd in _context.ProductDetails on p.Id equals pd.ProductId
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
+                        join c in _context.Categories on pic.ProductId equals c.Id
+                        select new { p, pd, pic };
+            var data = await query.Select(x => new ProductViewModel()     //x là kết quả tìm kiếm được
+                {
+                    Id = x.p.Id,
+                    Name = x.pd.Name,
+                    DateCreated = x.p.DateCreated,
+                    Description = x.pd.Description,
+                    Details = x.pd.Details,
+                    OriginalPrice = x.p.OriginalPrice,
+                    Price = x.p.Price,
+                    Stock = x.p.Stock,
+                    ViewCount = x.p.ViewCount
+                }).ToListAsync();
+            return data;
+            //throw new System.NotImplementedException();
+        }
+
+        public async Task<PagedResult<ProductViewModel>> GetAllByCategoryId(GetPublicProductPagingRequest request)
         {
             //Buoc 1: Select join
             var query = from p in _context.Products

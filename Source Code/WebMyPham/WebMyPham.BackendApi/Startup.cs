@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -12,7 +13,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using WebMyPham.Application.Catalog.Products;
 using WebMyPham.Application.Common;
+using WebMyPham.Application.System.Users;
 using WebMyPham.Data.EF;
+using WebMyPham.Data.Entities;
 using WebMyPham.Utilities.Constants;
 
 namespace WebMyPham.BackendApi
@@ -31,10 +34,19 @@ namespace WebMyPham.BackendApi
         {
             services.AddDbContext<WebMyPhamDbContext>(options => //sd trực tiêp connect với sql 
                 options.UseSqlServer(Configuration.GetConnectionString(SystemConstants.MainConnectionString)));
+
+            services.AddIdentity<AppUser, AppRole>()
+                .AddEntityFrameworkStores<WebMyPhamDbContext>()
+                .AddDefaultTokenProviders();
             //Declare DI : khai báo Ipublicproduct khởi tạo ra gì
             services.AddTransient<IStorageService, FileStorageService>();
             services.AddTransient<IPublicProductService, PublicProductService>(); //khởi tạo ra public chỉ ra đối tượng để transien  
             services.AddTransient<IManageProductService, ManageProductService>();                                                        //services.AddTransient<IStorageService, FileStorageService>(); //transien mỗi lần requesst object thì sẽ tạo mới
+            services.AddTransient<UserManager<AppUser>, UserManager<AppUser>>();
+            services.AddTransient<UserManager<AppUser>, UserManager<AppUser>>();
+            services.AddTransient<SignInManager<AppUser>, SignInManager<AppUser>>();
+            services.AddTransient<RoleManager<AppRole>, RoleManager<AppRole>>();
+            services.AddTransient<IUserService, UserService>();
 
             //services.AddTransient<IProductService, ProductService>();
             //services.AddTransient<ICategoryService, CategoryService>();

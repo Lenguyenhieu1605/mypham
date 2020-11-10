@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QsNKSPv+XbPEJdEor6n/pYGzooSQc0WxexF6e6IkpvbapDWeU1VT0+njgvSexpKSEPvG7FuYmBvV2L7IFDZr8g==",
+  "dgSpecHash": "KO8l5drjn7IVTfRNAZneaVxDJlP7Q0XMrkV14SE++UqhfEh5Rywg4VfWPX37oHjzxeOM0AgVP844JF/RLWrdYA==",
   "success": true,
-  "projectFilePath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.9\\microsoft.aspnetcore.http.features.3.1.9.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+    "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.9\\microsoft.aspnetcore.http.features.3.1.9.nupkg.sha512",
+    "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\Han Tran\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
   ],
   "logs": []
 }

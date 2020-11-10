@@ -16,3 +16,12 @@ D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.U
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.dll
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\bin\Debug\netstandard2.0\WebMyPham.Utilities.deps.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\bin\Debug\netstandard2.0\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\bin\Debug\netstandard2.0\WebMyPham.Utilities.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.pdb

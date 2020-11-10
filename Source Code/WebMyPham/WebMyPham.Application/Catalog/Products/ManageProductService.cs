@@ -12,6 +12,7 @@ using WebMyPham.Application.Common;
 using WebMyPham.Data.EF;
 using WebMyPham.Data.Entities;
 using WebMyPham.Utilities.Exceptions;
+using WebMyPham.ViewModels.Catalog.ProductImages;
 using WebMyPham.ViewModels.Catalog.Products;
 using WebMyPham.ViewModels.Catalog.Products.Manage;
 using WebMyPham.ViewModels.Common;
@@ -29,12 +30,41 @@ namespace WebMyPham.Application.Catalog.Products
             _storageService = storageService;
         }
 
-        public async Task<int> AddImages(int productId, List<IFormFile> files)
+        public async Task<int> AddImage(int productId, ProductImageCreateRequest request) //dc implement
         {
-            throw new NotImplementedException();
-            //var product = await _context.Products.FindAsync(productId);
-            //return product;
+            //throw new NotImplementedException();
+            var productImage = new ProductImage()
+            {
+                Caption = request.Caption,
+                DateCreated = DateTime.Now,
+                IsDefaut = request.IsDefaut,
+                ProductId = productId,
+                SortOrder = request.SortOrder
+            };
+            if (request.ImageFile != null)
+            {
+                productImage.ImagePath = await this.SaveFile(request.ImageFile);
+                productImage.FileSize = request.ImageFile.Length;
+            }
+            _context.ProductImages.Add(productImage);
+            await _context.SaveChangesAsync();
+            return productImage.Id;
         }
+
+        //public async Task<int> AddImages(int productId, ProductImageViewModel product) //truyền vào 1 ảnh
+        //{
+        //    //hrow new NotImplementedException();
+        //    //var product = await _context.Products.FindAsync(productId);
+        //    //return product;
+        //    var productImage = new ProductImage()
+        //    {
+        //        Caption = request.Caption,
+        //        DateCreated = DateTime.Now,
+        //        IsDefault = request.IsDefault,
+        //        ProductId = productId,
+        //        SortOrder = request.SortOrder
+        //    };
+        //}
 
         public async Task AddViewCount(int productId)
         {
@@ -93,7 +123,7 @@ namespace WebMyPham.Application.Catalog.Products
             if (product == null)
                 throw new WebMyPhamException($"Cannot find a product: {productId}"); //lấy ds ảnh
             var images = _context.ProductImages.Where(i => i.ProductId == productId);
-            foreach (var image in images) 
+            foreach (var image in images)
             {
                 await _storageService.DeleteFileAsync(image.ImagePath); //nếu còn thì xóa tên ảnh đi
             }
@@ -106,8 +136,8 @@ namespace WebMyPham.Application.Catalog.Products
         {
             //Buoc 1: Select join
             var query = from p in _context.Products
-                        join pd in _context.ProductDetails on p.Id equals pd.ProductId          
-                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId   
+                        join pd in _context.ProductDetails on p.Id equals pd.ProductId
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
                         join c in _context.Categories on pic.ProductId equals c.Id
                         select new { p, pd, pic };
 
@@ -115,7 +145,7 @@ namespace WebMyPham.Application.Catalog.Products
             if (!string.IsNullOrEmpty(request.Keyword))
                 query = query.Where(x => x.pd.Name.Contains(request.Keyword));
 
-            if(request.CategoryIds.Count>0)
+            if (request.CategoryIds.Count > 0)
             {
                 query = query.Where(p => request.CategoryIds.Contains(p.pic.CategoryId));
             }
@@ -173,15 +203,63 @@ namespace WebMyPham.Application.Catalog.Products
 
         }
 
-        public Task<List<ProductImageViewModel>> GetListImage(int productId)
+        public async Task<ProductImageViewModel> GetImageById(int imageId)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            var image = await _context.ProductImages.FindAsync(imageId);
+            if (image == null)
+                throw new WebMyPhamException($"Cannot find an image with id {imageId}");
+
+            var viewModel = new ProductImageViewModel()
+            {
+                Caption = image.Caption,
+                DateCreated = image.DateCreated,
+                FileSize = image.FileSize,
+                Id = image.Id,
+                ImagePath = image.ImagePath,
+                IsDefaut = image.IsDefaut,
+                ProductId = image.ProductId,
+                SortOrder = image.SortOrder
+            };
+            return viewModel;
         }
 
-        public Task<int> RemoveImages(int imageId)
+        public async Task<List<ProductImageViewModel>> GetListImage(int productId)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            return await _context.ProductImages.Where(x => x.ProductId == productId)
+               .Select(i => new ProductImageViewModel()
+               {
+                   Caption = i.Caption,
+                   DateCreated = i.DateCreated,
+                   FileSize = i.FileSize,
+                   Id = i.Id,
+                   ImagePath = i.ImagePath,
+                   IsDefaut = i.IsDefaut,
+                   ProductId = i.ProductId,
+                   SortOrder = i.SortOrder
+               }).ToListAsync();
         }
+
+        public async Task<int> RemoveImage(int imageId)
+        {
+            //throw new NotImplementedException();
+            var productImage = await _context.ProductImages.FindAsync(imageId);
+            if (productImage == null) //nếu null
+                throw new WebMyPhamException($"Cannot find an image with id {imageId}");
+            _context.ProductImages.Remove(productImage); //nếu k null sẽ contexxt
+            return await _context.SaveChangesAsync(); //return tổng số bảng ghi
+        }
+
+        //public Task<List<ProductImageViewModel>> GetListImage(int productId)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        //public Task<int> RemoveImages(int imageId)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public async Task<int> Update(ProductUpdateRequest request) //update
         {
@@ -189,7 +267,7 @@ namespace WebMyPham.Application.Catalog.Products
 
             var productDetails = await _context.ProductDetails.FirstOrDefaultAsync(x => x.ProductId == request.Id);
 
-            if (product==null || productDetails ==null)
+            if (product == null || productDetails == null)
                 throw new WebMyPhamException($"Cannot find a product with Id: {request.Id}");
 
             productDetails.Name = request.Name;
@@ -212,10 +290,26 @@ namespace WebMyPham.Application.Catalog.Products
             return await _context.SaveChangesAsync();
         }
 
-        public Task<int> UpdateImage(int imageId, string caption, bool isDefault)
+        public async Task<int> UpdateImage(int imageId, ProductImageUpdateRequest request)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            var productImage = await _context.ProductImages.FindAsync(imageId); //đọc
+            if (productImage == null) //nếu trường hợp productimage =nul  => return ra giá trị
+                throw new WebMyPhamException($"Cannot find an image with id {imageId}"); //throw ra exception với imageid truyền vào
+
+            if (request.ImageFile != null) //image khác null 
+            {
+                productImage.ImagePath = await this.SaveFile(request.ImageFile); 
+                productImage.FileSize = request.ImageFile.Length;
+            }
+            _context.ProductImages.Update(productImage);
+            return await _context.SaveChangesAsync();
         }
+
+        //public Task<int> UpdateImage(int imageId, ProductImageViewModel productImage)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public async Task<bool> UpdatePrice(int productId, decimal newPrice)
         {
@@ -242,7 +336,7 @@ namespace WebMyPham.Application.Catalog.Products
         }
         private async Task<string> SaveFile(IFormFile file)
         {
-           //lấy ra dc file name, gọi phương thức storget
+            //lấy ra dc file name, gọi phương thức storget
             var originalFileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
             var fileName = $"{Guid.NewGuid()}{Path.GetExtension(originalFileName)}";
             await _storageService.SaveFileAsync(file.OpenReadStream(), fileName);

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using WebMyPham.ViewModels.Catalog.ProductImages;
 using WebMyPham.ViewModels.Catalog.Products;
 using WebMyPham.ViewModels.Catalog.Products.Manage;
 using WebMyPham.ViewModels.Common;
@@ -19,13 +20,13 @@ namespace WebMyPham.Application.Catalog.Products
         Task<bool> UpdateStock(int productId, int addedQuantity);
         Task AddViewCount(int productId);
         Task<PagedResult<ProductViewModel>> GetAllPaging(GetManageProductPagingRequest request);
-        Task<int> AddImages(int productId, List<IFormFile> files);
+        Task<int> AddImage(int productId, ProductImageCreateRequest request);
 
-        Task<int> RemoveImages(int imageId);
+        Task<int> RemoveImage(int imageId);
 
-        Task<int> UpdateImage(int imageId, string caption, bool isDefault);
-
+        //Task<int> UpdateImage(int imageId, string caption, bool isDefault);
+        Task<int> UpdateImage(int imageId, ProductImageUpdateRequest request);
         Task<List<ProductImageViewModel>> GetListImage(int productId);
-
+        Task<ProductImageViewModel> GetImageById(int imageId);
     }
 }

@@ -50,11 +50,11 @@ namespace WebMyPham.Application.System.Users
             };
 
             //ma hoa
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Tokes:Key"]));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Tokens:Key"]));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(_config["Tokens:Issuer"],
-                _config["Tokens:Issuser"],
+                _config["Tokens:Issuer"],
                 claims,
                 expires: DateTime.Now.AddHours(3),
                 signingCredentials: creds);

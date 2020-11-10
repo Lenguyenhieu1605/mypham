@@ -2,6 +2,44 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "FluentValidation/9.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.AspNetCore/9.2.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "9.2.0",
+          "FluentValidation.DependencyInjectionExtensions": "9.2.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "FluentValidation.DependencyInjectionExtensions/9.2.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "9.2.0",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -10,6 +48,21 @@
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
         }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
         "type": "package",
@@ -2088,6 +2141,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "FluentValidation.AspNetCore": "9.2.0",
           "Microsoft.AspNetCore.Http.Features": "3.1.9"
         },
         "compile": {
@@ -2095,11 +2149,57 @@
         },
         "runtime": {
           "bin/placeholder/WebMyPham.ViewModels.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
   "libraries": {
+    "FluentValidation/9.2.0": {
+      "sha512": "LNUzNXWlBQavU/eB9pf4Tg8TTWgCw8E85OBA1GJv4xkdwuer9FuFLHTBjcYX+gGBkPFc2G+3utzEA4aMhUOL3w==",
+      "type": "package",
+      "path": "fluentvalidation/9.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.9.2.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.AspNetCore/9.2.0": {
+      "sha512": "LOEBZoLPCULAVnRLgxPzF64V2KnMNlWatE6zfLq+h+kgEsPGxl0i/0ky6vNhyRHQkINSqaEBzTCOaQuOvz/d9Q==",
+      "type": "package",
+      "path": "fluentvalidation.aspnetcore/9.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
+        "fluentvalidation.aspnetcore.nuspec",
+        "lib/netcoreapp2.1/FluentValidation.AspNetCore.dll",
+        "lib/netcoreapp2.1/FluentValidation.AspNetCore.xml",
+        "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll",
+        "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/9.2.0": {
+      "sha512": "NZWi2FIRsD/R6JOngv2faT9I8BfKR3hRfxY8DoRUjBkOM6X2LMfmYnTNg/NFjKc8w3bKhVj7n7CxvApTKXetwQ==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml"
+      ]
+    },
     "Humanizer.Core/2.8.26": {
       "sha512": "OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "type": "package",
@@ -2114,6 +2214,21 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
+      "sha512": "sAXFFgsSEYd6PTFCzBKYBlXnb+ncclrQPMyMzARELxBv94Onqtr/JTWKih+NUr/3xR5BAs1xE6boao0Us6xcPA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
@@ -7071,6 +7186,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "FluentValidation.AspNetCore >= 9.2.0",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.8",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3",
       "Swashbuckle.AspNetCore.Swagger >= 5.6.3",
@@ -7131,6 +7248,14 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "FluentValidation.AspNetCore": {
+            "target": "Package",
+            "version": "[9.2.0, )"
+          },
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[3.1.8, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

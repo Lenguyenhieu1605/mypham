@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Rs7yF47oYaPaBtnoxSUTdY1V/ZorOTf0IGmmJj3c7rxR9UgFpA9F949tCBn+iAmbiYpb+GpcGXWVtv+blHLM5g==",
+  "dgSpecHash": "NBj2Ud4zdJh1gYhRV9MX20BdtHXkmVDbWLl4aTYKQ9mXamVP2LrntxbROcL4Vtvok79BIEcXwCFUK4OwRLzPNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Han Tran\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
+    "C:\\Users\\Han Tran\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.2.0\\fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
+    "C:\\Users\\Han Tran\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
     "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
     "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

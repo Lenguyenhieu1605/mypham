@@ -46,5 +46,7 @@ namespace WebMyPham.BackendApi.Controllers
                 return BadRequest("Register is unsuccessful.");
             return Ok();
         }
+
+
     }
 }

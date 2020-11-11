@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{90
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Hosts", "3.Hosts", "{9381F467-7DE1-47F0-9D4F-B388B3D42B27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.AdminApp", "WebMyPham.AdminApp\WebMyPham.AdminApp.csproj", "{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1E384333-689E-485E-8FE9-EEFE5C5F4C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E384333-689E-485E-8FE9-EEFE5C5F4C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E384333-689E-485E-8FE9-EEFE5C5F4C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{4BC96866-B68B-46E0-87D4-7765DA53DD05} = {E70992B7-5E4E-415F-A875-5B37E7F35A81}
 		{4EA175AF-B750-4771-9E4F-284531D44BBC} = {E70992B7-5E4E-415F-A875-5B37E7F35A81}
 		{1E384333-689E-485E-8FE9-EEFE5C5F4C65} = {9381F467-7DE1-47F0-9D4F-B388B3D42B27}
+		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1} = {9381F467-7DE1-47F0-9D4F-B388B3D42B27}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {76D2910D-CAA0-465E-8C30-D41B565CDC40}

@@ -8,7 +8,7 @@ using WebMyPham.ViewModels.Common;
 
 namespace WebMyPham.Application.Catalog.Products
 {
-    public interface IManageProductService
+    public interface IProductService
     {
         //truyền vào dto
         //sd task để dùng asyn , dể tận dụng dc xử lý nhiều request 1 lúc, thay vì trả về ta trả về task
@@ -28,5 +28,7 @@ namespace WebMyPham.Application.Catalog.Products
         Task<int> UpdateImage(int imageId, ProductImageUpdateRequest request);
         Task<List<ProductImageViewModel>> GetListImage(int productId);
         Task<ProductImageViewModel> GetImageById(int imageId);
+        Task<PagedResult<ProductViewModel>> GetAllByCategoryId(GetPublicProductPagingRequest request);
+
     }
 }

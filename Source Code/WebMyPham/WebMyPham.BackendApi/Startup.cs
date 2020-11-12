@@ -47,8 +47,8 @@ namespace WebMyPham.BackendApi
                 .AddDefaultTokenProviders();
             //Declare DI : khai báo Ipublicproduct khởi tạo ra gì
             services.AddTransient<IStorageService, FileStorageService>();
-            services.AddTransient<IPublicProductService, PublicProductService>(); //khởi tạo ra public chỉ ra đối tượng để transien  
-            services.AddTransient<IManageProductService, ManageProductService>();                                                        //services.AddTransient<IStorageService, FileStorageService>(); //transien mỗi lần requesst object thì sẽ tạo mới
+            //services.AddTransient<IPublicProductService, PublicProductService>(); //khởi tạo ra public chỉ ra đối tượng để transien  
+            services.AddTransient<IProductService, ProductService>();                                                        //services.AddTransient<IStorageService, FileStorageService>(); //transien mỗi lần requesst object thì sẽ tạo mới
             services.AddTransient<UserManager<AppUser>, UserManager<AppUser>>();
             
             services.AddTransient<SignInManager<AppUser>, SignInManager<AppUser>>();

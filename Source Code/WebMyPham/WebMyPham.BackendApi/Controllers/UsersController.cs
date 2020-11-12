@@ -31,7 +31,7 @@ namespace WebMyPham.BackendApi.Controllers
             var resultToken = await _userService.Authencate(request);
             if (string.IsNullOrEmpty(resultToken))
                 return BadRequest("Username or password is incorrect.");
-            return Ok(new { token = resultToken });
+            return Ok(resultToken);
         }
 
         [HttpPost("register")]
@@ -45,6 +45,13 @@ namespace WebMyPham.BackendApi.Controllers
             if (!result)
                 return BadRequest("Register is unsuccessful.");
             return Ok();
+        }
+        //http://localhost/api/users/paging?pageIndex=1&pageSize=10&keyword=
+        [HttpGet("paging")]
+        public async Task<IActionResult> GetAllPaging([FromQuery] GetUserPagingRequest request)
+        {
+            var products = await _userService.GetUsersPaging(request);
+            return Ok(products);
         }
 
 

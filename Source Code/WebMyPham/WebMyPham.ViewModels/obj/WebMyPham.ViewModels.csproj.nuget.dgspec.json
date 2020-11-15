@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {}
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {}
   },
   "projects": {
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
         "projectName": "WebMyPham.ViewModels",
-        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\obj\\",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

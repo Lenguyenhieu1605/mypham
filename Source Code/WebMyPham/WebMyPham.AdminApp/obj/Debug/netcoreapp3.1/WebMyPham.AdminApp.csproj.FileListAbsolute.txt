@@ -401,9 +401,6 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\W
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CoreCompileInputs.cache
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cache
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -810,3 +807,7 @@ D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.A
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs

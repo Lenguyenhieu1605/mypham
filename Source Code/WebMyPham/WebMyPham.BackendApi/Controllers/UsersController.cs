@@ -29,8 +29,10 @@ namespace WebMyPham.BackendApi.Controllers
                 return BadRequest(ModelState);
 
             var resultToken = await _userService.Authencate(request);
+
             if (string.IsNullOrEmpty(resultToken))
-                return BadRequest("Username or password is incorrect.");
+                return BadRequest("Username or password is incorrect.");               
+
             return Ok(resultToken);
         }
 
@@ -42,8 +44,10 @@ namespace WebMyPham.BackendApi.Controllers
                 return BadRequest(ModelState);
 
             var result = await _userService.Register(request);
+
             if (!result)
                 return BadRequest("Register is unsuccessful.");
+
             return Ok();
         }
         //http://localhost/api/users/paging?pageIndex=1&pageSize=10&keyword=
@@ -53,6 +57,7 @@ namespace WebMyPham.BackendApi.Controllers
             var products = await _userService.GetUsersPaging(request);
             return Ok(products);
         }
+
 
 
     }

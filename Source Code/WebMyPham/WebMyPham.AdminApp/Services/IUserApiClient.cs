@@ -9,8 +9,15 @@ namespace WebMyPham.AdminApp.Services
 {
     public interface IUserApiClient
     {
-        Task<string> Authenticate(LoginRequest request);
-        Task<PagedResult<UserViewModel>> GetUsersPagings(GetUserPagingRequest request);
-        Task<bool> RegisterUser(RegisterRequest registerRequest); //nhập vào 1 userregisterrequest
+        Task<ApiResult<string>> Authenticate(LoginRequest request);
+
+        Task<ApiResult<PagedResult<UserViewModel>>> GetUsersPagings(GetUserPagingRequest request);
+
+        Task<ApiResult<bool>> RegisterUser(RegisterRequest request); //nhập vào 1 userregisterrequest
+
+        Task<ApiResult<bool>> UpdateUser(Guid id, UserUpdateRequest registerRequest);
+
+        Task<ApiResult<UserViewModel>> GetById(Guid id);
+
     }
 }

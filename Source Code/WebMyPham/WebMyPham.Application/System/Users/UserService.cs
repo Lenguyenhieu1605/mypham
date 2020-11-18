@@ -127,7 +127,9 @@ namespace WebMyPham.Application.System.Users
             //Select and projection
             var pagedResult = new PagedResult<UserViewModel>()
             {
-                TotalRecord = totalRow,
+                TotalRecords = totalRow,
+                PageIndex = request.PageIndex,
+                PageSize = request.PageSize,
                 Items = data
             };
             return new ApiSuccessResult<PagedResult<UserViewModel>>(pagedResult);
@@ -172,9 +174,23 @@ namespace WebMyPham.Application.System.Users
                 FirstName = user.FirstName,
                 Dob = user.Dob,
                 Id = user.Id,
-                LastName = user.LastName
+                LastName = user.LastName,
+                UserName = user.UserName
             };
             return new ApiSuccessResult<UserViewModel>(userVm);
+        }
+
+        public async Task<ApiResult<bool>> Delete(Guid id)
+        {
+            var user = await _userManager.FindByIdAsync(id.ToString());
+
+            if (user == null)
+                return new ApiErrorResult<bool>("User không tồn tại.");
+            var result = await _userManager.DeleteAsync(user);
+
+            if(result.Succeeded)
+                return new ApiSuccessResult<bool>();
+            return new ApiErrorResult<bool>("Xóa không thành công.");
         }
     }
 }

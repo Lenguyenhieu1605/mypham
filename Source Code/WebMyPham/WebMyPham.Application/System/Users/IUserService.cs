@@ -20,5 +20,8 @@ namespace WebMyPham.Application.System.Users
         //lấy ra dc ds user trả về model phân trang
 
         Task<ApiResult<UserViewModel>> GetById(Guid id);
+
+        Task<ApiResult<bool>> Delete(Guid id);
+
     }
 }

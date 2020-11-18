@@ -19,5 +19,7 @@ namespace WebMyPham.AdminApp.Services
 
         Task<ApiResult<UserViewModel>> GetById(Guid id);
 
+        Task<ApiResult<bool>> Delete(Guid id);
+
     }
 }

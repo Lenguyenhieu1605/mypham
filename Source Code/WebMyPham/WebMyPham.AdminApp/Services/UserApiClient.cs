@@ -55,7 +55,7 @@ namespace WebMyPham.AdminApp.Services
         public async Task<bool> RegisterUser(RegisterRequest registerRequest)
         {
             //throw new NotImplementedException();
-            var client = _httpClientFactory.CreateClient();
+            var client = _httpClientFactory.CreateClient(); 
             client.BaseAddress = new Uri(_configuration["BaseAddress"]);
 
             var json = JsonConvert.SerializeObject(registerRequest);

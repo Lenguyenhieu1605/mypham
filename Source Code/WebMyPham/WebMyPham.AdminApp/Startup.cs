@@ -30,10 +30,10 @@ namespace WebMyPham.AdminApp
             services.AddHttpClient();
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-                .AddCookie(option =>
+                .AddCookie(options =>
                 {
-                    option.LoginPath = "/Login/Index";
-                    option.AccessDeniedPath = "/User/Forbidden/";
+                    options.LoginPath = "/Login/Index";
+                    options.AccessDeniedPath = "/User/Forbidden/";
                 });
 
             services.AddControllersWithViews()

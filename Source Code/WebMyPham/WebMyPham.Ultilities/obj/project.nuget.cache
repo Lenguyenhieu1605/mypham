@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "x655V0UtVJiCYEPWuEvGwhKjHgBKvIcLteg/tIa6Rcpy+0uz0rjWxkrqgFwZkcbTBojqnD6OliaBH7ZtHuxFMA==",
+  "dgSpecHash": "80aWfntUoUDV5qy3DIl4X0YNzxoSd1Hhvj6amW2lYzutKsgdLuYRsnotlvbShKMolx8BtxG61G7+VRrOQrU48g==",
   "success": true,
-  "projectFilePath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Han Tran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

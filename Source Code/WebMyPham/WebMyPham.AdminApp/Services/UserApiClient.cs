@@ -51,5 +51,18 @@ namespace WebMyPham.AdminApp.Services
             var users = JsonConvert.DeserializeObject<PagedResult<UserViewModel>>(body);
             return users;
         }
+
+        public async Task<bool> RegisterUser(RegisterRequest registerRequest)
+        {
+            //throw new NotImplementedException();
+            var client = _httpClientFactory.CreateClient();
+            client.BaseAddress = new Uri(_configuration["BaseAddress"]);
+
+            var json = JsonConvert.SerializeObject(registerRequest);
+            var httpContent = new StringContent(json, Encoding.UTF8, "application/json");
+
+            var response = await client.PostAsync($"/api/users", httpContent); //post đến user
+            return response.IsSuccessStatusCode; //kiểm tra IsSuccessStatusCode 
+        }
     }
 }

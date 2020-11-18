@@ -11,5 +11,6 @@ namespace WebMyPham.AdminApp.Services
     {
         Task<string> Authenticate(LoginRequest request);
         Task<PagedResult<UserViewModel>> GetUsersPagings(GetUserPagingRequest request);
+        Task<bool> RegisterUser(RegisterRequest registerRequest); //nhập vào 1 userregisterrequest
     }
 }

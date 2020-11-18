@@ -17,7 +17,7 @@ using WebMyPham.ViewModels.System.Users;
 
 namespace WebMyPham.AdminApp.Controllers
 {
-    public class UserController : Controller
+    public class UserController : BaseController
     {
         private readonly IUserApiClient _userApiClient;
 
@@ -45,40 +45,58 @@ namespace WebMyPham.AdminApp.Controllers
 
             return View(data);
         }
-
-        [HttpGet]
-        public async Task<IActionResult> Login()
+         [HttpGet]
+        public IActionResult Create()
         {
-            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginRequest request)
+        public async Task<IActionResult> Create(RegisterRequest request)
         {
             if (!ModelState.IsValid)
-                return View(ModelState);
+                return View();
 
-            var token = await _userApiClient.Authenticate(request);
+            var result = await _userApiClient.RegisterUser(request);
+            if (result)
+                return RedirectToAction("Index"); //chuyển đến phân trang 
 
-            var userPrincipal = this.ValidateToken(token);
-
-            var authProperties = new AuthenticationProperties
-            {
-                ExpiresUtc = DateTimeOffset.UtcNow.AddMinutes(10),
-                IsPersistent = false
-            };
-
-            HttpContext.Session.SetString("Token", token);
-
-            await HttpContext.SignInAsync(
-                        CookieAuthenticationDefaults.AuthenticationScheme,
-                        userPrincipal,
-                        authProperties);
-
-            return RedirectToAction("Index", "Home");
+            return View(request); 
         }
+
+        //[HttpGet]
+        //public async Task<IActionResult> Login()
+        //{
+        //    await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+
+        //    return View();
+        //}
+
+        //[HttpPost]
+        //public async Task<IActionResult> Login(LoginRequest request)
+        //{
+        //    if (!ModelState.IsValid)
+        //        return View(ModelState);
+
+        //    var token = await _userApiClient.Authenticate(request);
+
+        //    var userPrincipal = this.ValidateToken(token);
+
+        //    var authProperties = new AuthenticationProperties
+        //    {
+        //        ExpiresUtc = DateTimeOffset.UtcNow.AddMinutes(10),
+        //        IsPersistent = false
+        //    };
+
+        //    HttpContext.Session.SetString("Token", token);
+
+        //    await HttpContext.SignInAsync(
+        //                CookieAuthenticationDefaults.AuthenticationScheme,
+        //                userPrincipal,
+        //                authProperties);
+
+        //    return RedirectToAction("Index", "Home");
+        //}
 
         [HttpPost]
         public async Task<IActionResult> Logout()
@@ -91,22 +109,22 @@ namespace WebMyPham.AdminApp.Controllers
 
         }
 
-        private ClaimsPrincipal ValidateToken(string jwtToken)
-        {
-            IdentityModelEventSource.ShowPII = true;
+        //private ClaimsPrincipal ValidateToken(string jwtToken)
+        //{
+        //    IdentityModelEventSource.ShowPII = true;
 
-            SecurityToken validatedToken;
-            TokenValidationParameters validationParameters = new TokenValidationParameters();
+        //    SecurityToken validatedToken;
+        //    TokenValidationParameters validationParameters = new TokenValidationParameters();
 
-            validationParameters.ValidateLifetime = true;
+        //    validationParameters.ValidateLifetime = true;
 
-            validationParameters.ValidAudience = _configuration["Tokens:Issuer"];
-            validationParameters.ValidIssuer = _configuration["Tokens:Issuer"];
-            validationParameters.IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Tokens:Key"]));
+        //    validationParameters.ValidAudience = _configuration["Tokens:Issuer"];
+        //    validationParameters.ValidIssuer = _configuration["Tokens:Issuer"];
+        //    validationParameters.IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Tokens:Key"]));
 
-            ClaimsPrincipal principal = new JwtSecurityTokenHandler().ValidateToken(jwtToken, validationParameters, out validatedToken);
+        //    ClaimsPrincipal principal = new JwtSecurityTokenHandler().ValidateToken(jwtToken, validationParameters, out validatedToken);
 
-            return principal;
-        }
+        //    return principal;
+        //}
     }
 }

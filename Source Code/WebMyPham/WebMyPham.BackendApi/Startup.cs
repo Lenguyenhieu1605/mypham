@@ -17,6 +17,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using WebMyPham.Application.Catalog.Products;
 using WebMyPham.Application.Common;
+using WebMyPham.Application.System.Roles;
 using WebMyPham.Application.System.Users;
 using WebMyPham.Data.EF;
 using WebMyPham.Data.Entities;
@@ -56,7 +57,7 @@ namespace WebMyPham.BackendApi
             services.AddTransient<IUserService, UserService>();
             services.AddTransient<IValidator<LoginRequest>, LoginRequestValidator>();
             services.AddTransient<IValidator<RegisterRequest>, RegisterRequestValidator>();
-
+            services.AddTransient<IRoleService, RoleService>();
             services.AddControllers()
                 .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<LoginRequestValidator>());
             //services.AddTransient<IProductService, ProductService>();

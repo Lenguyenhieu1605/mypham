@@ -17,19 +17,15 @@ namespace WebMyPham.BackendApi.Controllers
     public class RolesController : ControllerBase
     {
         private readonly IRoleService _roleService;
-        private readonly RoleManager<AppRole> _roleManager;
+
         public RolesController(IRoleService roleService)
         {
             _roleService = roleService;
         }
-        public RolesController(RoleManager<AppRole> roleManager)
-        {
-            _roleManager = roleManager;
-        }
+
         [HttpGet]
-        public async Task<IActionResult> GetAll() // bắt buộc đăng nhập
+        public async Task<IActionResult> GetAll()
         {
-            //var roles = await _roleService.GetAll();
             var roles = await _roleService.GetAll();
             return Ok(roles);
         }

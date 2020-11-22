@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.Text;
 using WebMyPham.ViewModels.System.Users;
-
+using Newtonsoft.Json.Converters;
 namespace WebMyPham.AdminApp.Services
 {
     public class RoleApiClient : IRoleApiClient

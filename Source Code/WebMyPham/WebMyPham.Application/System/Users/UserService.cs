@@ -41,12 +41,12 @@ namespace WebMyPham.Application.System.Users
         {
             var user = await _userManager.FindByNameAsync(request.UserName);
 
-            if (user == null) return null;
+            if (user == null) return new ApiErrorResult<string>("Tài khoản không tồn tại");
 
             var result = await _signInManager.PasswordSignInAsync(user, request.Password, request.RememberMe, true);
 
             if (!result.Succeeded)
-                return null;
+                return new ApiErrorResult<string>("Đăng nhập không đúng");
 
             var roles = await _userManager.GetRolesAsync(user);
 
@@ -166,7 +166,7 @@ namespace WebMyPham.Application.System.Users
 
             if (user == null)
                 return new ApiErrorResult<UserViewModel>("User không tồn tại.");
-
+            var roles = await _userManager.GetRolesAsync(user);
             var userVm = new UserViewModel()
             {
                 Email = user.Email,
@@ -175,7 +175,8 @@ namespace WebMyPham.Application.System.Users
                 Dob = user.Dob,
                 Id = user.Id,
                 LastName = user.LastName,
-                UserName = user.UserName
+                UserName = user.UserName,
+                Roles = roles
             };
             return new ApiSuccessResult<UserViewModel>(userVm);
         }
@@ -191,6 +192,36 @@ namespace WebMyPham.Application.System.Users
             if(result.Succeeded)
                 return new ApiSuccessResult<bool>();
             return new ApiErrorResult<bool>("Xóa không thành công.");
+        }
+
+        public async Task<ApiResult<bool>> RoleAssign(Guid id, RoleAssignRequest request)
+        {
+            //throw new NotImplementedException();
+            var user = await _userManager.FindByIdAsync(id.ToString()); //tài khoản k tồn tại
+            if (user == null)
+            {
+                return new ApiErrorResult<bool>("Tài khoản không tồn tại");
+            }
+            var removedRoles = request.Roles.Where(x => x.Selected == false).Select(x => x.Name).ToList(); //kiểm tra role có kiểm tra k thì remove
+            foreach (var roleName in removedRoles)
+            {
+                if (await _userManager.IsInRoleAsync(user, roleName) == true)
+                {
+                    await _userManager.RemoveFromRoleAsync(user, roleName);
+                }
+            }
+            await _userManager.RemoveFromRolesAsync(user, removedRoles);
+
+            var addedRoles = request.Roles.Where(x => x.Selected).Select(x => x.Name).ToList(); //lấy những đứa tồn tại thêm vào
+            foreach (var roleName in addedRoles) //truyền vào user và role name
+            {
+                if (await _userManager.IsInRoleAsync(user, roleName) == false) //chưa nằm thì add vào
+                {
+                    await _userManager.AddToRoleAsync(user, roleName);
+                }
+            }
+
+            return new ApiSuccessResult<bool>();
         }
     }
 }

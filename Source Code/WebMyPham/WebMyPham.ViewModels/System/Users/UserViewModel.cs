@@ -20,5 +20,7 @@ namespace WebMyPham.ViewModels.System.Users
         public string Email { get; set; }
         [Display(Name = "Ngày sinh")]
         public DateTime Dob { get; set; }
+        public IList<string> Roles { get; set; } //lấy ra ds role
+        //public RoleAssignRequest roleAssign { get; set; }
     }
 }

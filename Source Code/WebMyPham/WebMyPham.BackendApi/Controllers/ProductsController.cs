@@ -16,29 +16,21 @@ namespace WebMyPham.BackendApi.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        //private readonly IPublicProductService _publicProductService;
+        
         private readonly IProductService _ProductService;
 
         public ProductsController(IProductService manageProductService)
         {
-            //_publicProductService = publicProductService;
+            
             _ProductService = manageProductService;
         }
-        //http://localhost:port/products
-        //[HttpGet]
-        //public async Task<IActionResult> Get()
-        //{
-        //    var products = await _publicProductService.GetAll(request);
-        //    return Ok(products);
-        //}
-        //http://localhost:port/products?pageIndex=1&pageSize=10&CategoryId=
-        [HttpGet("public-paging")]
-        public async Task<IActionResult> GetAllPaging([FromQuery]GetPublicProductPagingRequest request) //chỉ định dc map từ đâu
+        
+        [HttpGet("paging")]
+        public async Task<IActionResult> GetAllPaging([FromQuery] GetManageProductPagingRequest request) //chỉ định dc map từ đâu
         {
-            var products = await _ProductService.GetAllByCategoryId(request);
+            var products = await _ProductService.GetAllPaging(request);
             return Ok(products);
         }
-        //http://localhost:post/product/1
         [HttpGet("{productId}")] //routing
         public async Task<IActionResult> GetById(int productId)
         {

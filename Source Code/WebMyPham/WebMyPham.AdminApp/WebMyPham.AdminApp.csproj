@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WebMyPham.Ultilities\WebMyPham.Utilities.csproj" />
     <ProjectReference Include="..\WebMyPham.ViewModels\WebMyPham.ViewModels.csproj" />
   </ItemGroup>
 

@@ -43,7 +43,7 @@ namespace WebMyPham.AdminApp.Services
 
         //    return JsonConvert.DeserializeObject<ApiErrorResult<string>>(await response.Content.ReadAsStringAsync());
         //}
-        public async Task<ApiResult<List<RoleVm>>> GetAll()
+        public async Task<ApiResult<List<RoleViewModel>>> GetAll()
         {
             //var json = JsonConvert.SerializeObject(request);
             //var httpContent = new StringContent(json, Encoding.UTF8, "application/json");
@@ -56,10 +56,10 @@ namespace WebMyPham.AdminApp.Services
             var body = await response.Content.ReadAsStringAsync();
             if (response.IsSuccessStatusCode)
             {
-                List<RoleVm> myDeserializedObjList = (List<RoleVm>)JsonConvert.DeserializeObject(body, typeof(List<RoleVm>));
-                return new ApiSuccessResult<List<RoleVm>>(myDeserializedObjList);
+                List<RoleViewModel> myDeserializedObjList = (List<RoleViewModel>)JsonConvert.DeserializeObject(body, typeof(List<RoleViewModel>));
+                return new ApiSuccessResult<List<RoleViewModel>>(myDeserializedObjList);
             }
-            return JsonConvert.DeserializeObject<ApiErrorResult<List<RoleVm>>>(body); // trả về error
+            return JsonConvert.DeserializeObject<ApiErrorResult<List<RoleViewModel>>>(body); // trả về error
         }
     }
 }

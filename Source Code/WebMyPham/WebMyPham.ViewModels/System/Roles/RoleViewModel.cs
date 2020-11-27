@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WebMyPham.ViewModels.System.Roles
 {
-    public class RoleVm
+    public class RoleViewModel
     {
         public Guid Id { get; set; }
 

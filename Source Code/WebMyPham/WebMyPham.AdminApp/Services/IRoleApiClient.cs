@@ -9,6 +9,6 @@ namespace WebMyPham.AdminApp.Services
 {
     public interface IRoleApiClient
     {
-        Task<ApiResult<List<RoleVm>>> GetAll();
+        Task<ApiResult<List<RoleViewModel>>> GetAll();
     }
 }

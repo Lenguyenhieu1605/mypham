@@ -18,11 +18,11 @@ namespace WebMyPham.Application.System.Roles
         {
             _roleManager = roleManager;
         }
-        public async Task<List<RoleVm>> GetAll()
+        public async Task<List<RoleViewModel>> GetAll()
         {
             //throw new NotImplementedException();
             var roles = await _roleManager.Roles
-               .Select(x => new RoleVm()
+               .Select(x => new RoleViewModel()
                {
                    Id = x.Id,
                    Name = x.Name,

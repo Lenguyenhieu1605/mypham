@@ -1,5 +1,7 @@
-﻿using System.Threading.Tasks;
+﻿using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Configuration;
 using WebMyPham.AdminApp.Services;
 using WebMyPham.ViewModels.Catalog.Products;
@@ -10,25 +12,36 @@ namespace WebMyPham.AdminApp.Controllers
     {
         private readonly IProductApiClient _productApiClient;
         private readonly IConfiguration _configuration;
-        
+        private readonly ICategoryApiClient _categoryApiClient;
 
         public ProductController(IProductApiClient productApiClient,
-            IConfiguration configuration)
+            IConfiguration configuration, ICategoryApiClient categoryApiClient)
         {
             _productApiClient = productApiClient;
             _configuration = configuration;
+            _categoryApiClient = categoryApiClient;
         }
-        public async Task<IActionResult> Index(string keyword, int pageIndex = 1, int pageSize = 8)
+        public async Task<IActionResult> Index(string keyword, int? categoryId, int pageIndex = 1, int pageSize = 8)
         {
             var request = new GetManageProductPagingRequest()
             {
                 Keyword = keyword,
                 PageIndex = pageIndex,
-                PageSize = pageSize
+                PageSize = pageSize,
+                CategoryId = categoryId
             };
 
             var data = await _productApiClient.GetPagings(request);
             ViewBag.Keyword = keyword;
+
+            var categories = await _categoryApiClient.GetAll();
+            ViewBag.Categories = categories.Select(x => new SelectListItem()
+            {
+                Text = x.Name,
+                Value = x.Id.ToString(),
+                Selected = categoryId.HasValue && categoryId.Value == x.Id
+            });
+
             if (TempData["result"] != null)
             {
                 ViewBag.SuccessMsg = TempData["result"];

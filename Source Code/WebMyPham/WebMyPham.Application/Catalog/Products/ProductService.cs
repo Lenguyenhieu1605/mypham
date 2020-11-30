@@ -137,18 +137,18 @@ namespace WebMyPham.Application.Catalog.Products
             //Buoc 1: Select join
             var query = from p in _context.Products
                         join pd in _context.ProductDetails on p.Id equals pd.ProductId
-                        //join pic in _context.ProductInCategories on p.Id equals pic.ProductId
-                        //join c in _context.Categories on pic.ProductId equals c.Id
-                        select new { p, pd};
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
+                        join c in _context.Categories on pic.ProductId equals c.Id
+                        select new { p, pd, pic};
 
             //Buoc 2: Filter
             if (!string.IsNullOrEmpty(request.Keyword))
                 query = query.Where(x => x.pd.Name.Contains(request.Keyword));
 
-            //if (request.CategoryIds != null && request.CategoryIds.Count > 0)
-            //{
-            //    query = query.Where(p => request.CategoryIds.Contains(p.pic.CategoryId));
-            //}
+            if (request.CategoryId != null && request.CategoryId != 0)
+            {
+                query = query.Where(p => p.pic.CategoryId == request.CategoryId);
+            }
 
             //Buoc 3: Paging
             int totalRow = await query.CountAsync();

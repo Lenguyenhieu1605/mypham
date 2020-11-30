@@ -22,10 +22,21 @@ namespace WebMyPham.Data.Extensions
                 );
             //data seeding
             modelBuilder.Entity<Category>().HasData(
-                new Category() { Id = 1, IsShowOnHome = true, ParentId = null, SortOrder = 1, Status = Status.Active },
-                 new Category() { Id = 2, IsShowOnHome = true, ParentId = null, SortOrder = 2, Status = Status.Active }
-
-                );
+                new Category() 
+                { 
+                    Id = 1, 
+                    IsShowOnHome = true, 
+                    ParentId = null, 
+                    SortOrder = 1, 
+                    Status = Status.Active 
+                },
+                 new Category() 
+                 { Id = 2, 
+                     IsShowOnHome = true, 
+                     ParentId = null, 
+                     SortOrder = 2, 
+                     Status = Status.Active 
+                 });
             modelBuilder.Entity<Product>().HasData(
                new Product()
                {

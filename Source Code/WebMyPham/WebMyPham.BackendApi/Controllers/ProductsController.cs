@@ -17,24 +17,24 @@ namespace WebMyPham.BackendApi.Controllers
     public class ProductsController : ControllerBase
     {
         
-        private readonly IProductService _ProductService;
+        private readonly IProductService _productService;
 
         public ProductsController(IProductService manageProductService)
         {
-            
-            _ProductService = manageProductService;
+
+            _productService = manageProductService;
         }
         
         [HttpGet("paging")]
         public async Task<IActionResult> GetAllPaging([FromQuery] GetManageProductPagingRequest request) //chỉ định dc map từ đâu
         {
-            var products = await _ProductService.GetAllPaging(request);
+            var products = await _productService.GetAllPaging(request);
             return Ok(products);
         }
         [HttpGet("{productId}")] //routing
         public async Task<IActionResult> GetById(int productId)
         {
-            var product = await _ProductService.GetById(productId);
+            var product = await _productService.GetById(productId);
             if (product == null)
                 return BadRequest("Cannot find product");
             return Ok(product);
@@ -49,11 +49,11 @@ namespace WebMyPham.BackendApi.Controllers
             {
                 return BadRequest(ModelState); //trả về modelstate, ktra vali ok k
             }
-            var productId = await _ProductService.Create(request);
+            var productId = await _productService.Create(request);
             if (productId == 0)
                 return BadRequest();
 
-            var product = await _ProductService.GetById(productId);
+            var product = await _productService.GetById(productId);
 
             return CreatedAtAction(nameof(GetById), new { id = productId }, product);
         }
@@ -67,7 +67,7 @@ namespace WebMyPham.BackendApi.Controllers
                 return BadRequest(ModelState);
             }
             request.Id = productId;
-            var affectedResult = await _ProductService.Update(request);
+            var affectedResult = await _productService.Update(request);
             if (affectedResult == 0)
                 return BadRequest();
             return Ok();
@@ -75,7 +75,7 @@ namespace WebMyPham.BackendApi.Controllers
         [HttpDelete("{productId}")]
         public async Task<IActionResult> Delete(int productId)
         {
-            var affectedResult = await _ProductService.Delete(productId);
+            var affectedResult = await _productService.Delete(productId);
             if (affectedResult == 0)
                 return BadRequest();
             return Ok();
@@ -83,7 +83,7 @@ namespace WebMyPham.BackendApi.Controllers
         [HttpPatch("{productId}/{newPrice}")] //truyền vào, update 1 phần httppatch 
         public async Task<IActionResult> UpdatePrice(int productId, decimal newPrice)
         {
-            var isSuccessful = await _ProductService.UpdatePrice(productId, newPrice);
+            var isSuccessful = await _productService.UpdatePrice(productId, newPrice);
             if (isSuccessful) //trả về
                 return Ok(); //true
 
@@ -97,11 +97,11 @@ namespace WebMyPham.BackendApi.Controllers
             {
                 return BadRequest(ModelState);
             }
-            var imageId = await _ProductService.AddImage(productId, request);
+            var imageId = await _productService.AddImage(productId, request);
             if (imageId == 0)
                 return BadRequest();
 
-            var image = await _ProductService.GetImageById(imageId); //truyền vào image truyền vào
+            var image = await _productService.GetImageById(imageId); //truyền vào image truyền vào
 
             return CreatedAtAction(nameof(GetImageById), new { id = imageId }, image); 
         }
@@ -112,7 +112,7 @@ namespace WebMyPham.BackendApi.Controllers
             {
                 return BadRequest(ModelState);
             }
-            var result = await _ProductService.UpdateImage(imageId, request);
+            var result = await _productService.UpdateImage(imageId, request);
             if (result == 0)
                 return BadRequest();
 
@@ -125,7 +125,7 @@ namespace WebMyPham.BackendApi.Controllers
             {
                 return BadRequest(ModelState);
             }
-            var result = await _ProductService.RemoveImage(imageId);
+            var result = await _productService.RemoveImage(imageId);
             if (result == 0)
                 return BadRequest();
 
@@ -134,7 +134,7 @@ namespace WebMyPham.BackendApi.Controllers
         [HttpGet("{productId}/images/{imageId}")]
         public async Task<IActionResult> GetImageById(int productId, int imageId)
         {
-            var image = await _ProductService.GetImageById(imageId);
+            var image = await _productService.GetImageById(imageId);
             if (image == null)
                 return BadRequest("Cannot find product");
             return Ok(image);

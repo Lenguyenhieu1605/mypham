@@ -69,7 +69,7 @@ namespace WebMyPham.AdminApp.Services
             var data = await base.GetAsync<PagedResult<ProductViewModel>>(
                 $"/api/products/paging?pageIndex={request.PageIndex}" +
                 $"&pageSize={request.PageSize}" + 
-                $"&keyword={request.Keyword}");
+                $"&keyword={request.Keyword}&categoryId={request.CategoryId}");
             
             return data;
         }

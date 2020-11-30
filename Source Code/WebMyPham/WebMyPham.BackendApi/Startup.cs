@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using WebMyPham.Application.Catalog.Categories;
 using WebMyPham.Application.Catalog.Products;
 using WebMyPham.Application.Common;
 using WebMyPham.Application.System.Roles;
@@ -50,6 +51,8 @@ namespace WebMyPham.BackendApi
             services.AddTransient<IStorageService, FileStorageService>();
             //services.AddTransient<IPublicProductService, PublicProductService>(); //khởi tạo ra public chỉ ra đối tượng để transien  
             services.AddTransient<IProductService, ProductService>();                                                        //services.AddTransient<IStorageService, FileStorageService>(); //transien mỗi lần requesst object thì sẽ tạo mới
+            services.AddTransient<ICategoryService, CategoryService>();                                                        //services.AddTransient<IStorageService, FileStorageService>(); //transien mỗi lần requesst object thì sẽ tạo mới
+
             services.AddTransient<UserManager<AppUser>, UserManager<AppUser>>();
             
             services.AddTransient<SignInManager<AppUser>, SignInManager<AppUser>>();

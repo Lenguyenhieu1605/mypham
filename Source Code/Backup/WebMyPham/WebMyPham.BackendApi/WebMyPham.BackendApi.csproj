@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebMyPham.Application\WebMyPham.Application.csproj" />
+    <ProjectReference Include="..\WebMyPham.Data\WebMyPham.Data.csproj" />
+    <ProjectReference Include="..\WebMyPham.Utilities\WebMyPham.Utilities.csproj" />
+    <ProjectReference Include="..\WebMyPham.ViewModels\WebMyPham.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj": {}
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
         "projectName": "WebMyPham.Application",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Application\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj"
               },
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj"
               },
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
               }
             }
           }
@@ -60,7 +60,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj",
         "projectName": "WebMyPham.BackendApi",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.BackendApi\\WebMyPham.BackendApi.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.BackendApi\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.BackendApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,17 +125,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Application\\WebMyPham.Application.csproj"
               },
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj"
               },
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj"
               },
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
+              "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
               }
             }
           }
@@ -149,6 +149,34 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -171,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "projectName": "WebMyPham.Data",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Data\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,7 +247,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -259,14 +287,14 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj",
         "projectName": "WebMyPham.Utilities",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\WebMyPham.Utilities.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -313,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
         "projectName": "WebMyPham.ViewModels",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",

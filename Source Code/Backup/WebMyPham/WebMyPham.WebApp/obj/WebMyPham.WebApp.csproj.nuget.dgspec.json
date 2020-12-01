@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {}
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
         "projectName": "WebMyPham.WebApp",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {}
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
         "projectName": "WebMyPham.ViewModels",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
         "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Backup\\WebMyPham\\WebMyPham.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\Backup\\WebMyPham\\WebMyPham.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",

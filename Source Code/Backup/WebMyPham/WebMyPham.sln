@@ -13,13 +13,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Infrastructure", "1.Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{29F3087B-DDC0-40B1-9D9B-849C49D7880F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.Utilities", "WebMyPham.Utilities\WebMyPham.Utilities.csproj", "{60233024-87FE-4931-ABFD-D8AA52A4BC74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMyPham.Utilities", "WebMyPham.Utilities\WebMyPham.Utilities.csproj", "{60233024-87FE-4931-ABFD-D8AA52A4BC74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.ViewModels", "WebMyPham.ViewModels\WebMyPham.ViewModels.csproj", "{DB7F51EA-2F28-4FAB-886D-57271BBF6C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMyPham.ViewModels", "WebMyPham.ViewModels\WebMyPham.ViewModels.csproj", "{DB7F51EA-2F28-4FAB-886D-57271BBF6C5D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Hosts", "3.Hosts", "{CF535C37-89E1-4023-871A-2D5E117B16D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.BackendApi", "WebMyPham.BackendApi\WebMyPham.BackendApi.csproj", "{E8823FEB-8BC2-456D-80F0-97F6B3DD27D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMyPham.BackendApi", "WebMyPham.BackendApi\WebMyPham.BackendApi.csproj", "{E8823FEB-8BC2-456D-80F0-97F6B3DD27D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.AdminApp", "WebMyPham.AdminApp\WebMyPham.AdminApp.csproj", "{27C41D6E-283E-4693-953C-0494242A6639}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E8823FEB-8BC2-456D-80F0-97F6B3DD27D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8823FEB-8BC2-456D-80F0-97F6B3DD27D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8823FEB-8BC2-456D-80F0-97F6B3DD27D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C41D6E-283E-4693-953C-0494242A6639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C41D6E-283E-4693-953C-0494242A6639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C41D6E-283E-4693-953C-0494242A6639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C41D6E-283E-4693-953C-0494242A6639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{60233024-87FE-4931-ABFD-D8AA52A4BC74} = {604C61BE-D5BE-41B0-B825-643BFE8100C9}
 		{DB7F51EA-2F28-4FAB-886D-57271BBF6C5D} = {604C61BE-D5BE-41B0-B825-643BFE8100C9}
 		{E8823FEB-8BC2-456D-80F0-97F6B3DD27D9} = {CF535C37-89E1-4023-871A-2D5E117B16D3}
+		{27C41D6E-283E-4693-953C-0494242A6639} = {CF535C37-89E1-4023-871A-2D5E117B16D3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC52A2CD-4BFF-4B28-832A-2B6803AC0E72}

@@ -27,3 +27,19 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\B
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CopyComplete
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CopyComplete
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb

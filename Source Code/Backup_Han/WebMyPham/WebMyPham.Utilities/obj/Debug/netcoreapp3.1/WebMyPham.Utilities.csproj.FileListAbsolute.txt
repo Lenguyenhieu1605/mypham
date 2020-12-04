@@ -1,0 +1,27 @@
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.deps.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\Backup_Diem\WebMyPham\WebMyPham.Utilities\obj\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb

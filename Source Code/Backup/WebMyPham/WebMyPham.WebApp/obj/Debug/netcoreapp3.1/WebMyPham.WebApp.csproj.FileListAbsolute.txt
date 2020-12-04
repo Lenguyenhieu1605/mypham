@@ -72,3 +72,4 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\B
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.pdb
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.genruntimeconfig.cache
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csproj.CopyComplete
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\Backup\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\appsettings.Production.json

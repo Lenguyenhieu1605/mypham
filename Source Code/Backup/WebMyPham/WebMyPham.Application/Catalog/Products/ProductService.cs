@@ -58,6 +58,36 @@ namespace WebMyPham.Application.Catalog.Products
             await _context.SaveChangesAsync();
         }
 
+        public async Task<ApiResult<bool>> CategoryAssign(int id, CategoryAssignRequest request)
+        {
+            var product = await _context.Products.FindAsync(id); 
+            if (product == null)
+            {
+                return new ApiErrorResult<bool>($"Sản phẩm với id {id} không tồn tại");
+            }
+            foreach (var category in request.Categories)
+            {
+                var productInCategory = await _context.ProductInCategories
+                    .FirstOrDefaultAsync(x => x.CategoryId == int.Parse(category.Id)
+                    && x.ProductId == id);
+
+                if (productInCategory != null && category.Selected == false)
+                {
+                    _context.ProductInCategories.Remove(productInCategory);
+                }
+                else if (productInCategory == null && category.Selected == true)
+                {
+                    await _context.ProductInCategories.AddAsync(new ProductInCategory()
+                    {
+                        CategoryId = int.Parse(category.Id),
+                        ProductId = id
+                    });
+                }
+            }
+            await _context.SaveChangesAsync();
+            return new ApiSuccessResult<bool>();
+        }
+
         public async Task<int> Create(ProductCreateRequest request)
         {
             var product = new Product()
@@ -161,12 +191,14 @@ namespace WebMyPham.Application.Catalog.Products
 
         public async Task<PagedResult<ProductViewModel>> GetAllPaging(GetManageProductPagingRequest request)
         {
-            //Buoc 1: Select join
+            //Buoc 1: Select join (left join)
             var query = from p in _context.Products
                         join pd in _context.ProductDetails on p.Id equals pd.ProductId
-                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
-                        join c in _context.Categories on pic.ProductId equals c.Id
-                        select new { p, pd, pic };
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId into ppic
+                        from pic in ppic.DefaultIfEmpty()
+                        join c in _context.Categories on pic.ProductId equals c.Id into picc
+                        from c in picc.DefaultIfEmpty()
+                        select new { p, pd, pic};
 
             //Buoc 2: Filter
             if (!string.IsNullOrEmpty(request.Keyword))
@@ -210,7 +242,13 @@ namespace WebMyPham.Application.Catalog.Products
         {
             var product = await _context.Products.FindAsync(productId);
             var productdetail = await _context.ProductDetails.FindAsync(productId);
-            //var productTranslation = await _context.ProductTranslations.FirstOrDefaultAsync(X500DistinguishedName => X500DistinguishedName.ProductId == productId);
+
+            var categories = await (from c in _context.Categories
+                                    join ct in _context.CategoryTranslations on c.Id equals ct.CategoryId
+                                    join pic in _context.ProductInCategories on c.Id equals pic.CategoryId
+                                    where pic.ProductId == productId
+                                    select ct.Name).ToListAsync();
+
             var productViewModel = new ProductViewModel()
             {
                 Id = product.Id,
@@ -222,8 +260,8 @@ namespace WebMyPham.Application.Catalog.Products
                 Name = productdetail.Name,
                 ViewCount = product.ViewCount,
                 Description = productdetail.Description,
-                Details = productdetail.Details
-
+                Details = productdetail.Details,
+                Categories = categories
 
             };
             return productViewModel;

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace WebMyPham.ViewModels.Catalog.Products
 {
@@ -15,5 +14,6 @@ namespace WebMyPham.ViewModels.Catalog.Products
         public string Name { set; get; }
         public string Description { set; get; }
         public string Details { set; get; }
+        public List<string> Categories { get; set; } = new List<string>();
     }
 }

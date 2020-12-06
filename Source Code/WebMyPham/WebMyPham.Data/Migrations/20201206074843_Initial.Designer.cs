@@ -10,14 +10,14 @@ using WebMyPham.Data.EF;
 namespace WebMyPham.Data.Migrations
 {
     [DbContext(typeof(WebMyPhamDbContext))]
-    [Migration("20201029111252_ChangeFileLengthType")]
-    partial class ChangeFileLengthType
+    [Migration("20201206074843_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.8")
+                .HasAnnotation("ProductVersion", "3.1.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -182,7 +182,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"),
-                            ConcurrencyStamp = "27783fa3-ef25-4f9a-94f4-5ebfb9ba245c",
+                            ConcurrencyStamp = "57e3ea02-e9bb-409d-b10e-5f30787cf8a5",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -259,7 +259,7 @@ namespace WebMyPham.Data.Migrations
                         {
                             Id = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "ef93ed5a-d420-4741-97b1-455dcc051b70",
+                            ConcurrencyStamp = "e65ba6f4-949e-4812-99e0-d69bb14cc79c",
                             Dob = new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "diem99spk@gmail.com",
                             EmailConfirmed = true,
@@ -268,7 +268,7 @@ namespace WebMyPham.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "diemvo99spk@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEIKpxkGF4lEMA7N62ej9ABJPNGOQnjSILZSk+CThL6qtKTMPQ7ebrwqMUkA3XttTzA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEEf1sW3OwEKxN1Ph6cGwbFJEl5/pOWq83dX2hmJ7FBLlIdhRcvITBNsTRe+NWPijOw==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -349,6 +349,30 @@ namespace WebMyPham.Data.Migrations
                             SortOrder = 2,
                             Status = 1
                         });
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.CategoryTranslation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:IdentityIncrement", 1)
+                        .HasAnnotation("SqlServer:IdentitySeed", 1)
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("CategoryTranslations");
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Contact", b =>
@@ -493,7 +517,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2020, 10, 29, 18, 12, 51, 423, DateTimeKind.Local).AddTicks(206),
+                            DateCreated = new DateTime(2020, 12, 6, 14, 48, 42, 977, DateTimeKind.Local).AddTicks(7037),
                             OriginalPrice = 99000m,
                             Price = 100000m,
                             Stock = 0,
@@ -700,6 +724,15 @@ namespace WebMyPham.Data.Migrations
                     b.HasOne("WebMyPham.Data.Entities.AppUser", "AppUser")
                         .WithMany("Carts")
                         .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.CategoryTranslation", b =>
+                {
+                    b.HasOne("WebMyPham.Data.Entities.Category", "Category")
+                        .WithMany("CategoryTranslations")
+                        .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

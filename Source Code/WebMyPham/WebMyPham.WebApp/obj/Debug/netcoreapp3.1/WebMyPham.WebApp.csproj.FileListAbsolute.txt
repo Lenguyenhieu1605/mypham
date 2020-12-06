@@ -37,7 +37,6 @@ C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\W
 C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csproj.CopyComplete
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\appsettings.json
-D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.exe
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.deps.json
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\bin\Debug\netcoreapp3.1\WebMyPham.WebApp.runtimeconfig.json
@@ -183,3 +182,4 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\W
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.pdb
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.genruntimeconfig.cache
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\WebMyPham.WebApp.csproj.CopyComplete
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebMyPham.WebApp.styles.css

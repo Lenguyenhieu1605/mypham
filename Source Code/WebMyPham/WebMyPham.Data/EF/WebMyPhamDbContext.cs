@@ -27,6 +27,7 @@ namespace WebMyPham.Data.EF
             modelBuilder.ApplyConfiguration(new ProductDetailConfiguration());
 
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryTranslationConfiguration());
 
             modelBuilder.ApplyConfiguration(new ProductInCategoryConfiguration());
 
@@ -73,6 +74,7 @@ namespace WebMyPham.Data.EF
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CategoryTranslation> CategoryTranslations { get; set; }
         public DbSet<AppConfig> AppConfigs { get; set; }
         public DbSet<Cart> Carts { get; set; }
         public DbSet<ProductInCategory> ProductInCategories { get; set; }

@@ -210,7 +210,7 @@ namespace WebMyPham.Data.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    OrderDate = table.Column<DateTime>(nullable: false, defaultValue: new DateTime(2020, 10, 21, 13, 13, 13, 170, DateTimeKind.Local).AddTicks(9040)),
+                    OrderDate = table.Column<DateTime>(nullable: false),
                     UserID = table.Column<Guid>(nullable: false),
                     ShipName = table.Column<string>(maxLength: 50, nullable: false),
                     ShipEmail = table.Column<string>(unicode: false, maxLength: 50, nullable: false),
@@ -257,6 +257,26 @@ namespace WebMyPham.Data.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "CategoryTranslations",
+                columns: table => new
+                {
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CategoryId = table.Column<int>(nullable: false),
+                    Name = table.Column<string>(maxLength: 200, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CategoryTranslations", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_CategoryTranslations_Categories_CategoryId",
+                        column: x => x.CategoryId,
+                        principalTable: "Categories",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Carts",
                 columns: table => new
                 {
@@ -292,15 +312,40 @@ namespace WebMyPham.Data.Migrations
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     ProductId = table.Column<int>(nullable: false),
-                    Name = table.Column<string>(nullable: true),
+                    Name = table.Column<string>(maxLength: 200, nullable: false),
                     Description = table.Column<string>(nullable: true),
-                    Details = table.Column<string>(nullable: true)
+                    Details = table.Column<string>(maxLength: 500, nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_ProductDetails", x => x.Id);
                     table.ForeignKey(
                         name: "FK_ProductDetails_Products_ProductId",
+                        column: x => x.ProductId,
+                        principalTable: "Products",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "ProductImages",
+                columns: table => new
+                {
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    ProductId = table.Column<int>(nullable: false),
+                    ImagePath = table.Column<string>(maxLength: 200, nullable: false),
+                    Caption = table.Column<string>(maxLength: 200, nullable: true),
+                    IsDefaut = table.Column<bool>(nullable: false),
+                    DateCreated = table.Column<DateTime>(nullable: false),
+                    SortOrder = table.Column<int>(nullable: false),
+                    FileSize = table.Column<long>(nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ProductImages", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_ProductImages_Products_ProductId",
                         column: x => x.ProductId,
                         principalTable: "Products",
                         principalColumn: "Id",
@@ -370,7 +415,7 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.InsertData(
                 table: "AppRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Description", "Name", "NormalizedName" },
-                values: new object[] { new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"), "e7b858d0-d2c6-4239-9db2-eedd5c73d596", "Administrator role", "admin", "admin" });
+                values: new object[] { new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"), "57e3ea02-e9bb-409d-b10e-5f30787cf8a5", "Administrator role", "admin", "admin" });
 
             migrationBuilder.InsertData(
                 table: "AppUserRoles",
@@ -380,7 +425,7 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.InsertData(
                 table: "AppUsers",
                 columns: new[] { "Id", "AccessFailedCount", "ConcurrencyStamp", "Dob", "Email", "EmailConfirmed", "FirstName", "LastName", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName" },
-                values: new object[] { new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"), 0, "8ae81790-7b77-4a4b-bbc5-d74d8ecf476c", new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified), "diem99spk@gmail.com", true, "Diem", "Vo", false, null, "diemvo99spk@gmail.com", "admin", "AQAAAAEAACcQAAAAEFoOCKoH/p46Zg5WjkmNvJsJ06xGg0AhTjw9OfLcjG6LLQPv2DgUMvwVR4hSauHUyg==", null, false, "", false, "admin" });
+                values: new object[] { new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"), 0, "e65ba6f4-949e-4812-99e0-d69bb14cc79c", new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified), "diem99spk@gmail.com", true, "Diem", "Vo", false, null, "diemvo99spk@gmail.com", "admin", "AQAAAAEAACcQAAAAEEf1sW3OwEKxN1Ph6cGwbFJEl5/pOWq83dX2hmJ7FBLlIdhRcvITBNsTRe+NWPijOw==", null, false, "", false, "admin" });
 
             migrationBuilder.InsertData(
                 table: "Categories",
@@ -394,7 +439,7 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.InsertData(
                 table: "Products",
                 columns: new[] { "Id", "DateCreated", "OriginalPrice", "Price", "SeoAlias" },
-                values: new object[] { 1, new DateTime(2020, 10, 21, 13, 13, 13, 188, DateTimeKind.Local).AddTicks(5178), 99000m, 100000m, null });
+                values: new object[] { 1, new DateTime(2020, 12, 6, 14, 48, 42, 977, DateTimeKind.Local).AddTicks(7037), 99000m, 100000m, null });
 
             migrationBuilder.InsertData(
                 table: "ProductDetails",
@@ -417,6 +462,11 @@ namespace WebMyPham.Data.Migrations
                 column: "UserId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_CategoryTranslations_CategoryId",
+                table: "CategoryTranslations",
+                column: "CategoryId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_OrderDetails_ProductId",
                 table: "OrderDetails",
                 column: "ProductId");
@@ -429,6 +479,11 @@ namespace WebMyPham.Data.Migrations
             migrationBuilder.CreateIndex(
                 name: "IX_ProductDetails_ProductId",
                 table: "ProductDetails",
+                column: "ProductId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_ProductImages_ProductId",
+                table: "ProductImages",
                 column: "ProductId");
 
             migrationBuilder.CreateIndex(
@@ -469,6 +524,9 @@ namespace WebMyPham.Data.Migrations
                 name: "Carts");
 
             migrationBuilder.DropTable(
+                name: "CategoryTranslations");
+
+            migrationBuilder.DropTable(
                 name: "Contacts");
 
             migrationBuilder.DropTable(
@@ -476,6 +534,9 @@ namespace WebMyPham.Data.Migrations
 
             migrationBuilder.DropTable(
                 name: "ProductDetails");
+
+            migrationBuilder.DropTable(
+                name: "ProductImages");
 
             migrationBuilder.DropTable(
                 name: "ProductInCategories");

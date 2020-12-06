@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebMyPham.Application.Catalog.Products;
@@ -38,6 +39,14 @@ namespace WebMyPham.BackendApi.Controllers
             if (product == null)
                 return BadRequest("Cannot find product");
             return Ok(product);
+        }
+
+        [HttpGet("featured/{take}")]
+        [AllowAnonymous]
+        public async Task<IActionResult> GetFeaturedProducts(int take)
+        {
+            var products = await _productService.GetFeaturedProducts(take);
+            return Ok(products);
         }
 
         [HttpPost]
@@ -138,6 +147,20 @@ namespace WebMyPham.BackendApi.Controllers
             if (image == null)
                 return BadRequest("Cannot find product");
             return Ok(image);
+        }
+
+        [HttpPut("{id}/categories")]
+        public async Task<IActionResult> CategoryAssign(int id, [FromBody] CategoryAssignRequest request)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var result = await _productService.CategoryAssign(id, request);
+            if (!result.IsSuccessed)
+            {
+                return BadRequest(result);
+            }
+            return Ok(result);
         }
     }
 }

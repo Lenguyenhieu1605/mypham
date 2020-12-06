@@ -24,6 +24,8 @@ namespace WebMyPham.ViewModels.Catalog.Products
         [Display(Name = "Số lượng tồn kho")]
         [Required(ErrorMessage = "Bạn phải nhập số lượng sản phẩm")]
         public int Stock { get; set; }
+        [Display(Name = "Sản phẩm nổi bật")]
+        public bool? IsFeatured { get; set; }
         public IFormFile ThumbnailImage { get; set; } //install
     }
 }

@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Logging;
 using Microsoft.IdentityModel.Tokens;
-using WebMyPham.AdminApp.Services;
+using WebMyPham.ApiIntegration;
 using WebMyPham.ViewModels.Common;
 using WebMyPham.ViewModels.System.Users;
 

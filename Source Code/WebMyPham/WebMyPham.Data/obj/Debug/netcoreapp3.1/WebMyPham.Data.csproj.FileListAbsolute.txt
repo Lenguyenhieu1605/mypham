@@ -54,7 +54,7 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\W
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache

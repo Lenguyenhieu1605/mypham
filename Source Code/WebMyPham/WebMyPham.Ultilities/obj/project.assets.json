@@ -180,23 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Han Tran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
       "projectName": "WebMyPham.Utilities",
-      "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\obj\\",
+      "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+      "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Ultilities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -21,7 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{90
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Hosts", "3.Hosts", "{9381F467-7DE1-47F0-9D4F-B388B3D42B27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.AdminApp", "WebMyPham.AdminApp\WebMyPham.AdminApp.csproj", "{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMyPham.AdminApp", "WebMyPham.AdminApp\WebMyPham.AdminApp.csproj", "{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMyPham.ApiIntegration", "WebMyPham.ApiIntegration\WebMyPham.ApiIntegration.csproj", "{FCD08D01-90EE-4930-846F-1DFC87AA35BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD08D01-90EE-4930-846F-1DFC87AA35BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD08D01-90EE-4930-846F-1DFC87AA35BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD08D01-90EE-4930-846F-1DFC87AA35BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD08D01-90EE-4930-846F-1DFC87AA35BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{4EA175AF-B750-4771-9E4F-284531D44BBC} = {E70992B7-5E4E-415F-A875-5B37E7F35A81}
 		{1E384333-689E-485E-8FE9-EEFE5C5F4C65} = {9381F467-7DE1-47F0-9D4F-B388B3D42B27}
 		{E362A6E8-4EF9-44F8-8D71-11E94DC219D1} = {9381F467-7DE1-47F0-9D4F-B388B3D42B27}
+		{FCD08D01-90EE-4930-846F-1DFC87AA35BB} = {9381F467-7DE1-47F0-9D4F-B388B3D42B27}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {76D2910D-CAA0-465E-8C30-D41B565CDC40}

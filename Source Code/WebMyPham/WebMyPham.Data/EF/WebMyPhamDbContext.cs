@@ -49,6 +49,8 @@ namespace WebMyPham.Data.EF
 
             modelBuilder.ApplyConfiguration(new ProductImageConfiguration());
 
+            modelBuilder.ApplyConfiguration(new SlideConfiguration());
+
             modelBuilder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims");
 
             modelBuilder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles").HasKey(x => new { x.UserId,x.RoleId });
@@ -59,15 +61,6 @@ namespace WebMyPham.Data.EF
 
             modelBuilder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens").HasKey(x => x.UserId); //định nghĩa phải ghi đè key
 
-
-
-            ////data seeding
-            //modelBuilder.Entity<AppConfig>().HasData(
-            //    new AppConfig() { Key = "HomeTitle", Value = "This is home page of ShopHD" },
-            //    new AppConfig() { Key = "HomeKeyword", Value = "This is keyword of ShopHD" },
-            //    new AppConfig() { Key = "HomeDescription", Value = "This is description of ShopHD" }
-
-            //    );
             modelBuilder.Seed(); //gọi ra tạm
             //base.OnModelCreating(modelBuilder);
         }
@@ -85,6 +78,7 @@ namespace WebMyPham.Data.EF
         public DbSet<Transaction> Transactions { get; set; }
         public DbSet<ProductDetail> ProductDetails { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
+        public DbSet<Slide> Slides { get; set; }
         //public object ProductTranslations { get; set; }
     }
 }

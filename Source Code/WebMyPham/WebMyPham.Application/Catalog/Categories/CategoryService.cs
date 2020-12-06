@@ -20,11 +20,12 @@ namespace WebMyPham.Application.Catalog.Categories
         public async Task<List<CategoryViewModel>> GetAll()
         {
             var query = from c in _context.Categories
-                        select new { c};
+                        join ct in _context.CategoryTranslations on c.Id equals ct.CategoryId
+                        select new { c, ct };
             return await query.Select(x => new CategoryViewModel()
             {
-                Id = x.c.Id
-                
+                Id = x.c.Id,
+                Name = x.ct.Name
             }).ToListAsync();
         }
     }

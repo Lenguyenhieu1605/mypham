@@ -74,7 +74,6 @@ D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.B
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.BackendApi\obj\Debug\netcoreapp3.1\WebMyPham.BackendApi.MvcApplicationPartsAssemblyInfo.cs
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.BackendApi\obj\Debug\netcoreapp3.1\WebMyPham.BackendApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\WebMyPham.BackendApi.exe
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\WebMyPham.BackendApi.deps.json
@@ -170,17 +169,6 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\W
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
@@ -228,3 +216,15 @@ D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.B
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebMyPham.BackendApi.styles.css
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll

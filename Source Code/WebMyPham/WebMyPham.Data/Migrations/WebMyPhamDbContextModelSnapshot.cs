@@ -180,7 +180,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = new Guid("0471ff08-3e9d-4c2e-9748-9a6252b55eea"),
-                            ConcurrencyStamp = "57e3ea02-e9bb-409d-b10e-5f30787cf8a5",
+                            ConcurrencyStamp = "29df79f0-c3b9-4acc-9e01-b6e67982fd9a",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -257,7 +257,7 @@ namespace WebMyPham.Data.Migrations
                         {
                             Id = new Guid("46064bfd-a12e-4cb6-8d63-6f0ba81aa70d"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "e65ba6f4-949e-4812-99e0-d69bb14cc79c",
+                            ConcurrencyStamp = "fc194ab9-25bb-4a63-bd32-8ae241cd4a53",
                             Dob = new DateTime(1999, 6, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "diem99spk@gmail.com",
                             EmailConfirmed = true,
@@ -266,7 +266,7 @@ namespace WebMyPham.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "diemvo99spk@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEEf1sW3OwEKxN1Ph6cGwbFJEl5/pOWq83dX2hmJ7FBLlIdhRcvITBNsTRe+NWPijOw==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEI/QkLrQX8vL48VpXK0TyzWLkl9s/erHwt0TMbXkW6Qaajcv5q+iMMij4nWHYwZykA==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -346,6 +346,83 @@ namespace WebMyPham.Data.Migrations
                             IsShowOnHome = true,
                             SortOrder = 2,
                             Status = 1
+                        },
+                        new
+                        {
+                            Id = 3,
+                            IsShowOnHome = true,
+                            SortOrder = 3,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 4,
+                            IsShowOnHome = true,
+                            SortOrder = 4,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 5,
+                            IsShowOnHome = true,
+                            SortOrder = 5,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 6,
+                            IsShowOnHome = true,
+                            SortOrder = 6,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 7,
+                            IsShowOnHome = true,
+                            SortOrder = 7,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 8,
+                            IsShowOnHome = true,
+                            SortOrder = 8,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 9,
+                            IsShowOnHome = true,
+                            SortOrder = 9,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 10,
+                            IsShowOnHome = true,
+                            SortOrder = 10,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 11,
+                            IsShowOnHome = true,
+                            SortOrder = 11,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 12,
+                            IsShowOnHome = true,
+                            SortOrder = 12,
+                            Status = 1
+                        },
+                        new
+                        {
+                            Id = 13,
+                            IsShowOnHome = true,
+                            SortOrder = 13,
+                            Status = 1
                         });
                 });
 
@@ -371,6 +448,86 @@ namespace WebMyPham.Data.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("CategoryTranslations");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CategoryId = 1,
+                            Name = "Son"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryId = 2,
+                            Name = "Phấn nước"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CategoryId = 3,
+                            Name = "Má hồng"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CategoryId = 4,
+                            Name = "Phấn phủ"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CategoryId = 5,
+                            Name = "Chì kẻ mày"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CategoryId = 6,
+                            Name = "Che khuyết điểm"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            CategoryId = 7,
+                            Name = "Kẻ viền mắt"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            CategoryId = 8,
+                            Name = "Phấn mắt"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            CategoryId = 9,
+                            Name = "Mascara"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            CategoryId = 10,
+                            Name = "Tẩy trang"
+                        },
+                        new
+                        {
+                            Id = 11,
+                            CategoryId = 11,
+                            Name = "Sữa rửa mặt"
+                        },
+                        new
+                        {
+                            Id = 12,
+                            CategoryId = 12,
+                            Name = "Kem chống nắng"
+                        },
+                        new
+                        {
+                            Id = 13,
+                            CategoryId = 13,
+                            Name = "Mặt nạ"
+                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Contact", b =>
@@ -488,6 +645,9 @@ namespace WebMyPham.Data.Migrations
                     b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
 
+                    b.Property<bool?>("IsFeatured")
+                        .HasColumnType("bit");
+
                     b.Property<decimal>("OriginalPrice")
                         .HasColumnType("decimal(18,2)");
 
@@ -515,7 +675,7 @@ namespace WebMyPham.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2020, 12, 6, 14, 48, 42, 977, DateTimeKind.Local).AddTicks(7037),
+                            DateCreated = new DateTime(2020, 12, 6, 20, 20, 2, 366, DateTimeKind.Local).AddTicks(6311),
                             OriginalPrice = 99000m,
                             Price = 100000m,
                             Stock = 0,
@@ -666,6 +826,108 @@ namespace WebMyPham.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Promotions");
+                });
+
+            modelBuilder.Entity("WebMyPham.Data.Entities.Slide", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:IdentityIncrement", 1)
+                        .HasAnnotation("SqlServer:IdentitySeed", 1)
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.Property<int>("SortOrder")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Url")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)")
+                        .HasMaxLength(200);
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Slides");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                            Image = "/themes/images/carousel/1.png",
+                            Name = "Second Thumbnail label",
+                            SortOrder = 1,
+                            Status = 1,
+                            Url = "#"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                            Image = "/themes/images/carousel/2.png",
+                            Name = "Second Thumbnail label",
+                            SortOrder = 2,
+                            Status = 1,
+                            Url = "#"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                            Image = "/themes/images/carousel/3.png",
+                            Name = "Second Thumbnail label",
+                            SortOrder = 3,
+                            Status = 1,
+                            Url = "#"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                            Image = "/themes/images/carousel/4.png",
+                            Name = "Second Thumbnail label",
+                            SortOrder = 4,
+                            Status = 1,
+                            Url = "#"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Description = "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                            Image = "/themes/images/carousel/5.png",
+                            Name = "Second Thumbnail label",
+                            SortOrder = 5,
+                            Status = 1,
+                            Url = "#"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Description = "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+                            Image = "/themes/images/carousel/6.png",
+                            Name = "Second Thumbnail label",
+                            SortOrder = 6,
+                            Status = 1,
+                            Url = "#"
+                        });
                 });
 
             modelBuilder.Entity("WebMyPham.Data.Entities.Transaction", b =>

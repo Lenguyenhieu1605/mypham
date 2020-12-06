@@ -11,6 +11,7 @@ namespace WebMyPham.ViewModels.Catalog.Products.Manage
         public string Name { get; set; }
         public string Description { get; set; }
         public string Details { get; set; }
+        public bool? IsFeatured { get; set; }
         public IFormFile ThumbnailImage { get; set; }
     }
 }

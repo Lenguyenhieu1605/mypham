@@ -32,6 +32,7 @@ namespace WebMyPham.BackendApi.Controllers
             var products = await _productService.GetAllPaging(request);
             return Ok(products);
         }
+
         [HttpGet("{productId}")] //routing
         public async Task<IActionResult> GetById(int productId)
         {

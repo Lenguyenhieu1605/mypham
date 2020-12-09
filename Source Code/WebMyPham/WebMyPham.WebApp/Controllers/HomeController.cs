@@ -8,12 +8,14 @@ using Microsoft.Extensions.Logging;
 using WebMyPham.ApiIntegration;
 using WebMyPham.Utilities.Constants;
 using WebMyPham.WebApp.Models;
+using Microsoft.AspNetCore.Localization;
 
 namespace WebMyPham.WebApp.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        //private readonly ISharedCultureLocalizer _loc;
         private readonly ISlideApiClient _slideApiClient;
         private readonly IProductApiClient _productApiClient;
         public HomeController(ILogger<HomeController> logger, ISlideApiClient slideApiClient,

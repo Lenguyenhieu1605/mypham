@@ -12,6 +12,7 @@ namespace WebMyPham.Application.System.Roles
 {
     public class RoleService : IRoleService
     {
+
         private readonly RoleManager<AppRole> _roleManager;
         public RoleService(RoleManager<AppRole> roleManager)
         {
@@ -19,6 +20,7 @@ namespace WebMyPham.Application.System.Roles
         }
         public async Task<List<RoleViewModel>> GetAll()
         {
+            //throw new NotImplementedException();
             var roles = await _roleManager.Roles
                .Select(x => new RoleViewModel()
                {

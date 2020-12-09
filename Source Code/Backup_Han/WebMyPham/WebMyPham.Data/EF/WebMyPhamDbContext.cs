@@ -1,16 +1,16 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using WebMyPham.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using WebMyPham.Data.Configurations;
-using WebMyPham.Data.Entities;
 using WebMyPham.Data.Extensions;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace WebMyPham.Data.EF
 {
-    public class WebMyPhamDbContext : IdentityDbContext<AppUser, AppRole, Guid>
+    public class WebMyPhamDbContext : IdentityDbContext<AppUser,AppRole,Guid>
     {
         public WebMyPhamDbContext(DbContextOptions options) : base(options)
         {
@@ -27,7 +27,6 @@ namespace WebMyPham.Data.EF
             modelBuilder.ApplyConfiguration(new ProductDetailConfiguration());
 
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
-
             modelBuilder.ApplyConfiguration(new CategoryTranslationConfiguration());
 
             modelBuilder.ApplyConfiguration(new ProductInCategoryConfiguration());
@@ -50,20 +49,18 @@ namespace WebMyPham.Data.EF
 
             modelBuilder.ApplyConfiguration(new ProductImageConfiguration());
 
+            modelBuilder.ApplyConfiguration(new SlideConfiguration());
+
             modelBuilder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims");
 
-            modelBuilder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles").HasKey(x => new { x.UserId, x.RoleId });
+            modelBuilder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles").HasKey(x => new { x.UserId,x.RoleId });
 
-            modelBuilder.Entity<IdentityUserLogin<Guid>>().ToTable("AppUserLogins").HasKey(x => x.UserId);
+            modelBuilder.Entity<IdentityUserLogin<Guid>>().ToTable("AppUserLogins").HasKey(x=>x.UserId);
 
             modelBuilder.Entity<IdentityRoleClaim<Guid>>().ToTable("AppRoleClaims");
 
             modelBuilder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens").HasKey(x => x.UserId); //định nghĩa phải ghi đè key
 
-
-
-            ////data seeding
-            
             modelBuilder.Seed(); //gọi ra tạm
             //base.OnModelCreating(modelBuilder);
         }
@@ -81,6 +78,7 @@ namespace WebMyPham.Data.EF
         public DbSet<Transaction> Transactions { get; set; }
         public DbSet<ProductDetail> ProductDetails { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
+        public DbSet<Slide> Slides { get; set; }
         //public object ProductTranslations { get; set; }
     }
 }

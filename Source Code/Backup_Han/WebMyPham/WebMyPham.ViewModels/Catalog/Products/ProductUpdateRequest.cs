@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace WebMyPham.ViewModels.Catalog.Products
+namespace WebMyPham.ViewModels.Catalog.Products.Manage
 {
     public class ProductUpdateRequest
     {
@@ -11,6 +11,7 @@ namespace WebMyPham.ViewModels.Catalog.Products
         public string Name { get; set; }
         public string Description { get; set; }
         public string Details { get; set; }
+        public bool? IsFeatured { get; set; }
         public IFormFile ThumbnailImage { get; set; }
     }
 }

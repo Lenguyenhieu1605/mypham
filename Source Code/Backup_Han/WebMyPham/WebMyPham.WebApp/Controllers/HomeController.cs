@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using WebMyPham.ApiIntegration;
+using WebMyPham.Utilities.Constants;
 using WebMyPham.WebApp.Models;
 
 namespace WebMyPham.WebApp.Controllers
@@ -12,15 +14,24 @@ namespace WebMyPham.WebApp.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ISlideApiClient _slideApiClient;
+        private readonly IProductApiClient _productApiClient;
+        public HomeController(ILogger<HomeController> logger, ISlideApiClient slideApiClient,
+            IProductApiClient productApiClient)
         {
             _logger = logger;
+            _slideApiClient = slideApiClient;
+            _productApiClient = productApiClient;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var viewModel = new HomeViewModel
+            {
+                Slides = await _slideApiClient.GetAll(),
+                FeaturedProducts = await _productApiClient.GetFearturedProducts(SystemConstants.ProductSettings.NumberOfFeaturedProducts)
+            };
+            return View(viewModel);
         }
 
         public IActionResult Privacy()

@@ -1,10 +1,10 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using WebMyPham.Application.System.Users;
 using WebMyPham.ViewModels.System.Users;
 
@@ -23,7 +23,7 @@ namespace WebMyPham.BackendApi.Controllers
 
         [HttpPost("authenticate")]
         [AllowAnonymous]
-        public async Task<IActionResult> Authenticate([FromBody] LoginRequest request)
+        public async Task<IActionResult> Authenticate([FromBody]LoginRequest request)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -31,7 +31,7 @@ namespace WebMyPham.BackendApi.Controllers
             var result = await _userService.Authencate(request);
 
             if (string.IsNullOrEmpty(result.ResultObj))
-                return BadRequest(result);
+                return BadRequest(result);               
 
             return Ok(result);
         }
@@ -53,7 +53,7 @@ namespace WebMyPham.BackendApi.Controllers
 
         //PUT: http://localhost/api/users/id
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(Guid id, [FromBody] UserUpdateRequest request)
+        public async Task<IActionResult> Update(Guid id,[FromBody]UserUpdateRequest request)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -64,6 +64,7 @@ namespace WebMyPham.BackendApi.Controllers
                 return BadRequest(result);
             return Ok(result);
         }
+
         [HttpPut("{id}/roles")]
         public async Task<IActionResult> RoleAssign(Guid id, [FromBody] RoleAssignRequest request)
         {

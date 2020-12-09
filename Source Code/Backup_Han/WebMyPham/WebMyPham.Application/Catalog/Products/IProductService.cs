@@ -1,9 +1,9 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using WebMyPham.ViewModels.Catalog.ProductImages;
 using WebMyPham.ViewModels.Catalog.Products;
+using WebMyPham.ViewModels.Catalog.Products.Manage;
 using WebMyPham.ViewModels.Common;
 
 namespace WebMyPham.Application.Catalog.Products
@@ -30,6 +30,8 @@ namespace WebMyPham.Application.Catalog.Products
         Task<List<ProductImageViewModel>> GetListImage(int productId);
         Task<ProductImageViewModel> GetImageById(int imageId);
         Task<PagedResult<ProductViewModel>> GetAllByCategoryId(GetPublicProductPagingRequest request);
+        Task<ApiResult<bool>> CategoryAssign(int id, CategoryAssignRequest request);
+        Task<List<ProductViewModel>> GetFeaturedProducts(int take);
 
     }
 }

@@ -1,17 +1,13 @@
+using System;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using WebMyPham.AdminApp.Services;
+using WebMyPham.ApiIntegration;
 using WebMyPham.ViewModels.System.Users;
 
 namespace WebMyPham.AdminApp
@@ -57,11 +53,12 @@ namespace WebMyPham.AdminApp
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 
 #if DEBUG
-            if (environment == Environments.Development)
+            if(environment == Environments.Development)
             {
                 builder.AddRazorRuntimeCompilation();
             }
 #endif
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -85,7 +82,9 @@ namespace WebMyPham.AdminApp
             app.UseRouting();
 
             app.UseAuthorization();
+
             app.UseSession();
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

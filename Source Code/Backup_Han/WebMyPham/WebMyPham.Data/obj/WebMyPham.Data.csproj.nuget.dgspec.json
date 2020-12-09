@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\Backup_Han\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {}
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {}
   },
   "projects": {
-    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\Backup_Han\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\Backup_Han\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "projectName": "WebMyPham.Data",
-        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\Backup_Han\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Source Code\\Backup_Han\\WebMyPham\\WebMyPham.Data\\obj\\",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Source Code\\WebMyPham\\WebMyPham.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +44,10 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -68,10 +69,6 @@
               "version": "[3.1.1, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[3.1.1, )"
             }

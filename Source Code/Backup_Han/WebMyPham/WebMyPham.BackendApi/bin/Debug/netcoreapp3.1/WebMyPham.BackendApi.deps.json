@@ -24,10 +24,10 @@
     ".NETCoreApp,Version=v3.1": {
       "WebMyPham.BackendApi/1.0.0": {
         "dependencies": {
-          "FluentValidation.AspNetCore": "9.3.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.1",
+          "FluentValidation.AspNetCore": "9.2.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.8",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
-          "Swashbuckle.AspNetCore": "5.0.0",
+          "Swashbuckle.AspNetCore": "5.6.3",
           "Swashbuckle.AspNetCore.Swagger": "5.6.3",
           "Swashbuckle.AspNetCore.SwaggerUI": "5.6.3",
           "WebMyPham.Application": "1.0.0",
@@ -285,41 +285,41 @@
           "WebMyPham.BackendApi.dll": {}
         }
       },
-      "FluentValidation/9.3.0": {
+      "FluentValidation/9.2.0": {
         "runtime": {
           "lib/netstandard2.0/FluentValidation.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.3.0.0"
+            "fileVersion": "9.2.0.0"
           }
         },
         "compile": {
           "lib/netstandard2.0/FluentValidation.dll": {}
         }
       },
-      "FluentValidation.AspNetCore/9.3.0": {
+      "FluentValidation.AspNetCore/9.2.0": {
         "dependencies": {
-          "FluentValidation": "9.3.0",
-          "FluentValidation.DependencyInjectionExtensions": "9.3.0"
+          "FluentValidation": "9.2.0",
+          "FluentValidation.DependencyInjectionExtensions": "9.2.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.3.0.0"
+            "fileVersion": "9.2.0.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
         }
       },
-      "FluentValidation.DependencyInjectionExtensions/9.3.0": {
+      "FluentValidation.DependencyInjectionExtensions/9.2.0": {
         "dependencies": {
-          "FluentValidation": "9.3.0",
+          "FluentValidation": "9.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.3.0.0"
+            "fileVersion": "9.2.0.0"
           }
         },
         "compile": {
@@ -334,14 +334,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.1": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.6.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "assemblyVersion": "3.1.1.0",
-            "fileVersion": "3.100.119.61510"
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42106"
           }
         },
         "compile": {
@@ -1233,11 +1233,11 @@
           "Microsoft.NETCore.Targets": "1.1.3"
         }
       },
-      "Swashbuckle.AspNetCore/5.0.0": {
+      "Swashbuckle.AspNetCore/5.6.3": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
           "Swashbuckle.AspNetCore.Swagger": "5.6.3",
-          "Swashbuckle.AspNetCore.SwaggerGen": "5.0.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "5.6.3",
           "Swashbuckle.AspNetCore.SwaggerUI": "5.6.3"
         }
       },
@@ -1255,14 +1255,14 @@
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         }
       },
-      "Swashbuckle.AspNetCore.SwaggerGen/5.0.0": {
+      "Swashbuckle.AspNetCore.SwaggerGen/5.6.3": {
         "dependencies": {
           "Swashbuckle.AspNetCore.Swagger": "5.6.3"
         },
         "runtime": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.0.0"
+            "assemblyVersion": "5.6.3.0",
+            "fileVersion": "5.6.3.0"
           }
         },
         "compile": {
@@ -2005,8 +2005,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
-          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.0",
           "Microsoft.Extensions.Hosting": "5.0.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "5.0.0",
           "Microsoft.IdentityModel.Tokens": "6.8.0",
           "System.IdentityModel.Tokens.Jwt": "6.8.0",
           "WebMyPham.Data": "1.0.0",
@@ -2023,10 +2023,10 @@
       "WebMyPham.Data/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.1",
+          "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "5.0.0",
-          "Microsoft.Extensions.Configuration.Json": "5.0.0",
-          "Microsoft.Extensions.Identity.Stores": "3.1.1"
+          "Microsoft.Extensions.Configuration.Json": "5.0.0"
         },
         "runtime": {
           "WebMyPham.Data.dll": {}
@@ -2045,8 +2045,9 @@
       },
       "WebMyPham.ViewModels/1.0.0": {
         "dependencies": {
-          "FluentValidation.AspNetCore": "9.3.0",
-          "Microsoft.AspNetCore.Http.Features": "3.1.9"
+          "FluentValidation.AspNetCore": "9.2.0",
+          "Microsoft.AspNetCore.Http.Features": "3.1.9",
+          "WebMyPham.Data": "1.0.0"
         },
         "runtime": {
           "WebMyPham.ViewModels.dll": {}
@@ -3521,26 +3522,26 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FluentValidation/9.3.0": {
+    "FluentValidation/9.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-C44l6Ih+YwpED/TsXfl6LIq6Z4wLXahstnr6T70uUg1Hs7/bLBKKAo9Nl0sLhVjDE8TA+fF+O3IM4nDrwabcSQ==",
-      "path": "fluentvalidation/9.3.0",
-      "hashPath": "fluentvalidation.9.3.0.nupkg.sha512"
+      "sha512": "sha512-LNUzNXWlBQavU/eB9pf4Tg8TTWgCw8E85OBA1GJv4xkdwuer9FuFLHTBjcYX+gGBkPFc2G+3utzEA4aMhUOL3w==",
+      "path": "fluentvalidation/9.2.0",
+      "hashPath": "fluentvalidation.9.2.0.nupkg.sha512"
     },
-    "FluentValidation.AspNetCore/9.3.0": {
+    "FluentValidation.AspNetCore/9.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0ZKHVvNIVgZEGgCe8z4NyVoPaCmM0kTRM0EySC23Enuc4jzBdhI+LtGhcvkF7lAulNlxR2S9IDnLibOM6RDaHg==",
-      "path": "fluentvalidation.aspnetcore/9.3.0",
-      "hashPath": "fluentvalidation.aspnetcore.9.3.0.nupkg.sha512"
+      "sha512": "sha512-LOEBZoLPCULAVnRLgxPzF64V2KnMNlWatE6zfLq+h+kgEsPGxl0i/0ky6vNhyRHQkINSqaEBzTCOaQuOvz/d9Q==",
+      "path": "fluentvalidation.aspnetcore/9.2.0",
+      "hashPath": "fluentvalidation.aspnetcore.9.2.0.nupkg.sha512"
     },
-    "FluentValidation.DependencyInjectionExtensions/9.3.0": {
+    "FluentValidation.DependencyInjectionExtensions/9.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5PnAIlsApzWPp9rjxfu3xVWSj2qMDeFnEE3P4yx/oIQO1aLhPEEn4yW7JiydP9kpQKAtZ53qwNaOoQ1xSxajuA==",
-      "path": "fluentvalidation.dependencyinjectionextensions/9.3.0",
-      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512"
+      "sha512": "sha512-NZWi2FIRsD/R6JOngv2faT9I8BfKR3hRfxY8DoRUjBkOM6X2LMfmYnTNg/NFjKc8w3bKhVj7n7CxvApTKXetwQ==",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.2.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -3549,12 +3550,12 @@
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.1": {
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-m7uchb4whAlqpvdARfjmUJtdHLvmVwxiy7dcEYp3OqSP7OXUK7vL4m99YRAEFZYtzq+WQgCn7Yk1Mb5xqBtXEQ==",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.1",
-      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.1.nupkg.sha512"
+      "sha512": "sha512-sAXFFgsSEYd6PTFCzBKYBlXnb+ncclrQPMyMzARELxBv94Onqtr/JTWKih+NUr/3xR5BAs1xE6boao0Us6xcPA==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.8",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.1": {
       "type": "package",
@@ -3976,12 +3977,12 @@
       "path": "runtime.native.system/4.3.0",
       "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
     },
-    "Swashbuckle.AspNetCore/5.0.0": {
+    "Swashbuckle.AspNetCore/5.6.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HoJbhDNyeDqr2R1H3YhtPqGacxgZKBFBS6g5U3tlJpv80G/IHW8hHbcnHSTXZpcatnD+xh8UiUrKp4Ua857LSQ==",
-      "path": "swashbuckle.aspnetcore/5.0.0",
-      "hashPath": "swashbuckle.aspnetcore.5.0.0.nupkg.sha512"
+      "sha512": "sha512-UkL9GU0mfaA+7RwYjEaBFvAzL8qNQhNqAeV5uaWUu/Z+fVgvK9FHkGCpTXBqSQeIHuZaIElzxnLDdIqGzuCnVg==",
+      "path": "swashbuckle.aspnetcore/5.6.3",
+      "hashPath": "swashbuckle.aspnetcore.5.6.3.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/5.6.3": {
       "type": "package",
@@ -3990,12 +3991,12 @@
       "path": "swashbuckle.aspnetcore.swagger/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512"
     },
-    "Swashbuckle.AspNetCore.SwaggerGen/5.0.0": {
+    "Swashbuckle.AspNetCore.SwaggerGen/5.6.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-liZs2B35w1bHNacpNoDofNCJKmEhUaHVgvtUsjt/AToKQdZQpk9dvLWrEfRHiuwZVUiKLL30lsiV4dEF/Drzlw==",
-      "path": "swashbuckle.aspnetcore.swaggergen/5.0.0",
-      "hashPath": "swashbuckle.aspnetcore.swaggergen.5.0.0.nupkg.sha512"
+      "sha512": "sha512-CkhVeod/iLd3ikVTDOwG5sym8BE5xbqGJ15iF3cC7ZPg2kEwDQL4a88xjkzsvC9oOB2ax6B0rK0EgRK+eOBX+w==",
+      "path": "swashbuckle.aspnetcore.swaggergen/5.6.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
       "type": "package",

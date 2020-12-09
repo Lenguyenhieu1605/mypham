@@ -15,5 +15,8 @@ namespace WebMyPham.ViewModels.Catalog.Products
         public string Name { set; get; }
         public string Description { set; get; }
         public string Details { set; get; }
+        public bool? IsFeatured { get; set; }
+        public string ThumbnailImage { get; set; }
+        public List<string> Categories { get; set; } = new List<string>();
     }
 }

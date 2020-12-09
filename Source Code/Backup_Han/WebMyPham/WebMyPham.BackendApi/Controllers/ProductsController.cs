@@ -1,21 +1,23 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using WebMyPham.Application.Catalog.Products;
 using WebMyPham.ViewModels.Catalog.ProductImages;
 using WebMyPham.ViewModels.Catalog.Products;
+using WebMyPham.ViewModels.Catalog.Products.Manage;
 
 namespace WebMyPham.BackendApi.Controllers
 {
-    [Route("api/[controller]")]
+    //api//products
+    [Route("api/[controller]")] //đường dẫn localhost /controller
     [ApiController]
-    
     public class ProductsController : ControllerBase
     {
+        
         private readonly IProductService _productService;
 
         public ProductsController(IProductService manageProductService)
@@ -23,13 +25,14 @@ namespace WebMyPham.BackendApi.Controllers
 
             _productService = manageProductService;
         }
-
+        
         [HttpGet("paging")]
         public async Task<IActionResult> GetAllPaging([FromQuery] GetManageProductPagingRequest request) //chỉ định dc map từ đâu
         {
             var products = await _productService.GetAllPaging(request);
             return Ok(products);
         }
+
         [HttpGet("{productId}")] //routing
         public async Task<IActionResult> GetById(int productId)
         {
@@ -39,9 +42,17 @@ namespace WebMyPham.BackendApi.Controllers
             return Ok(product);
         }
 
+        [HttpGet("featured/{take}")]
+        [AllowAnonymous]
+        public async Task<IActionResult> GetFeaturedProducts(int take)
+        {
+            var products = await _productService.GetFeaturedProducts(take);
+            return Ok(products);
+        }
+
         [HttpPost]
         [Consumes("multipart/form-data")]
-        public async Task<IActionResult> Create([FromForm] ProductCreateRequest request)
+        public async Task<IActionResult> Create([FromForm]ProductCreateRequest request)
         {
 
             if (!ModelState.IsValid) //ktra =false
@@ -59,7 +70,7 @@ namespace WebMyPham.BackendApi.Controllers
 
         [HttpPut("{productId}")] //các phương thức của restful nếu trùng nhau methou phải phân biệt bằng ameus
         [Consumes("multipart/form-data")] //update toàn bộ là httpputput
-        public async Task<IActionResult> Update([FromRoute] int productId, [FromForm] ProductUpdateRequest request) //fromfrom chỉ định quan trọng cho biết requess dc quairing từ đâu
+        public async Task<IActionResult> Update([FromRoute] int productId, [FromForm]ProductUpdateRequest request) //fromfrom chỉ định quan trọng cho biết requess dc quairing từ đâu
         {
             if (!ModelState.IsValid)
             {
@@ -88,7 +99,6 @@ namespace WebMyPham.BackendApi.Controllers
 
             return BadRequest();
         }
-
         //Images
         [HttpPost("{productId}/images")] //truyền lên image với product id
         public async Task<IActionResult> CreateImage(int productId, [FromForm] ProductImageCreateRequest request)
@@ -103,7 +113,7 @@ namespace WebMyPham.BackendApi.Controllers
 
             var image = await _productService.GetImageById(imageId); //truyền vào image truyền vào
 
-            return CreatedAtAction(nameof(GetImageById), new { id = imageId }, image);
+            return CreatedAtAction(nameof(GetImageById), new { id = imageId }, image); 
         }
         [HttpPut("{productId}/images/{imageId}")]
         public async Task<IActionResult> UpdateImage(int imageId, [FromForm] ProductImageUpdateRequest request)
@@ -138,6 +148,20 @@ namespace WebMyPham.BackendApi.Controllers
             if (image == null)
                 return BadRequest("Cannot find product");
             return Ok(image);
+        }
+
+        [HttpPut("{id}/categories")]
+        public async Task<IActionResult> CategoryAssign(int id, [FromBody] CategoryAssignRequest request)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var result = await _productService.CategoryAssign(id, request);
+            if (!result.IsSuccessed)
+            {
+                return BadRequest(result);
+            }
+            return Ok(result);
         }
     }
 }

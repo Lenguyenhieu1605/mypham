@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Transactions;
+using WebMyPham.Data.Enums;
 
 namespace WebMyPham.Data.Entities
 {

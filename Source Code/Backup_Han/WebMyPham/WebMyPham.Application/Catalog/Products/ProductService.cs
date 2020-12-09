@@ -5,15 +5,17 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Http.Headers;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using WebMyPham.Application.Common;
 using WebMyPham.Data.EF;
 using WebMyPham.Data.Entities;
 using WebMyPham.Utilities.Exceptions;
 using WebMyPham.ViewModels.Catalog.ProductImages;
 using WebMyPham.ViewModels.Catalog.Products;
+using WebMyPham.ViewModels.Catalog.Products.Manage;
 using WebMyPham.ViewModels.Common;
-using WebMyPham.Application.Common;
 
 namespace WebMyPham.Application.Catalog.Products
 {
@@ -22,15 +24,15 @@ namespace WebMyPham.Application.Catalog.Products
     {
         private readonly WebMyPhamDbContext _context; //chỉ gán 1 lần
         private readonly IStorageService _storageService;
-
         public ProductService(WebMyPhamDbContext context, IStorageService storageService)
         {
             _context = context;
             _storageService = storageService;
         }
 
-        public async Task<int> AddImage(int productId, ProductImageCreateRequest request)
+        public async Task<int> AddImage(int productId, ProductImageCreateRequest request) //dc implement
         {
+            //throw new NotImplementedException();
             var productImage = new ProductImage()
             {
                 Caption = request.Caption,
@@ -49,6 +51,7 @@ namespace WebMyPham.Application.Catalog.Products
             return productImage.Id;
         }
 
+
         public async Task AddViewCount(int productId)
         {
             var product = await _context.Products.FindAsync(productId);
@@ -57,7 +60,7 @@ namespace WebMyPham.Application.Catalog.Products
 
             await _context.SaveChangesAsync();
         }
-
+        //tạo mới product
         public async Task<int> Create(ProductCreateRequest request)
         {
             var product = new Product()
@@ -115,57 +118,15 @@ namespace WebMyPham.Application.Catalog.Products
             return await _context.SaveChangesAsync();
         }
 
-        public async Task<PagedResult<ProductViewModel>> GetAllByCategoryId(GetPublicProductPagingRequest request)
-        {
-            //Buoc 1: Select join
-            var query = from p in _context.Products
-                        join pd in _context.ProductDetails on p.Id equals pd.ProductId
-                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
-                        join c in _context.Categories on pic.ProductId equals c.Id
-                        select new { p, pd, pic };
-
-            //Buoc 2: Filter
-            if (request.CategoryId.HasValue && request.CategoryId.Value > 0) //HasValue = true và Value hớn hơn 0
-            {
-                query = query.Where(p => p.pic.CategoryId == request.CategoryId);
-            }
-
-            //Buoc 3: Paging
-            int totalRow = await query.CountAsync();
-
-            var data = await query.Skip((request.PageIndex - 1) * request.PageSize)
-                .Take(request.PageSize)
-                .Select(x => new ProductViewModel()     //x là kết quả tìm kiếm được
-                {
-                    Id = x.p.Id,
-                    Name = x.pd.Name,
-                    DateCreated = x.p.DateCreated,
-                    Description = x.pd.Description,
-                    Details = x.pd.Details,
-                    OriginalPrice = x.p.OriginalPrice,
-                    Price = x.p.Price,
-                    Stock = x.p.Stock,
-                    ViewCount = x.p.ViewCount
-                }).ToListAsync();
-
-            //Buoc 4: Select and projection
-            var pagedResult = new PagedResult<ProductViewModel>()
-            {
-                TotalRecords = totalRow,
-                PageSize = request.PageSize,
-                PageIndex = request.PageIndex,
-                Items = data
-            };
-            return pagedResult;
-        }
-
         public async Task<PagedResult<ProductViewModel>> GetAllPaging(GetManageProductPagingRequest request)
         {
-            //Buoc 1: Select join
+            //Buoc 1: Select join (left join)
             var query = from p in _context.Products
                         join pd in _context.ProductDetails on p.Id equals pd.ProductId
-                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
-                        join c in _context.Categories on pic.ProductId equals c.Id
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId into ppic
+                        from pic in ppic.DefaultIfEmpty()
+                        join c in _context.Categories on pic.ProductId equals c.Id into picc
+                        from c in picc.DefaultIfEmpty()
                         select new { p, pd, pic };
 
             //Buoc 2: Filter
@@ -210,23 +171,28 @@ namespace WebMyPham.Application.Catalog.Products
         {
             var product = await _context.Products.FindAsync(productId);
             var productdetail = await _context.ProductDetails.FindAsync(productId);
-            //var productTranslation = await _context.ProductTranslations.FirstOrDefaultAsync(X500DistinguishedName => X500DistinguishedName.ProductId == productId);
+
+            var categories = await (from c in _context.Categories
+                                    join ct in _context.CategoryTranslations on c.Id equals ct.CategoryId
+                                    join pic in _context.ProductInCategories on c.Id equals pic.CategoryId
+                                    where pic.ProductId == productId
+                                    select ct.Name).ToListAsync();
             var productViewModel = new ProductViewModel()
             {
                 Id = product.Id,
                 DateCreated = product.DateCreated,
-                //Description = productTranslation !=null ?? productTranslation.Description,
                 OriginalPrice = product.OriginalPrice,
                 Price = product.Price,
                 Stock = product.Stock,
                 Name = productdetail.Name,
                 ViewCount = product.ViewCount,
                 Description = productdetail.Description,
-                Details = productdetail.Details
-
+                Details = productdetail.Details,
+                Categories = categories
 
             };
             return productViewModel;
+
         }
 
         public async Task<ProductImageViewModel> GetImageById(int imageId)
@@ -274,7 +240,8 @@ namespace WebMyPham.Application.Catalog.Products
             return await _context.SaveChangesAsync(); //return tổng số bảng ghi
         }
 
-        public async Task<int> Update(ProductUpdateRequest request)
+
+        public async Task<int> Update(ProductUpdateRequest request) //update
         {
             var product = await _context.Products.FindAsync(request.Id);
 
@@ -311,12 +278,13 @@ namespace WebMyPham.Application.Catalog.Products
 
             if (request.ImageFile != null) //image khác null 
             {
-                productImage.ImagePath = await this.SaveFile(request.ImageFile);
+                productImage.ImagePath = await this.SaveFile(request.ImageFile); 
                 productImage.FileSize = request.ImageFile.Length;
             }
             _context.ProductImages.Update(productImage);
             return await _context.SaveChangesAsync();
         }
+
 
         public async Task<bool> UpdatePrice(int productId, decimal newPrice)
         {
@@ -349,6 +317,110 @@ namespace WebMyPham.Application.Catalog.Products
             await _storageService.SaveFileAsync(file.OpenReadStream(), fileName);
             return fileName;
         }
-        
+        public async Task<PagedResult<ProductViewModel>> GetAllByCategoryId(GetPublicProductPagingRequest request)
+        {
+            //Buoc 1: Select join
+            var query = from p in _context.Products
+                        join pd in _context.ProductDetails on p.Id equals pd.ProductId
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId
+                        join c in _context.Categories on pic.ProductId equals c.Id
+                        select new { p, pd, pic };
+
+            //Buoc 2: Filter
+            if (request.CategoryId.HasValue && request.CategoryId.Value > 0) //HasValue = true và Value hớn hơn 0
+            {
+                query = query.Where(p => p.pic.CategoryId == request.CategoryId);
+            }
+
+            //Buoc 3: Paging
+            int totalRow = await query.CountAsync();
+
+            var data = await query.Skip((request.PageIndex - 1) * request.PageSize)
+                .Take(request.PageSize)
+                .Select(x => new ProductViewModel()     //x là kết quả tìm kiếm được
+                {
+                    Id = x.p.Id,
+                    Name = x.pd.Name,
+                    DateCreated = x.p.DateCreated,
+                    Description = x.pd.Description,
+                    Details = x.pd.Details,
+                    OriginalPrice = x.p.OriginalPrice,
+                    Price = x.p.Price,
+                    Stock = x.p.Stock,
+                    ViewCount = x.p.ViewCount
+                }).ToListAsync();
+
+            //Buoc 4: Select and projection
+            var pagedResult = new PagedResult<ProductViewModel>()
+            {
+                TotalRecords = totalRow,
+                PageSize = request.PageSize,
+                PageIndex = request.PageIndex,
+                Items = data
+            };
+            return pagedResult;
+        }
+
+        public async Task<ApiResult<bool>> CategoryAssign(int id, CategoryAssignRequest request)
+        {
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
+            {
+                return new ApiErrorResult<bool>($"Sản phẩm với id {id} không tồn tại");
+            }
+            foreach (var category in request.Categories)
+            {
+                var productInCategory = await _context.ProductInCategories
+                    .FirstOrDefaultAsync(x => x.CategoryId == int.Parse(category.Id)
+                    && x.ProductId == id);
+
+                if (productInCategory != null && category.Selected == false)
+                {
+                    _context.ProductInCategories.Remove(productInCategory);
+                }
+                else if (productInCategory == null && category.Selected == true)
+                {
+                    await _context.ProductInCategories.AddAsync(new ProductInCategory()
+                    {
+                        CategoryId = int.Parse(category.Id),
+                        ProductId = id
+                    });
+                }
+            }
+            await _context.SaveChangesAsync();
+            return new ApiSuccessResult<bool>();
+        }
+
+        public async Task<List<ProductViewModel>> GetFeaturedProducts(int take)
+        {
+            //Buoc 1: Select join (left join)
+            var query = from p in _context.Products
+                        join pd in _context.ProductDetails on p.Id equals pd.ProductId
+                        join pic in _context.ProductInCategories on p.Id equals pic.ProductId into ppic
+                        from pic in ppic.DefaultIfEmpty()
+                        join pi in _context.ProductImages on p.Id equals pi.ProductId into ppi
+                        from pi in ppi.DefaultIfEmpty()
+                        join c in _context.Categories on pic.ProductId equals c.Id into picc
+                        from c in picc.DefaultIfEmpty()
+                        where (pi == null || pi.IsDefaut == true) && p.IsFeatured == true
+                        select new { p, pd, pic, pi };
+
+            var data = await query.OrderByDescending(x => x.p.DateCreated).Take(take)
+                .Select(x => new ProductViewModel()
+                {
+                    Id = x.p.Id,
+                    Name = x.pd.Name,
+                    DateCreated = x.p.DateCreated,
+                    Description = x.pd.Description,
+                    Details = x.pd.Details,
+                    OriginalPrice = x.p.OriginalPrice,
+                    Price = x.p.Price,
+                    Stock = x.p.Stock,
+                    ViewCount = x.p.ViewCount,
+                    ThumbnailImage = x.pi.ImagePath
+                }).ToListAsync();
+
+            return data;
+        }
     }
 }

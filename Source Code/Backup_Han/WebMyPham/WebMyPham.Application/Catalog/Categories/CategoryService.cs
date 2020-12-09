@@ -16,6 +16,7 @@ namespace WebMyPham.Application.Catalog.Categories
         {
             _context = context;
         }
+
         public async Task<List<CategoryViewModel>> GetAll()
         {
             var query = from c in _context.Categories

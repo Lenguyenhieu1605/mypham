@@ -25,6 +25,6 @@ namespace WebMyPham.ViewModels.System.Users
         [Display(Name = "Số điện thoại")]
         public string PhoneNumber { get; set; }
 
-
+        
     }
 }

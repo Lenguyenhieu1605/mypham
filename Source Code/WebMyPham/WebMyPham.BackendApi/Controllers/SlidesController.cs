@@ -24,8 +24,9 @@ namespace WebMyPham.BackendApi.Controllers
             _slideService = slideService;
         }
 
-        [AllowAnonymous]
+      
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IActionResult> GetAll()
         {
             var slides = await _slideService.GetAll();

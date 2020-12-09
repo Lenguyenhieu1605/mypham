@@ -42,12 +42,13 @@
 
                 @for (int index = 0; index < Model.FeaturedProducts.Count; index++)
                 {
-                    featuredPart.Add(Model.FeaturedProducts[index]);
+
                     if (featuredPart.Count == 4 || Model.FeaturedProducts.Count < 4)
                     {
                         featuredProducts.Add(featuredPart);
                         featuredPart = new List<ProductViewModel>();
                     }
+                    featuredPart.Add(Model.FeaturedProducts[index]);
                 }
 
                 @for (int index = 0; index < featuredProducts.Count; index++)

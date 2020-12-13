@@ -1,0 +1,48 @@
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.deps.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.deps.json
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\WebMyPham\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csprojAssemblyReference.cache
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfoInputs.cache
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfo.cs
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\WebMyPham\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb

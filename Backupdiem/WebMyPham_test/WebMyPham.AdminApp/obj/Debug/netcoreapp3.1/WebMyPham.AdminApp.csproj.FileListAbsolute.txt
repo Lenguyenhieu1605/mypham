@@ -1,0 +1,1340 @@
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.exe
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.deps.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.runtimeconfig.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorAssemblyInfo.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorAssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.TagHelpers.input.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.TagHelpers.output.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorCoreGenerate.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.AdminApp.StaticWebAssets.Manifest.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.AdminApp.StaticWebAssets.xml
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CopyComplete
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.exe
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.runtimeconfig.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.runtimeconfig.dev.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorAssemblyInfo.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorAssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.TagHelpers.input.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.TagHelpers.output.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorCoreGenerate.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorTargetAssemblyInfo.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorTargetAssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CopyComplete
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.AdminApp.StaticWebAssets.Manifest.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.AdminApp.StaticWebAssets.xml
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\RoleAssign.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\RoleAssign.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebMyPham.AdminApp.styles.css
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebMyPham.AdminApp.styles.css
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryAssign.cshtml.g.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryAssign.cshtml.g.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.exe
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.deps.json
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.runtimeconfig.json
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.runtimeconfig.dev.json
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csprojAssemblyReference.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.AssemblyInfoInputs.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.AssemblyInfo.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CoreCompileInputs.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.MvcApplicationPartsAssemblyInfo.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorAssemblyInfo.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorAssemblyInfo.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.AdminApp.StaticWebAssets.Manifest.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\WebMyPham.AdminApp.StaticWebAssets.xml
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebMyPham.AdminApp.styles.css
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.TagHelpers.input.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.TagHelpers.output.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorCoreGenerate.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryAssign.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Pager\Default.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\RoleAssign.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorTargetAssemblyInfo.cache
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.RazorTargetAssemblyInfo.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.Views.pdb
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.csproj.CopyComplete
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.genruntimeconfig.cache
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebMyPham\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\WebMyPham\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs

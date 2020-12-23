@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbeAXZlYLyu3wJT5OP51/TwGx0NiAEtekZnXk0EWI9osBUPzbXSzo5FFfexjR3ZHSv7MK9Rxauj90hhxMQobiw==",
+  "success": true,
+  "projectFilePath": "D:\\nam4\\TLCN\\bang_day_du\\WEBMYPHAM_TESTING-20201217T165402Z-001\\WEBMYPHAM_TESTING\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,60 @@
+﻿@model ProductDetailViewModel
+@using WebMyPham.ViewModels.Catalog.Products;
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
+
+
+<ul class="breadcrumb">
+    <li><a href="/"><localize>Trang chủ</localize></a> <span class="divider">/</span></li>
+    <li class="active">@Model.Product.Name</li>
+</ul>
+
+<div class="row">
+    <div id="gallery" class="span3">
+        <a href="@(Configuration["BaseAddress"] + Model.Product.ThumbnailImage)" title="@Model.Product.Name">
+            <img src="@(Configuration["BaseAddress"] + Model.Product.ThumbnailImage)" style="width:100%" alt="@Model.Product.Name" />
+        </a>
+
+    </div>
+    <div class="span6">
+        <h3>@Model.Product.Name</h3>
+        <hr class="soft" />
+        <form class="form-horizontal qtyFrm">
+            <div class="control-group">
+                <label class="control-label"><span>@Model.Product.Price.ToString("N0") <strong> &#8363;</strong></span></label>
+                <div class="controls">
+                    <input type="number" class="span1" placeholder="SL" />
+                    <a href="/cart" class="btn btn-large btn-primary pull-right btn-add-cart" data-id="@Model.Product.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
+                </div>
+            </div>
+        </form>
+
+        <hr class="soft" />
+        <h4>@Model.Product.Stock <strong> Sản phẩm trong kho</strong></h4>
+        <form class="form-horizontal qtyFrm pull-right">
+        </form>
+        <hr class="soft clr" />
+        <p style="font-size:14px">
+            @Html.Raw(Model.Product.Description)
+        </p>
+        <br class="clr" />
+        <a href="#" name="detail"></a>
+        <hr class="soft" />
+    </div>
+
+    <div class="span9">
+        <ul id="productDetail" class="nav nav-tabs">
+            <li class="active"><a href="#home" data-toggle="tab"><localize>Chi tiết sản phẩm</localize></a></li>
+        </ul>
+        <div id="myTabContent" class="tab-content">
+            <div class="tab-pane fade active in" id="home">
+                <h4 style="font-size:14px">Thông tin sản phẩm</h4>
+                @Html.Raw(Model.Product.Details)
+            </div>
+        </div>
+    </div>
+</div>

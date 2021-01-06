@@ -1,0 +1,72 @@
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.deps.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CopyComplete
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CopyComplete
+D:\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.deps.json
+D:\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\WebMyPham\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csprojAssemblyReference.cache
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfoInputs.cache
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfo.cs
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CoreCompileInputs.cache
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CopyComplete
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\WebMyPham\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CopyComplete
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.deps.json
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csprojAssemblyReference.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfoInputs.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfo.cs
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CopyComplete
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.csproj.CopyComplete
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.ViewModels\obj\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb

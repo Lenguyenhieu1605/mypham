@@ -1,0 +1,124 @@
+﻿@using WebMyPham.ViewModels.Common;
+@model PagedResult<WebMyPham.ViewModels.Catalog.Orders.OrderViewModel>
+
+@{
+    ViewData["Title"] = "Danh sách đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts{
+    <script>
+        setTimeout(function () {
+            $('#msgAlert').fadeOut('slow');
+        }, 2000);
+    </script>
+}
+
+<div class="container-fluid">
+    <h1 class="mt-4">Danh sách đơn hàng</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item"><a href="/">Trang chủ</a></li>
+        <li class="breadcrumb-item active">Danh sách đơn hàng</li>
+    </ol>
+    <div class="card mb-12">
+        <div class="card-header">
+            <div class="row">
+                <div class="col-md-6 col-xs-12">
+                    <form asp-action="Index" method="get">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <input type="text" value="@ViewBag.Keyword" name="keyword" class="form-control" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-body">
+            <div class="row">
+                @if (ViewBag.SuccessMsg != null)
+                {
+                    <div id="msgAlert" class="alert alert-success" role="alert">
+                        @ViewBag.SuccessMsg
+                    </div>
+                }
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr class="table-info text-bold">
+                            <th>
+                                Mã
+                            </th>
+                            <th>
+                                Người đặt
+                            </th>
+                            <th>
+                                Địa chỉ
+                            </th>
+                            <th>
+                                Số điện thoại
+                            </th>
+                            <th>
+                                Tổng tiền
+                            </th>
+                            <th>
+                                Trạng thái
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Items)
+                        {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ShipName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ShipAddress)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ShipPhoneNumber)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => (item.Price * item.Quantity))
+                            </td>
+                            @if (item.Status == 1)
+                            {
+                                <td style="font-style:italic;color:slategrey">
+                                    Đã xác nhận
+                                </td>
+                            }
+                            else if (item.Status == 2)
+                            {
+                                <td style="font-style:italic;color:slategrey">
+                                    Thành công
+                                </td>
+                            }
+                            else if (item.Status == 3)
+                            {
+                                <td style="font-style:italic;color:slategrey">
+                                    Đã hủy
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <a asp-action="Edit" class="btn btn-dropbox" asp-route-id="@item.Id">Duyệt</a>
+                                </td>
+                            }
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            @await Component.InvokeAsync("Pager", Model)
+        </div>
+    </div>
+</div>
+
+

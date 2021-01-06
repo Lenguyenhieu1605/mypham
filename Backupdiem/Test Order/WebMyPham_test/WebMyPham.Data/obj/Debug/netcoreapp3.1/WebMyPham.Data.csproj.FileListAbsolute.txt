@@ -1,0 +1,108 @@
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Source Code\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+D:\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+D:\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+D:\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+D:\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\WebMyPham\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\WebMyPham\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Backup\Backupdiem\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\nam4\TLCN\bang_day_du\WEBMYPHAM_TESTING-20201217T165402Z-001\WEBMYPHAM_TESTING\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.json
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.runtimeconfig.dev.json
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test-20201229T134247Z-001\WebMyPham_test\WebMyPham_test\WebMyPham.Data\obj\Debug\netcoreapp3.1\WebMyPham.Data.genruntimeconfig.cache

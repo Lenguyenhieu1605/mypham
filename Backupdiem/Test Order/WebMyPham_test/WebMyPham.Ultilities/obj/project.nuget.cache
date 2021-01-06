@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OrAoaVZAzuimqGNtvlarhZUb98HD/6+pC7lE6M8FkztSgz4ZLgiyN+I+kKAMyobkICVpGPYfEulWwZIyi4HA5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Han Tran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Han Tran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

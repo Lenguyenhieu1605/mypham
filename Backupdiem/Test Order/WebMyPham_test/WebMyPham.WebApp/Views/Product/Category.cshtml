@@ -54,7 +54,7 @@
                 <div class="span3 alignR">
                     <form class="form-horizontal qtyFrm">
                         <h3> @item.Price.ToString("N0") &#8363;</h3>
-                        <a href="/cart" class="btn btn-add-cart" data-id="@item.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
+                        <a onclick="addToCart1(@item.Id)" class="btn" data-id="@item.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
                         <a href="product_details.html" class="btn btn-large"><i class="icon-zoom-in"></i></a>
                     </form>
                 </div>
@@ -80,7 +80,7 @@
                             <a class="btn" href="/san-pham/@item.Id">
                                 <i class="icon-zoom-in"></i>
                             </a>
-                            <a href="/cart" class="btn btn-add-cart" data-id="@item.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
+                            <a onclick="addToCart1(@item.Id)" class="btn" data-id="@item.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
 
                         </h4>
                     </div>
@@ -92,6 +92,24 @@
     </div>
 </div>
 @await Component.InvokeAsync("Pager", Model.Products)
+<script>
+    function addToCart1(id) {
+        debugger
 
-<br class="clr" />
+        var url = '@Url.Action("AddToCart", "Cart")';
+    $.ajax({
+        type: "POST",
+        url: url,
+        data: {
+            id: id
+        },
+        success: function (res) {
+            $('#lbl_number_items_header').text(res.length);
+        },
+        error: function (err) {
+            console.log(err);
+        }
+    });
+}
+</script>
 

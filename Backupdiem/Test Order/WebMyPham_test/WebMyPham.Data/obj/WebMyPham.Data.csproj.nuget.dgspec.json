@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {}
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "projectName": "WebMyPham.Data",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
-        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\obj\\",
+        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -28,7 +28,7 @@
                 <label class="control-label"><span>@Model.Product.Price.ToString("N0") <strong> &#8363;</strong></span></label>
                 <div class="controls">
                     <input type="number" class="span1" placeholder="SL" />
-                    <a href="/cart" class="btn btn-large btn-primary pull-right btn-add-cart" data-id="@Model.Product.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
+                    <a onclick="addToCart(@Model.Product.Id)" class="btn btn-large btn-primary pull-right" data-id="@Model.Product.Id"><localize>Thêm vào</localize> <i class="icon-shopping-cart"></i></a>
                 </div>
             </div>
         </form>
@@ -58,3 +58,23 @@
         </div>
     </div>
 </div>
+<script>
+    function addToCart(id) {
+        debugger
+
+        var url = '@Url.Action("AddToCart", "Cart")';
+    $.ajax({
+        type: "POST",
+        url: url,
+        data: {
+            id: id
+        },
+        success: function (res) {
+            $('#lbl_number_items_header').text(res.length);
+        },
+        error: function (err) {
+            console.log(err);
+        }
+    });
+}
+</script>

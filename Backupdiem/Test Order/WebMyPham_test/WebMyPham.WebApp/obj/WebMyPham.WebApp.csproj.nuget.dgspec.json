@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {}
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj": {
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj",
         "projectName": "WebMyPham.ApiIntegration",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj",
-        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ApiIntegration\\obj\\",
+        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ApiIntegration\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +31,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj"
+              "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj": {
+                "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj"
               },
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
+              "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+                "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
               }
             }
           }
@@ -74,17 +77,20 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "projectName": "WebMyPham.Data",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
-        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\obj\\",
+        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,17 +168,20 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj": {
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
         "projectName": "WebMyPham.Utilities",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
-        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Ultilities\\obj\\",
+        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Ultilities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,17 +228,20 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
         "projectName": "WebMyPham.ViewModels",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ViewModels\\obj\\",
+        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -243,8 +255,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj"
+              "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+                "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj"
               }
             }
           }
@@ -290,17 +302,20 @@
         }
       }
     },
-    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {
+    "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
+        "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
         "projectName": "WebMyPham.WebApp",
-        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
-        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.WebApp\\obj\\",
+        "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.WebApp\\WebMyPham.WebApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.WebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -314,8 +329,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj": {
-                "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test-20201229T134247Z-001\\WebMyPham_test\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj"
+              "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj": {
+                "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj"
               }
             }
           }

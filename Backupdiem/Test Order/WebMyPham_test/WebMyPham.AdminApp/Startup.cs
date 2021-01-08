@@ -4,10 +4,12 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using WebMyPham.ApiIntegration;
+using WebMyPham.Data.EF;
 using WebMyPham.ViewModels.System.Users;
 
 namespace WebMyPham.AdminApp
@@ -25,7 +27,8 @@ namespace WebMyPham.AdminApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHttpClient();
-
+            services.AddDbContext<WebMyPhamDbContext>(options =>
+           options.UseSqlServer(Configuration.GetConnectionString("WebMyPhamDb")));
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie(options =>
                 {

@@ -8,10 +8,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using WebMyPham.ApiIntegration;
+using WebMyPham.Data.EF;
+using WebMyPham.Data.Entities;
 using WebMyPham.ViewModels.System.Users;
 
 namespace WebMyPham.WebApp
@@ -29,9 +33,16 @@ namespace WebMyPham.WebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHttpClient();
-
+            services.AddDbContext<WebMyPhamDbContext>(options =>
+             options.UseSqlServer(Configuration.GetConnectionString("WebMyPhamDb")));
             services.AddControllersWithViews()
                .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<LoginRequestValidator>());
+
+            services.AddIdentityCore<AppUser>()
+                .AddEntityFrameworkStores<WebMyPhamDbContext>()
+                .AddEntityFrameworkStores<WebMyPhamDbContext>()
+                .AddDefaultTokenProviders();
+
 
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)

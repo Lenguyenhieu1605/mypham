@@ -1,5 +1,4 @@
-﻿@using WebMyPham.ViewModels.Common;
-@model PagedResult<WebMyPham.ViewModels.Catalog.Orders.OrderViewModel>
+﻿@model IEnumerable<WebMyPham.ViewModels.Catalog.Orders.OrderViewModel>
 
 @{
     ViewData["Title"] = "Danh sách đơn hàng";
@@ -27,7 +26,7 @@
                     <form asp-action="Index" method="get">
                         <div class="row">
                             <div class="col-md-4">
-                                <input type="text" value="@ViewBag.Keyword" name="keyword" class="form-control" />
+                                @*<input type="text" value="@ViewBag.Keyword" name="keyword" class="form-control" />*@
                             </div>
                         </div>
                     </form>
@@ -46,6 +45,7 @@
             </div>
             <div class="table-responsive">
                 <table class="table table-bordered">
+                    
                     <thead>
                         <tr class="table-info text-bold">
                             <th>
@@ -60,16 +60,15 @@
                             <th>
                                 Số điện thoại
                             </th>
-                            <th>
-                                Tổng tiền
-                            </th>
+
                             <th>
                                 Trạng thái
                             </th>
+                            
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model.Items)
+                        @foreach (var item in Model)
                         {
                         <tr>
                             <td>
@@ -84,39 +83,76 @@
                             <td>
                                 @Html.DisplayFor(modelItem => item.ShipPhoneNumber)
                             </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => (item.Price * item.Quantity))
-                            </td>
+
                             @if (item.Status == 1)
                             {
+
                                 <td style="font-style:italic;color:slategrey">
-                                    Đã xác nhận
+                                    <div>
+                                        Đã xác nhận
+                                        <a asp-action="Detail" asp-route-id="@item.Id">Chi Tiết</a>
+                                    </div>
+
                                 </td>
+
                             }
+
                             else if (item.Status == 2)
                             {
                                 <td style="font-style:italic;color:slategrey">
-                                    Thành công
+                                    <div>
+                                        Giao hàng thành công
+                                        <a asp-action="Detail" asp-route-id="@item.Id">Chi Tiết</a>
+                                    </div>
+
                                 </td>
                             }
                             else if (item.Status == 3)
                             {
                                 <td style="font-style:italic;color:slategrey">
-                                    Đã hủy
+                                    <div>
+                                        Đã huỷ
+                                        <a asp-action="Detail" asp-route-id="@item.Id">Chi Tiết</a>
+                                    </div>
+
                                 </td>
                             }
                             else
                             {
                                 <td>
-                                    <a asp-action="Edit" class="btn btn-dropbox" asp-route-id="@item.Id">Duyệt</a>
+                                    <div>
+
+
+                                        <a asp-action="Detail" asp-route-id="@item.Id">Chi Tiết</a>
+                                        <form class="form-inline" asp-action="Edit" method="POST">
+                                            <input type="hidden" value="1" name="action" />
+                                            <input type="hidden" value="@item.Id" name="Id" />
+                                            <input type="submit" value="Duyệt" class="btn btn-outline-warning" />
+                                        </form>
+
+                                        <form class="form-inline" asp-action="Edit" method="POST">
+                                            <input type="hidden" value="3" name="action" />
+                                            <input type="hidden" value="@item.Id" name="Id" />
+                                            <input type="submit" value="Huỷ đơn" class="btn btn-outline-danger" />
+                                        </form>
+
+
+
+
+
+                                    </div>
+
                                 </td>
+
+
+
                             }
                         </tr>
                         }
                     </tbody>
                 </table>
             </div>
-            @await Component.InvokeAsync("Pager", Model)
+            @*@await Component.InvokeAsync("Pager", Model)*@
         </div>
     </div>
 </div>

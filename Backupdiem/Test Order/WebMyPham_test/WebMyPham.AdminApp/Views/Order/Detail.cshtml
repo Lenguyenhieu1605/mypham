@@ -1,0 +1,54 @@
+﻿@model WebMyPham.Data.Entities.Order
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <dl class="row">
+                <dt class="col-sm-3">
+                   Mã số đơn hàng:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Id)
+                </dd>
+                <dt class="col-sm-3">
+                    Price:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.OrderDate)
+                </dd>
+                <dt class="col-sm-3">
+                    Category Name:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ShipAddress)
+                </dd>
+                <dt class="col-sm-3">
+                    Available:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ShipName)
+                </dd>
+
+            </dl>
+        </div>
+        <div class="col-5">
+ 
+            <div>
+                <div class="float-right">
+                  
+                    <a asp-action="Index" type="button" class="btn btn-danger">Back to List</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

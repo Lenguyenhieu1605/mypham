@@ -3486,7 +3486,7 @@
       ]
     },
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
+      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -6731,11 +6731,12 @@
       ]
     },
     "System.Net.NameResolution/4.3.0": {
-      "sha512": "DPvMSdd32CbEOCTtOpO4nY9UvbP6LJe375F1yEQjy667WT5LEh1Ek2T4DSVw1STR0K3LSawWfBFwoeSG0TXFeA==",
+      "sha512": "AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
       "type": "package",
       "path": "system.net.nameresolution/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6959,7 +6960,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.3.0": {
-      "sha512": "wEjvYddMMRV04qSvr/3+v9YsjnYKjxR6riG749gI5DdqXKvJtAKJSfXDxefu7TxlKvGiufQd6mVsI/NMmBIg8A==",
+      "sha512": "yDaJ2x3mMmjdZEDB4IbezSnCsnjQ4BxinKhRAaP6kEgL6Bb6jANWphs5SzyD8imqeC/3FxgsuXT6ykkiH1uUmA==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.3.0",
       "files": [
@@ -8147,7 +8148,7 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.5.0": {
-      "sha512": "O4tqXxWCD8y1IU1VTgzbuBFwoRahrADhDUxHjwezhHCsqyFNyQ5EytjWBxu0EsZuH14b4UO2pFkG063K2h/9Ug==",
+      "sha512": "WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
       "type": "package",
       "path": "system.security.cryptography.cng/4.5.0",
       "files": [
@@ -8299,7 +8300,7 @@
       ]
     },
     "System.Security.Cryptography.Pkcs/4.5.0": {
-      "sha512": "1vv2x8cok3NAolee/nb6X/6PnTx+OBKUM3kt1Rlgg04uQ+IMwjc88xFIfJdwbYcvjlOtzT7CHba1pqVAu9tj/w==",
+      "sha512": "TGQX51gxpY3K3I6LJlE2LAftVlIMqJf0cBGhz68Y89jjk3LJCB6SrwiD+YN1fkqemBvWGs+GjyMJukl6d6goyQ==",
       "type": "package",
       "path": "system.security.cryptography.pkcs/4.5.0",
       "files": [
@@ -8462,7 +8463,7 @@
       ]
     },
     "System.Security.Cryptography.Xml/4.5.0": {
-      "sha512": "X+/taLXTKYziKvWE4ZEyhpY0QQ17fm9eW70cvMCE6LAsWYqdv708i0HJeSVy7/5R5547GR/CEGOjUkYq6bJfPg==",
+      "sha512": "i2Jn6rGXR63J0zIklImGRkDIJL4b1NfPSEbIVHBlqoIb12lfXIigCbDRpDmIEzwSo/v1U5y/rYJdzZYSyCWxvg==",
       "type": "package",
       "path": "system.security.cryptography.xml/4.5.0",
       "files": [
@@ -8781,7 +8782,7 @@
       ]
     },
     "System.Text.Encodings.Web/4.5.0": {
-      "sha512": "JF+wDdfFiRl3rz3dPMfR6aR568AW2J5CUMmhSflgHDz4zbVK4/00ax8UHnHyEMvblPewgNugjuA4oyoL8Pex2g==",
+      "sha512": "Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==",
       "type": "package",
       "path": "system.text.encodings.web/4.5.0",
       "files": [
@@ -9337,7 +9338,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "kwo6Kf+0jjEcmB+S2BI5SL0xHHRIBd0Cjf11BGliuZ3Va9V1hDbKZmq0mb7HO8QPlYYrq8eNToOzipfw6ARKEw==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -9443,23 +9444,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hieun\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Han Tran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.AdminApp\\WebMyPham.AdminApp.csproj",
+      "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.AdminApp\\WebMyPham.AdminApp.csproj",
       "projectName": "WebMyPham.AdminApp",
-      "projectPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.AdminApp\\WebMyPham.AdminApp.csproj",
-      "packagesPath": "C:\\Users\\hieun\\.nuget\\packages\\",
-      "outputPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.AdminApp\\obj\\",
+      "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.AdminApp\\WebMyPham.AdminApp.csproj",
+      "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.AdminApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hieun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9473,14 +9470,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj": {
-              "projectPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj"
+            "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj": {
+              "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.ApiIntegration\\WebMyPham.ApiIntegration.csproj"
             },
-            "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj": {
-              "projectPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj"
+            "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj"
             },
-            "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
-              "projectPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
+            "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.ViewModels\\WebMyPham.ViewModels.csproj"
             }
           }
         }

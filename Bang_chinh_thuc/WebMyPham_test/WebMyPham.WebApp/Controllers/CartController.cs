@@ -15,19 +15,22 @@ using Microsoft.AspNetCore.Identity;
 using WebMyPham.ViewModels.Sales;
 using WebMyPham.WebApp.Models;
 using Microsoft.EntityFrameworkCore;
+using WebMyPham.WebApp.Models.MailModels;
+using WebMyPham.WebApp.MailServices;
 
 namespace WebMyPham.WebApp.Controllers
 {
     public class CartController : Controller
     {
         private readonly IProductApiClient _productClientApi;
+        private readonly ISendMailService _sendMailService;
         private readonly WebMyPhamDbContext _dbContext;
       //  private readonly SignInManager<AppUser> _signInManager;
-        public CartController(WebMyPhamDbContext context, IProductApiClient productApiClient)
+        public CartController(WebMyPhamDbContext context, IProductApiClient productApiClient, ISendMailService sendMailService)
         {
             _dbContext = context;
             _productClientApi = productApiClient;
-           
+            _sendMailService = sendMailService;
 
         }
         public IActionResult Index()
@@ -49,6 +52,8 @@ namespace WebMyPham.WebApp.Controllers
             //    userIdentity 
             //}    
             var model = GetCheckoutViewModel();
+            string listProductInfo = "";
+            decimal totalPrice = 0;
             var orderDetailsViewModel = new List<OrderDetailViewModel>();
             foreach (var item in model.CartItems)
             {
@@ -57,7 +62,10 @@ namespace WebMyPham.WebApp.Controllers
                     ProductId = item.ProductId,
                     Quantity = item.Quantity
                 });
+                totalPrice += item.Quantity * item.Price;
+                listProductInfo += $"<p>{item.Name}  Đơn giá:{item.Price}  Số lượng: {item.Quantity}</p>";
             }
+            listProductInfo += $"<p>Tổng cộng: {totalPrice}</p>";
             var checkoutRequest = new CheckoutRequest()
             {
                 Address = request.CheckoutModel.Address,
@@ -69,6 +77,7 @@ namespace WebMyPham.WebApp.Controllers
 
             //This is a place to parse OrderDetails from CartItems.
             var orderDetails = new List<OrderDetail>();
+             
             foreach (var item in model.CartItems)
             {
                 orderDetails.Add(new OrderDetail()
@@ -78,6 +87,7 @@ namespace WebMyPham.WebApp.Controllers
                     Price = item.Price,
                 });
             }
+
             //Create a new orders
             var order = new Order()
             {
@@ -89,12 +99,24 @@ namespace WebMyPham.WebApp.Controllers
             };
             System.Guid guid = System.Guid.Parse("5C525738-8EDA-4AA6-F2E9-08D8B4A13798");
 
-
+            
             order.UserID = guid;
             var createOrder = await _dbContext.Orders.AddAsync(order);
+            
+            
             if(createOrder.State == EntityState.Added)
             {
                 await _dbContext.SaveChangesAsync();
+               // var sendmailservice = context.RequestServices.GetService<ISendMailService>();
+                MailContent content = new MailContent
+                {
+                    To = request.CheckoutModel.Email,
+                    Subject = "HaDiShop-Xác nhận đơn hàng",
+                    Body = $"<p><strong>Chúng tôi đã nhận đơn đặt hàng từ anh/chị:{request.CheckoutModel.Name} - {request.CheckoutModel.PhoneNumber}</strong></p>" +
+                    $"<p>Đơn hàng gồm có:</p> <p>{listProductInfo}</p> <p>Xin chân thành cảm ơn!</p>"
+                };
+                await _sendMailService.SendMail(content);
+               // await _s.WriteAsync("Send mail");
                 HttpContext.Session.Clear();
                 TempData["SuccessMsg"] = "Mua hàng thành công!";
                 return View(model);

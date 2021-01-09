@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,6 +17,8 @@ using WebMyPham.ApiIntegration;
 using WebMyPham.Data.EF;
 using WebMyPham.Data.Entities;
 using WebMyPham.ViewModels.System.Users;
+using WebMyPham.WebApp.MailServices;
+using WebMyPham.WebApp.Models.MailModels;
 
 namespace WebMyPham.WebApp
 {
@@ -32,6 +34,8 @@ namespace WebMyPham.WebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+
             services.AddHttpClient();
             services.AddDbContext<WebMyPhamDbContext>(options =>
              options.UseSqlServer(Configuration.GetConnectionString("WebMyPhamDb")));
@@ -43,6 +47,11 @@ namespace WebMyPham.WebApp
                 .AddEntityFrameworkStores<WebMyPhamDbContext>()
                 .AddDefaultTokenProviders();
 
+            //Add mail service
+            services.AddOptions();                                         // Kích hoạt Options
+            var mailsettings = Configuration.GetSection("MailSettings");  // đọc config
+            services.Configure<MailSettings>(mailsettings);                // đăng ký để Inject
+            services.AddTransient<ISendMailService, SendMailService>();
 
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)

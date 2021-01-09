@@ -177,3 +177,19 @@ D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\We
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CopyComplete
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.deps.json
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Application.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csprojAssemblyReference.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfoInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.AssemblyInfo.cs
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CoreCompileInputs.cache
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.csproj.CopyComplete
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.dll
+C:\Users\Han Tran\Documents\Testing TLCN\Final Project\WebMyPham_test\WebMyPham.Application\obj\Debug\netcoreapp3.1\WebMyPham.Application.pdb

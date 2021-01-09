@@ -1,6 +1,6 @@
 ﻿@model CheckoutViewModel
 @{
-    ViewData["Title"] = "Checkout";
+    ViewData["Title"] = "Thanh toán";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 @inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
@@ -51,9 +51,12 @@ else
     </table>
 
     <table class="table table-bordered">
-        <tr><th>PHÍ GIAO HÀNG </th></tr>
+        <tr><th>THÔNG TIN GIAO HÀNG </th></tr>
         <tr>
             <td>
+                <div asp-validation-summary="All" class="alert alert-block alert-error fade in">
+                </div>
+
                 <form class="form-horizontal" action="/Cart/Checkout" method="post">
                     <div class="control-group">
                         <label class="control-label" for="inputCountry">Tên <sup>*</sup></label>
@@ -78,6 +81,10 @@ else
                         <div class="controls">
                             <input type="text" id="inputCountry" asp-for="CheckoutModel.PhoneNumber" placeholder="Số điện thoại">
                         </div>
+                    </div>
+                    <div class="text-center">
+                        <p class="text-error"><sup>*</sup>Thông tin bắt buộc</p>
+
                     </div>
 
                     <div class="control-group">

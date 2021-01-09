@@ -1,115 +1,116 @@
 ﻿@model WebMyPham.AdminApp.Models.ViewModel.OrderProductDetailsViewModel
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Chi tiết đơn hàng";
 }
 
-<h1>Details</h1>
-
-<div>
-    <h4>Product</h4>
-    <hr />
-    <div class="row justify-content-center">
-        <div class="col-5">
-            <dl class="row">
-                <dt class="col-sm-3">
-                    Mã số đơn hàng:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.Orders.Id)
-                </dd>
-                <dt class="col-sm-3">
-                    Tên khách hàng:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.Orders.ShipName)
-                </dd>
-                <dt class="col-sm-3">
-                    Địa chỉ giao hàng:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.Orders.ShipAddress)
-                </dd>
-                <dt class="col-sm-3">
-                    Số điện thoại:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.Orders.ShipPhoneNumber)
-                </dd>
-                <dt class="col-sm-3">
-                    Địa chỉ emtail:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.Orders.ShipEmail)
-                </dd>
-                <dt class="col-sm-3">
-                    Tổng số tiền:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.TotalPrice)
-                </dd>
-                <dt class="col-sm-3">
-                    Trạng thái:
-                </dt>
-                <dd class="col-sm-9">
-                    @Html.DisplayFor(model =>model.Orders.Status)
-                </dd>
-            </dl>
+<div class="container-fluid">
+    <h1 class="mt-4">Chi tiết đơn hàng</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item"><a href="/">Trang chủ</a></li>
+        <li class="breadcrumb-item active">Chi tiết đơn hàng</li>
+    </ol>
+    <div class="card">
+        <div class="card-header">
+            <a class="btn btn-success" asp-action="Index" asp-controller="Order">Về danh sách</a>
         </div>
-        <div class="table-responsive">
-            <table class="table table-bordered">
-
-                <thead>
-                    <tr class="table-info text-bold">
-                        <th>
-                            Mã sản phẩm
-                        </th>
-                        <th>
-                            Tên sản phẩm
-                        </th>
-                        <th>
-                            Số lượng:
-                        </th>
-                        <th>
-                           Giá tiền
-                        </th>
-
-
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var item in Model.OrderDetailsViewModelLists)
-                    {
-                        <tr>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.ProductId)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Name)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Quantity)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Price)
-                            </td>
-
-                          
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-        <div class="col-5">
-
-            <div>
-                <div class="float-right">
-
-                    <a asp-action="Index" type="button" class="btn btn-danger">Back to List</a>
+        <div class="card-body">
+            <div class="card mb-3">
+                <div class="card-header">
+                    <h3 class="row justify-content-between">THÔNG TIN ĐƠN HÀNG</h3>
                 </div>
+                <div class="card-body">
+                    <div class="row justify-content-center mt-3">
+                        <div class="col-8">
+                            <dl class="row">
+                                <dt class="col-sm-3">
+                                    Mã số đơn hàng
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.Orders.Id)
+                                </dd>
+                                <dt class="col-sm-3">
+                                    Tên khách hàng
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.Orders.ShipName)
+                                </dd>
+                                <dt class="col-sm-3">
+                                    Địa chỉ giao hàng
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.Orders.ShipAddress)
+                                </dd>
+                                <dt class="col-sm-3">
+                                    Số điện thoại
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.Orders.ShipPhoneNumber)
+                                </dd>
+                                <dt class="col-sm-3">
+                                    Địa chỉ email
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.Orders.ShipEmail)
+                                </dd>
+                                <dt class="col-sm-3">
+                                    Tổng số tiền
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.TotalPrice)
+                                    <a>&#8363;</a>
+                                </dd>
+                                <dt class="col-sm-3">
+                                    Trạng thái
+                                </dt>
+                                <dd class="col-sm-9">
+                                    @Html.DisplayFor(model => model.Orders.Status)
+                                </dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-bordered">
 
+                        <thead>
+                            <tr class="table-info text-bold">
+                                <th>
+                                    Mã sản phẩm
+                                </th>
+                                <th>
+                                    Tên sản phẩm
+                                </th>
+                                <th>
+                                    Số lượng
+                                </th>
+                                <th>
+                                    Giá tiền
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.OrderDetailsViewModelLists)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProductId)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Quantity)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Price)
+                                        <a>&#8363;</a>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
 </div>
-

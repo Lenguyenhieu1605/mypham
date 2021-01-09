@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {}
+    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {}
   },
   "projects": {
-    "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
+    "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
         "projectName": "WebMyPham.Data",
-        "projectPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
-        "packagesPath": "C:\\Users\\hieun\\.nuget\\packages\\",
-        "outputPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Data\\obj\\",
+        "projectPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+        "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Han Tran\\Documents\\Testing TLCN\\Final Project\\WebMyPham_test\\WebMyPham.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hieun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

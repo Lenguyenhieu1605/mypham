@@ -126,22 +126,6 @@ D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Or
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.deps.json
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csprojAssemblyReference.cache
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfoInputs.cache
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfo.cs
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CoreCompileInputs.cache
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
-D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.deps.json
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
@@ -158,3 +142,19 @@ C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_th
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
 C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.deps.json
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Utilities.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.ViewModels.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\bin\Debug\netcoreapp3.1\WebMyPham.Data.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfoInputs.cache
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.AssemblyInfo.cs
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.csproj.CopyComplete
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.ApiIntegration\obj\Debug\netcoreapp3.1\WebMyPham.ApiIntegration.pdb

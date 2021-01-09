@@ -63,7 +63,7 @@ namespace WebMyPham.WebApp.Controllers
                     Quantity = item.Quantity
                 });
                 totalPrice += item.Quantity * item.Price;
-                listProductInfo += $"<p>{item.Name}  Đơn giá:{item.Price}  Số lượng: {item.Quantity}</p>";
+                listProductInfo += $"<p>{item.Name}----Đơn giá:{item.Price}----Số lượng: {item.Quantity}</p>";
             }
             listProductInfo += $"<p>Tổng cộng: {totalPrice}</p>";
             var checkoutRequest = new CheckoutRequest()
@@ -97,9 +97,9 @@ namespace WebMyPham.WebApp.Controllers
                 ShipPhoneNumber = request.CheckoutModel.PhoneNumber,
                 OrderDetails = orderDetails,
             };
-            System.Guid guid = System.Guid.Parse("5C525738-8EDA-4AA6-F2E9-08D8B4A13798");
+            System.Guid guid = System.Guid.Parse("5C525738-8EDA-4AA6-F2E9-08D8B4A13798"); //HOST UserID: 5C525738-8EDA-4AA6-F2E9-08D8B4A13798
 
-            
+
             order.UserID = guid;
             var createOrder = await _dbContext.Orders.AddAsync(order);
             

@@ -87,7 +87,7 @@ namespace WebMyPham.WebApp.Controllers
                 ShipPhoneNumber = request.CheckoutModel.PhoneNumber,
                 OrderDetails = orderDetails,
             };
-            System.Guid guid = System.Guid.Parse("74203a55-4660-4e97-19c1-08d8b4468792");
+            System.Guid guid = System.Guid.Parse("5C525738-8EDA-4AA6-F2E9-08D8B4A13798");
 
 
             order.UserID = guid;

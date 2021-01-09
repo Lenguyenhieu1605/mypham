@@ -4,20 +4,31 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using WebMyPham.ApiIntegration;
+using WebMyPham.Data.EF;
+using WebMyPham.Data.Entities;
 using WebMyPham.Utilities.Constants;
+using WebMyPham.ViewModels.Catalog.Orders;
+using Microsoft.AspNetCore.Identity;
 using WebMyPham.ViewModels.Sales;
 using WebMyPham.WebApp.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebMyPham.WebApp.Controllers
 {
     public class CartController : Controller
     {
         private readonly IProductApiClient _productClientApi;
-        public CartController(IProductApiClient productApiClient)
+        private readonly WebMyPhamDbContext _dbContext;
+      //  private readonly SignInManager<AppUser> _signInManager;
+        public CartController(WebMyPhamDbContext context, IProductApiClient productApiClient)
         {
+            _dbContext = context;
             _productClientApi = productApiClient;
+           
+
         }
         public IActionResult Index()
         {
@@ -30,13 +41,18 @@ namespace WebMyPham.WebApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Checkout(CheckoutViewModel request)
+        public async Task<IActionResult> Checkout(CheckoutViewModel request)
         {
+            //Guid userIdentity;
+            //if( !User.Identity.IsAuthenticated)
+            //{
+            //    userIdentity 
+            //}    
             var model = GetCheckoutViewModel();
-            var orderDetails = new List<OrderDetailViewModel>();
-            foreach(var item in model.CartItems)
+            var orderDetailsViewModel = new List<OrderDetailViewModel>();
+            foreach (var item in model.CartItems)
             {
-                orderDetails.Add(new OrderDetailViewModel()
+                orderDetailsViewModel.Add(new OrderDetailViewModel()
                 {
                     ProductId = item.ProductId,
                     Quantity = item.Quantity
@@ -48,11 +64,57 @@ namespace WebMyPham.WebApp.Controllers
                 Name = request.CheckoutModel.Name,
                 Email = request.CheckoutModel.Email,
                 PhoneNumber = request.CheckoutModel.PhoneNumber,
-                OrderDetails = orderDetails
+                OrderDetails = orderDetailsViewModel
             };
+
+            //This is a place to parse OrderDetails from CartItems.
+            var orderDetails = new List<OrderDetail>();
+            foreach (var item in model.CartItems)
+            {
+                orderDetails.Add(new OrderDetail()
+                {
+                    ProductId = item.ProductId,
+                    Quantity = item.Quantity,
+                    Price = item.Price,
+                });
+            }
+            //Create a new orders
+            var order = new Order()
+            {
+                ShipAddress = request.CheckoutModel.Address,
+                ShipName = request.CheckoutModel.Name,
+                ShipEmail = request.CheckoutModel.Email,
+                ShipPhoneNumber = request.CheckoutModel.PhoneNumber,
+                OrderDetails = orderDetails,
+            };
+            System.Guid guid = System.Guid.Parse("F5A40472-54F3-4D9F-9671-08D8B3C68C70");
+           
+            order.UserID = guid;
+            var createOrder = await _dbContext.Orders.AddAsync(order);
+            if(createOrder.State == EntityState.Added)
+            {
+                await _dbContext.SaveChangesAsync();
+                HttpContext.Session.Clear();
+                TempData["SuccessMsg"] = "Mua hàng thành công!";
+                return View(model);
+
+            }
+
             //TODO: Add to API
-            TempData["SuccessMsg"] = "Mua hàng thành công!";
+            // return URI of the created resource.
+            // HttpClient client = new HttpClient();
+            // var department = newDepartment() { DepartmentName = "Test Department" };
+            // HttpContent content;
+
+
+
+            //    HttpResponseMessage response = await client.PostAsync("/api/Orders", content.CopyToAsync();
+
+
+            //response.EnsureSuccessStatusCode();
+             TempData["SuccessMsg"] = "Thất bại!";
             return View(model);
+
         }
 
         [HttpGet]

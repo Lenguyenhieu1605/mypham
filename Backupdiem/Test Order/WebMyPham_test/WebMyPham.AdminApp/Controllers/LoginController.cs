@@ -37,6 +37,7 @@ namespace WebMyPham.AdminApp.Controllers
             return View();
         }
 
+
         [HttpPost]
         public async Task<IActionResult> Index(LoginRequest request)
         {

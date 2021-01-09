@@ -70,3 +70,11 @@ D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Backupdiem\Test Order\WebMyPham_t
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.dll
 D:\nam4\TLCN-Xay-dung-website-ban-my-pham-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\bin\Debug\netstandard2.0\WebMyPham.Utilities.deps.json
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\bin\Debug\netstandard2.0\WebMyPham.Utilities.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\bin\Debug\netstandard2.0\WebMyPham.Utilities.pdb
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.AssemblyInfoInputs.cache
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.AssemblyInfo.cs
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.dll
+D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Backupdiem\Test Order\WebMyPham_test\WebMyPham.Ultilities\obj\Debug\netstandard2.0\WebMyPham.Utilities.pdb

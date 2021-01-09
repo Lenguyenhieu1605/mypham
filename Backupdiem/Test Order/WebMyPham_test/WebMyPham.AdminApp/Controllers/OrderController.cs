@@ -9,6 +9,7 @@ using WebMyPham.ApiIntegration;
 using WebMyPham.Data.EF;
 using WebMyPham.Data.Enums;
 using WebMyPham.ViewModels.Catalog.Orders;
+using WebMyPham.AdminApp.Models.ViewModel;
 
 namespace WebMyPham.AdminApp.Controllers
 {
@@ -97,14 +98,40 @@ namespace WebMyPham.AdminApp.Controllers
             //    , (orderD, product) => new { orderD, product }
 
 
-            //    ).Where(order => order.orderD.OrderId == Id).
-           // var orderDetails = _dbContext.ProductDetails.FromSqlRaw($"Select * from dbo.OrderDetails as a, dbo.ProductDetails as b where a.ProductId = b.ProductId and a.OrderId = {Id}").ToList();
+            //    ).Where(order => order.orderD.OrderId == Id).ToListAsync();
+               var orderDetails =  _dbContext.OrderDetailsViewModels.FromSqlRaw($"select OrderId, a.ProductId, Quantity, Price, b.Name from dbo.OrderDetails as a, dbo.ProductDetails as b where a.ProductId = b.ProductId  and a.OrderId = { Id}");
+            var orderDetailsViewModelList = new List<OrderDetailsViewModel>();
+            
+            foreach (var item in orderDetails.ToList())
+            {
+                orderDetailsViewModelList.Add(new OrderDetailsViewModel()
+                {
+                   
+                   OrderId =item.OrderId,
+                   ProductId = item.ProductId,
+                   Name = item.Name,
+                   Quantity = item.Quantity,
+                   Price = item.Price,
 
-            if (order == null)
+
+                });
+            }
+            var orderProductDetailsViewModel = new OrderProductDetailsViewModel()
+            {
+                Orders = order,
+                OrderDetailsViewModelLists = orderDetailsViewModelList,
+               
+            };
+            orderProductDetailsViewModel.TotalPrice = 0;
+            foreach (var item in orderDetailsViewModelList)
+            {
+                orderProductDetailsViewModel.TotalPrice += item.Price;
+            }    
+            if (orderProductDetailsViewModel == null)
             {
                 return NotFound();
             }
-            return View(order);
+            return View(orderProductDetailsViewModel);
         }
         //get edit
       

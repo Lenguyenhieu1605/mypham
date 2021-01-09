@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using WebMyPham.Data.Entities;
+using WebMyPham.Data.Enums;
 
 namespace WebMyPham.ViewModels.Catalog.Orders
 {

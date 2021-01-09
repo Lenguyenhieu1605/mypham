@@ -40,10 +40,10 @@ namespace WebMyPham.BackendApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
+
 
             services.AddDbContext<WebMyPhamDbContext>(options => //sd trực tiêp connect với sql 
-                options.UseSqlServer(Configuration.GetConnectionString(SystemConstants.MainConnectionString)));
+                options.UseSqlServer(Configuration.GetConnectionString("WebMyPhamDb")));
 
             services.AddIdentity<AppUser, AppRole>()
                 .AddEntityFrameworkStores<WebMyPhamDbContext>()

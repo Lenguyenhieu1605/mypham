@@ -2727,7 +2727,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "/D3jtX0+u5+6rS3RGvTMyICPpIuzBgqtUYLjK1aXLua0nWH4JpM1H/tRk1Uxs6Fo0fe22jyJaTpoXPSu0il8Ug==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -5956,7 +5956,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "xsnq6w3/S+NeYkUtxoCEDAn2Z+AkgvGLvJnslrTRte4jEU+fkR3DVG+s0sBmQYQ4c3r8949PaGg8AnRb9bBc2w==",
+      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
@@ -6078,23 +6078,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\hieun\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+      "projectUniqueName": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
       "projectName": "WebMyPham.Data",
-      "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\obj\\",
+      "projectPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\WebMyPham.Data.csproj",
+      "packagesPath": "C:\\Users\\hieun\\.nuget\\packages\\",
+      "outputPath": "D:\\TaiLieuHocTap\\Nam 4\\Diem\\TLCN-Xay-dung-website-ban-my-pham\\Backupdiem\\Test Order\\WebMyPham_test\\WebMyPham.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hieun\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

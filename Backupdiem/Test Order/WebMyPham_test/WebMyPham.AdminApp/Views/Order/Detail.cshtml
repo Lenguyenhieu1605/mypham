@@ -1,4 +1,4 @@
-﻿@model WebMyPham.Data.Entities.Order
+﻿@model WebMyPham.AdminApp.Models.ViewModel.OrderProductDetailsViewModel
 
 @{
     ViewData["Title"] = "Details";
@@ -13,37 +13,98 @@
         <div class="col-5">
             <dl class="row">
                 <dt class="col-sm-3">
-                   Mã số đơn hàng:
+                    Mã số đơn hàng:
                 </dt>
                 <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.Id)
+                    @Html.DisplayFor(model => model.Orders.Id)
                 </dd>
                 <dt class="col-sm-3">
-                    Price:
+                    Tên khách hàng:
                 </dt>
                 <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.OrderDate)
+                    @Html.DisplayFor(model => model.Orders.ShipName)
                 </dd>
                 <dt class="col-sm-3">
-                    Category Name:
+                    Địa chỉ giao hàng:
                 </dt>
                 <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.ShipAddress)
+                    @Html.DisplayFor(model => model.Orders.ShipAddress)
                 </dd>
                 <dt class="col-sm-3">
-                    Available:
+                    Số điện thoại:
                 </dt>
                 <dd class="col-sm-9">
-                    @Html.DisplayFor(model => model.ShipName)
+                    @Html.DisplayFor(model => model.Orders.ShipPhoneNumber)
                 </dd>
-
+                <dt class="col-sm-3">
+                    Địa chỉ emtail:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Orders.ShipEmail)
+                </dd>
+                <dt class="col-sm-3">
+                    Tổng số tiền:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.TotalPrice)
+                </dd>
+                <dt class="col-sm-3">
+                    Trạng thái:
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model =>model.Orders.Status)
+                </dd>
             </dl>
         </div>
+        <div class="table-responsive">
+            <table class="table table-bordered">
+
+                <thead>
+                    <tr class="table-info text-bold">
+                        <th>
+                            Mã sản phẩm
+                        </th>
+                        <th>
+                            Tên sản phẩm
+                        </th>
+                        <th>
+                            Số lượng:
+                        </th>
+                        <th>
+                           Giá tiền
+                        </th>
+
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.OrderDetailsViewModelLists)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ProductId)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Quantity)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+
+                          
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
         <div class="col-5">
- 
+
             <div>
                 <div class="float-right">
-                  
+
                     <a asp-action="Index" type="button" class="btn btn-danger">Back to List</a>
                 </div>
 

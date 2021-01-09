@@ -10,7 +10,7 @@ using WebMyPham.AdminApp.Models;
 
 namespace WebMyPham.AdminApp.Controllers
 {
-
+  
     public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;

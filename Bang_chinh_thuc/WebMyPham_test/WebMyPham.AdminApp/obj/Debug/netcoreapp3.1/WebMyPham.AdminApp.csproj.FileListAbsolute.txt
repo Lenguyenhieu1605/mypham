@@ -4936,3 +4936,6 @@ D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\We
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.dll
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.pdb
 D:\TaiLieuHocTap\Nam 4\Diem\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.AdminApp\obj\Debug\netcoreapp3.1\WebMyPham.AdminApp.genruntimeconfig.cache
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Han Tran\Documents\TLCN\TLCN-Xay-dung-website-ban-my-pham\Bang_chinh_thuc\WebMyPham_test\WebMyPham.AdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll

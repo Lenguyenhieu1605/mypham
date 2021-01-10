@@ -10,9 +10,11 @@ using WebMyPham.Data.EF;
 using WebMyPham.Data.Enums;
 using WebMyPham.ViewModels.Catalog.Orders;
 using WebMyPham.AdminApp.Models.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebMyPham.AdminApp.Controllers
 {
+    [Authorize(Roles ="admin,shipper")]
     public class OrderController : Controller
     {
         private readonly IOrderApiClient _orderApiClient;
@@ -49,8 +51,6 @@ namespace WebMyPham.AdminApp.Controllers
 
                     ShipPhoneNumber = item.ShipPhoneNumber,
                     Status = (int) item.Status,
-
-
 
                 });
             }

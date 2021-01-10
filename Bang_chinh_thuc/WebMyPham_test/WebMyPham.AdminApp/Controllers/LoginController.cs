@@ -13,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Logging;
 using Microsoft.IdentityModel.Tokens;
 using WebMyPham.ApiIntegration;
+using WebMyPham.Data.EF;
 using WebMyPham.Utilities.Constants;
 using WebMyPham.ViewModels.System.Users;
 
@@ -22,10 +23,12 @@ namespace WebMyPham.AdminApp.Controllers
     {
         private readonly IUserApiClient _userApiClient;
         private readonly IConfiguration _configuration;
+        private readonly WebMyPhamDbContext _webMyPhamDbContext;
 
-        public LoginController(IUserApiClient userApiClient,
+        public LoginController( WebMyPhamDbContext webMyPhamDbContext, IUserApiClient userApiClient,
             IConfiguration configuration)
         {
+            _webMyPhamDbContext = webMyPhamDbContext;
             _userApiClient = userApiClient;
             _configuration = configuration;
         }
@@ -65,6 +68,7 @@ namespace WebMyPham.AdminApp.Controllers
 
             return RedirectToAction("Index", "Home");
         }
+
 
         private ClaimsPrincipal ValidateToken(string jwtToken)
         {

@@ -10,7 +10,7 @@ using WebMyPham.AdminApp.Models;
 
 namespace WebMyPham.AdminApp.Controllers
 {
-  
+    [Authorize]
     public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;
@@ -23,7 +23,7 @@ namespace WebMyPham.AdminApp.Controllers
         public IActionResult Index()
         {
             var user = User.Identity.Name;
-
+            //var authenticate = User.
             return View();
         }
 

@@ -33,7 +33,7 @@ namespace WebMyPham.AdminApp
                 .AddCookie(options =>
                 {
                     options.LoginPath = "/Login/Index";
-                    options.AccessDeniedPath = "/User/Forbidden/";
+                    options.AccessDeniedPath = "/Home/Error";
                 });
 
             services.AddControllersWithViews()

@@ -19,7 +19,7 @@ using WebMyPham.ViewModels.System.Users;
 
 namespace WebMyPham.AdminApp.Controllers
 {
-    [Authorize]
+   
     public class UserController : BaseController
     {
         private readonly IUserApiClient _userApiClient;
@@ -34,6 +34,7 @@ namespace WebMyPham.AdminApp.Controllers
             _configuration = configuration;
             _roleApiClient = roleApiClient;
         }
+        [Authorize(Roles = "admin")]
         public async Task<IActionResult> Index(string keyword, int pageIndex = 1, int pageSize = 8)
         {
             var request = new GetUserPagingRequest()
@@ -51,7 +52,7 @@ namespace WebMyPham.AdminApp.Controllers
             }
             return View(data.ResultObj);
         }
-
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public async Task<IActionResult> Details(Guid id)
         {
@@ -59,12 +60,14 @@ namespace WebMyPham.AdminApp.Controllers
             return View(result.ResultObj);
         }
 
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
 
+        [Authorize(Roles = "admin")]
         [HttpPost]
         public async Task<IActionResult> Create(RegisterRequest request)
         {
@@ -84,6 +87,7 @@ namespace WebMyPham.AdminApp.Controllers
             return View(request); 
         }
 
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public async Task<IActionResult> Edit(Guid id)
         {
@@ -106,6 +110,7 @@ namespace WebMyPham.AdminApp.Controllers
             return RedirectToAction("Error", "Home");
         }
 
+        [Authorize(Roles = "admin")]
         [HttpPost]
         public async Task<IActionResult> Edit(UserUpdateRequest request)
         {
@@ -125,6 +130,7 @@ namespace WebMyPham.AdminApp.Controllers
             return View(request);
         }
 
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> Logout()
         {
@@ -135,7 +141,7 @@ namespace WebMyPham.AdminApp.Controllers
             return RedirectToAction("Index", "Login");
 
         }
-
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public IActionResult Delete(Guid id)
         {
@@ -144,7 +150,7 @@ namespace WebMyPham.AdminApp.Controllers
                 Id = id
             });
         }
-
+        [Authorize(Roles = "admin")]
         [HttpPost]
         public async Task<IActionResult> Delete(UserDeleteRequest request)
         {
@@ -163,6 +169,8 @@ namespace WebMyPham.AdminApp.Controllers
 
             return View(request);
         }
+
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public async Task<IActionResult> RoleAssign(Guid id)
         {
@@ -170,6 +178,7 @@ namespace WebMyPham.AdminApp.Controllers
             return View(roleAssignRequest);
         }
 
+        [Authorize(Roles = "admin")]
         [HttpPost]
         public async Task<IActionResult> RoleAssign(RoleAssignRequest request)
         {
@@ -190,6 +199,7 @@ namespace WebMyPham.AdminApp.Controllers
             return View(roleAssignRequest);
         }
 
+        [Authorize(Roles = "admin")]
         private async Task<RoleAssignRequest> GetRoleAssignRequest(Guid id)
         {
             var userObj = await _userApiClient.GetById(id);

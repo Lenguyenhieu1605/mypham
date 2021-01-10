@@ -781,19 +781,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Han Tran\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+      "projectUniqueName": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
       "projectName": "WebMyPham.Utilities",
-      "projectPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
-      "packagesPath": "C:\\Users\\Han Tran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Han Tran\\Documents\\TLCN\\TLCN-Xay-dung-website-ban-my-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\obj\\",
+      "projectPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\WebMyPham.Utilities.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\nam4\\TLCN-Xay-dung-website-ban-my-pham-pham\\Bang_chinh_thuc\\WebMyPham_test\\WebMyPham.Ultilities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Han Tran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -844,7 +848,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

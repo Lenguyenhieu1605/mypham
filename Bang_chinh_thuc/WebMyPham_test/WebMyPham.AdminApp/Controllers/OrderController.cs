@@ -14,7 +14,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace WebMyPham.AdminApp.Controllers
 {
-    [Authorize(Roles ="admin,shipper")]
+    [Authorize(Roles ="admin, shipper")]
     public class OrderController : Controller
     {
         private readonly IOrderApiClient _orderApiClient;
